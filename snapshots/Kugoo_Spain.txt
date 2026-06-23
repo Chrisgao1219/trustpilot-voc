@@ -1,0 +1,582 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e48]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Sports" [ref=e112]
+        - image
+      - listitem [level=1]
+        - link "Extreme Sports" [ref=e113]
+        - image
+      - listitem [level=1]
+        - link "Skate Shop" [ref=e114]
+        - image
+      - listitem [level=1]
+        - link "Kugoo Spain" [disabled, ref=e115]
+  - navigation
+    - button "Summary" [ref=e49]
+    - button "About" [ref=e50]
+    - button "Reviews" [ref=e51]
+    - link "Visit website" [ref=e52]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e53]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile July 2021 Kugoo Spain Reviews304 • TrustScore 1.5 out of 5 1.7 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Skate Shop Write a review Visit website" [ref=e54]
+      - image "Kugoo Spain logo"
+    - generic
+      - button "Claimed profile July 2021" [expanded=false, ref=e55]
+        - StaticText "Claimed profile"
+        - StaticText "July 2021"
+      - heading "Kugoo Spain Reviews304" [level=1, ref=e56]
+        - StaticText "Kugoo Spain"
+        - link "Reviews304" [ref=e116]
+          - StaticText "Reviews304"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 1.5 out of 5 1.7" [ref=e117]
+          - image "TrustScore 1.5 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e118]
+      - link "Skate Shop" [ref=e119]
+      - link "Write a review" [ref=e57]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e58]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e23]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Company details" [level=2, ref=e9]
+  - list
+    - listitem [level=1]
+      - link "Skate Shop" [ref=e59]
+    - listitem [level=1]
+      - link "Bicycle Store" [ref=e60]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e61]
+  - generic
+    - generic
+      - heading "About Kugoo Spain" [level=3, ref=e62]
+      - paragraph
+        - StaticText "Written by the company"
+      - generic
+        - paragraph
+          - StaticText "Distribuidor oficial para vehículos, accesorios y repuestos de la marca Kugoo en España. Scooters y bicicletas eléctricas perfectas para moverte por tu ciudad de manera limpia y segura."
+        - paragraph
+          - StaticText "Atención preventa y postventa a través de nuestro correo electrónico contacto@kugoo-spain.com. Envío a domicilio a través de servicio de mensajería en el menor tiempo posible. Servicio gratuito para toda la Península. Garantía oficial de dos años y envío desde España."
+        - paragraph
+          - StaticText "El vehículo eléctrico que mejor se adapta a tus necesidades Amplio catálogo de patinetes eléctricos, e-bikes, accesorios y repuestos. ¡Uso cómodo y seguro!"
+        - paragraph
+          - StaticText "Kugoo, marca líder en movilidad urbana."
+        - paragraph
+          - link "Ir a Kugoo Spain" [ref=e165]
+    - button "See more" [ref=e63]
+      - StaticText "See more"
+  - heading "Contact info" [level=2, ref=e10]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "Agrate Brianza (MB) Via Industrie 86, 20864, Italia, Italy"
+    - listitem [level=1]
+      - link "contacto@kugoo-spain.com" [ref=e64]
+    - listitem [level=1]
+      - link "kugoo-spain.com" [ref=e65]
+  - generic
+    - generic [ref=e24] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "1.7"
+      - heading "Bad" [level=3, ref=e66]
+      - image "TrustScore 1.5 out of 5"
+      - paragraph
+        - StaticText "304 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e25]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - paragraph
+      - StaticText "Hasn’t replied to negative reviews"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e26]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e11]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e27]
+  - button "SCROLL BACK" [disabled, ref=e12]
+  - button "SCROLL FORWARD" [ref=e13]
+  - generic
+    - link "Kukirin logo Kukirin kukirin.es TrustScore 3 out of 5 3 (77)" [ref=e67]
+      - image "Kukirin logo"
+      - heading "Kukirin" [level=3, ref=e120]
+      - paragraph
+        - StaticText "kukirin.es"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(77)"
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e68]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e121]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e69]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e122]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "myurbanscoot.com logo myurbanscoot.com myurbanscoot.com TrustScore 3.5 out of 5 3.5 (22)" [ref=e70]
+      - image "myurbanscoot.com logo"
+      - heading "myurbanscoot.com" [level=3, ref=e123]
+      - paragraph
+        - StaticText "myurbanscoot.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.5"
+      - paragraph
+        - StaticText "(22)"
+    - link "Cinehd logo Cinehd cinehd.app TrustScore 3.5 out of 5 3.3 (6)" [ref=e71]
+      - image "Cinehd logo"
+      - heading "Cinehd" [level=3, ref=e124]
+      - paragraph
+        - StaticText "cinehd.app"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.3"
+      - paragraph
+        - StaticText "(6)"
+    - link "Patinetestore logo Patinetestore patinetestore.com TrustScore 3 out of 5 2.8 (5)" [ref=e72]
+      - image "Patinetestore logo"
+      - heading "Patinetestore" [level=3, ref=e125]
+      - paragraph
+        - StaticText "patinetestore.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "2.8"
+      - paragraph
+        - StaticText "(5)"
+    - link "Roadbound logo Roadbound roadbound.es TrustScore 4.5 out of 5 4.4 (11)" [ref=e73]
+      - image "Roadbound logo"
+      - heading "Roadbound" [level=3, ref=e126]
+      - paragraph
+        - StaticText "roadbound.es"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.4"
+      - paragraph
+        - StaticText "(11)"
+    - link "audiobass.es Tienda Car Audio logo audiobass.es Tienda Car Audio audiobass.es TrustScore 4.5 out of 5 4.7 (32)" [ref=e74]
+      - image "audiobass.es Tienda Car Audio logo"
+      - heading "audiobass.es Tienda Car Audio" [level=3, ref=e127]
+      - paragraph
+        - StaticText "audiobass.es"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.7"
+      - paragraph
+        - StaticText "(32)"
+  - complementary
+    - StaticText "1.7"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e75]
+    - heading "All reviews" [level=2, ref=e76]
+    - paragraph
+      - StaticText "(304)"
+    - paragraph
+      - strong
+        - StaticText "8 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e77]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e78]
+    - LayoutTable
+      - LabelText "122 of 304 reviews" [ref=e128] clickable [cursor:pointer]
+        - checkbox "5-star 40%" [checked=false, ref=e176]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "40%"
+      - LabelText "26 of 304 reviews" [ref=e129] clickable [cursor:pointer]
+        - checkbox "4-star 8%" [checked=false, ref=e177]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "8%"
+      - LabelText "23 of 304 reviews" [ref=e130] clickable [cursor:pointer]
+        - checkbox "3-star 8%" [checked=false, ref=e178]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "8%"
+      - LabelText "12 of 304 reviews" [ref=e131] clickable [cursor:pointer]
+        - checkbox "2-star 4%" [checked=false, ref=e179]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "4%"
+      - LabelText "121 of 304 reviews" [ref=e132] clickable [cursor:pointer]
+        - checkbox "1-star 40%" [checked=false, ref=e180]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "40%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e79]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e80]
+  - generic
+    - generic
+      - generic [ref=e133] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e166]
+    - button "More filters" [ref=e28]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e29]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e30]
+    - checkbox "Customer communications" [checked=false, ref=e31]
+      - StaticText "Customer communications"
+    - checkbox "Warranty" [checked=false, ref=e32]
+      - StaticText "Warranty"
+  - separator
+  - generic
+    - article
+      - complementary "Info for Damien Seegers"
+        - link "Damien Seegers ES • 8 reviews" [ref=e134]
+          - StaticText "Damien Seegers"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "8"
+          - StaticText " reviews"
+      - time
+        - StaticText "Apr 9, 2024"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Lies on their website…" [ref=e167]
+            - heading "Lies on their website…" [level=2, ref=e181]
+          - paragraph
+          - StaticText "March 28, 2024"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e81]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e82]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e83]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Elena Suricova"
+        - button "Elena Suricova" [expanded=false, ref=e135]
+        - link "Elena Suricova ES • 1 review" [ref=e136]
+          - StaticText "Elena Suricova"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Sep 28, 2022"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "No confirmation, No tracking number. Silence. SCAM" [ref=e168]
+            - heading "No confirmation, No tracking number. Silence. SCAM" [level=2, ref=e182]
+          - paragraph
+          - StaticText "September 28, 2022"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e84]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e85]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e86]
+      - generic
+        - image
+        - image "Kugoo Spain logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Spain"
+        - time
+          - StaticText "Sep 28, 2022"
+        - paragraph
+          - StaticText "Buenas tardes Elena,"
+          - LineBreak "\n"
+          - StaticText "Le hemos respondido tanto por Facebook (con las dos cuentas con las que nos ha escrito) como al email. Usted hizo el pedido ayer día 27, todavía no tenemos el número de seguimiento porque el pedido tarda 24 horas en procesarse, esto ya se lo hemos explicado. Igualmente le hemos enviado su factura de compra para que sepa que todo está correcto y le enviaremos el seguimiento en cuanto esté disponible. Un saludo"
+    - article
+      - complementary "Info for Laura Azcutia"
+        - StaticText "LA"
+        - link "Laura Azcutia ES • 7 reviews" [ref=e137]
+          - StaticText "Laura Azcutia"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "7"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 15, 2021"
+      - generic
+        - image "Rated 3 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e169]
+          - StaticText "Verified"
+        - generic
+          - link "No info about tracking" [ref=e170]
+            - heading "No info about tracking" [level=2, ref=e183]
+          - paragraph
+          - StaticText "November 15, 2021"
+      - button "Useful" [ref=e87]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e88]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e89]
+      - generic
+        - image
+        - image "Kugoo Spain logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Spain"
+        - time
+          - StaticText "Nov 15, 2021"
+        - paragraph
+          - StaticText "Buenos días Laura,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "El número de seguimiento se envía por correo cuando se actualiza en el sistema o puede comprobarlo en su perfil si se ha registrado en nuestra web. También, puede mandar un email para solicitarlo. El tiempo de envío de los repuestos aparece en la ficha de producto de cada uno."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Un saludo"
+    - article
+      - complementary "Info for Dionys Villalobos"
+        - StaticText "DV"
+        - link "Dionys Villalobos ES • 1 review" [ref=e138]
+          - StaticText "Dionys Villalobos"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 10, 2021"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Compramos un scooter que vino con…" [ref=e171]
+            - heading "Compramos un scooter que vino con…" [level=2, ref=e184]
+          - paragraph
+          - StaticText "November 10, 2021"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e90]
+        - StaticText "Useful"
+      - generic [ref=e91] clickable [cursor:pointer, onclick]
+        - StaticText "2"
+      - button "Share" [expanded=false, ref=e92]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e93]
+      - generic
+        - image
+        - image "Kugoo Spain logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Spain"
+        - time
+          - StaticText "Nov 10, 2021"
+        - paragraph
+          - StaticText "Buenos días,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Según hemos podido comprobar, cuando usted informó que tenía una incidencia su patinete este tenia 28 km y no 12 como indica en su comentario"
+          - LineBreak "\n"
+          - StaticText "Como le explicó nuestra compañera podíamos hacer uso de su garantía, y ha sido enviado a nuestro nuevo Servicio Técnico de España. Su patinete lleva aproximadamente 10 días ( no 3 semanas como indica) en el Servicio Técnico y está en proceso de reparación, como también le ha explicado mi compañera."
+          - LineBreak "\n"
+          - StaticText "Desde que usted nos informó de su incidencia, nos hemos comunicado con usted en 24 ocasiones."
+          - LineBreak "\n"
+          - StaticText "En cuanto el Servicio Técnico nos informe de que su producto ha sido reparado de forma satisfactoria, se lo enviaremos sin coste alguno para usted."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Un saludo"
+    - article
+      - complementary "Info for Mark Watkins"
+        - StaticText "MW"
+        - link "Mark Watkins ES • 1 review" [ref=e139]
+          - StaticText "Mark Watkins"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 29, 2021"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e172]
+          - StaticText "Verified"
+        - generic
+          - link "Fantastic scooter quick delivery this…" [ref=e173]
+            - heading "Fantastic scooter quick delivery this…" [level=2, ref=e185]
+          - paragraph
+          - StaticText "August 29, 2021"
+      - button "Useful" [ref=e94]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e95]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e96]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for evgeny shumakov"
+        - StaticText "ES"
+        - link "evgeny shumakov ES • 1 review" [ref=e140]
+          - StaticText "evgeny shumakov"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 18, 2021"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e174]
+          - StaticText "Verified"
+        - generic
+          - link "Good job" [ref=e175]
+            - heading "Good job" [level=2, ref=e186]
+      - button "Useful" [ref=e97]
+      - button "Share" [expanded=false, ref=e98]
+      - button "Flag this review" [ref=e99]
+    - link "Show reviews in all languages. (304 reviews)" [ref=e33]
+    - navigation "Pagination" [ref=e34]
+      - link "Previous page" [disabled, ref=e100]
+      - link "Page number 1" [ref=e101]
+      - link "Next page" [disabled, ref=e102]
+  - heading "The TrustpilotExperience" [level=3, ref=e14]
+  - heading "We're open to all" [level=4, ref=e15]
+    - button "We're open to all" [expanded=false, ref=e35]
+  - heading "We champion verified reviews" [level=4, ref=e16]
+    - button "We champion verified reviews" [expanded=false, ref=e36]
+  - heading "We fight fake reviews" [level=4, ref=e17]
+    - button "We fight fake reviews" [expanded=false, ref=e37]
+  - heading "We show the latest reviews" [level=4, ref=e18]
+    - button "We show the latest reviews" [expanded=false, ref=e38]
+  - heading "We encourage constructive feedback" [level=4, ref=e19]
+    - button "We encourage constructive feedback" [expanded=false, ref=e39]
+  - heading "We verify reviewers" [level=4, ref=e20]
+    - button "We verify reviewers" [expanded=false, ref=e40]
+  - heading "We advocate against bias" [level=4, ref=e21]
+    - button "We advocate against bias" [expanded=false, ref=e41]
+  - link "Take a closer look" [ref=e22]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e42]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e43]
+    - DescriptionList
+      - term "United States" [ref=e103] clickable [cursor:pointer]
+        - button "United States" [ref=e141]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e44]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e142]
+      - listitem [level=1]
+        - link "Jobs" [ref=e143]
+      - listitem [level=1]
+        - link "Contact" [ref=e144]
+      - listitem [level=1]
+        - link "Blog" [ref=e145]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e146]
+      - listitem [level=1]
+        - link "Press" [ref=e147]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e148]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e149]
+  - generic
+    - heading "Community" [level=3, ref=e45]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e150]
+      - listitem [level=1]
+        - link "Help Center" [ref=e151]
+      - listitem [level=1]
+        - link "Log in" [ref=e152]
+      - listitem [level=1]
+        - link "Sign up" [ref=e153]
+  - generic
+    - heading "Businesses" [level=3, ref=e46]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e154]
+      - listitem [level=1]
+        - link "Products" [ref=e155]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e156]
+      - listitem [level=1]
+        - link "Business Login" [ref=e157]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e158]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e159]
+  - generic
+    - heading "Follow us on" [level=3, ref=e47]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e160]
+      - listitem [level=1]
+        - link "X" [ref=e161]
+      - listitem [level=1]
+        - link "Instagram" [ref=e162]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e163]
+      - listitem [level=1]
+        - link "Youtube" [ref=e164]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e104]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e105]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e106]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e107]
+    - listitem [level=1]
+      - link "System status" [ref=e108]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e109]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e110]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e111]

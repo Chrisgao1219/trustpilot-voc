@@ -1,0 +1,910 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e66]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation
+    - button "Summary" [ref=e67]
+    - button "About" [ref=e68]
+    - button "Reviews" [ref=e69]
+    - link "Visit website" [ref=e70]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e71]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile March 2026 KuKirin Polska Reviews41 • TrustScore 5 out of 5 4.8 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Write a review Visit website" [ref=e72]
+      - image "KuKirin Polska logo"
+    - generic
+      - button "Claimed profile March 2026" [expanded=false, ref=e73]
+        - StaticText "Claimed profile"
+        - StaticText "March 2026"
+      - heading "KuKirin Polska Reviews41" [level=1, ref=e74]
+        - StaticText "KuKirin Polska"
+        - link "Reviews41" [ref=e173]
+          - StaticText "Reviews41"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 5 out of 5 4.8" [ref=e174]
+          - image "TrustScore 5 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e175]
+      - link "Write a review" [ref=e75]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e76]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e7]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e25]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "See what reviewers are saying" [level=2, ref=e8]
+  - button "Tooltip" [ref=e9]
+  - article
+    - complementary "Info for Piotr dacko"
+      - StaticText "PD"
+      - link "Piotr dacko 7 hours ago" [ref=e77]
+        - StaticText "Piotr dacko"
+        - time
+          - StaticText "7 hours ago"
+    - image "Rated 5 out of 5 stars"
+    - button "Redirected" [expanded=false, ref=e78]
+      - StaticText "Redirected"
+    - button "Nie ma lepszej hulajnogi niż kukirin M4 Max jeździ płynnie stabilnie. Można łatwo dojechać do pracy lub do szkoły jest to bardzo dobry pomysł na urodziny dla dziecka" [ref=e26]
+      - paragraph
+        - StaticText "Nie ma lepszej hulajnogi niż kukirin M4 Max jeździ płynnie stabilnie. Można łatwo dojechać do pracy lub do szkoły jest to bardzo dobry pomysł na urodziny dla dziecka"
+    - button "Useful" [ref=e27]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e28]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e29]
+  - article
+    - complementary "Info for Bożena"
+      - StaticText "BO"
+      - link "Bożena May 22, 2026" [ref=e79]
+        - StaticText "Bożena"
+        - time
+          - StaticText "May 22, 2026"
+    - image "Rated 5 out of 5 stars"
+    - button "Serdecznie polecam, bardzo szybka wysyłka,pełen profesjonalizm w obsłudze klienta,sprawy z reklamacjami są rozpatrywane na bieżąco,odpowiedzi kilka godz po zgłoszeniu problemu. Brawo Kukirin, tak trz... See more" [ref=e30]
+      - paragraph
+        - StaticText "Serdecznie polecam, bardzo szybka wysyłka,pełen profesjonalizm w obsłudze klienta,sprawy z reklamacjami są rozpatrywane na bieżąco,odpowiedzi kilka godz po zgłoszeniu problemu. Brawo Kukirin, tak trz... See more"
+    - button "Useful" [ref=e31]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e32]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e33]
+  - article
+    - complementary "Info for Ivan Yemsenko"
+      - link "Ivan Yemsenko 4 days ago" [ref=e80]
+        - StaticText "Ivan Yemsenko"
+        - time
+          - StaticText "4 days ago"
+    - image "Rated 5 out of 5 stars"
+    - button "Redirected" [expanded=false, ref=e81]
+      - StaticText "Redirected"
+    - button "Bardzo dobre hulajnogi, kiedy przyjechała była bardzo ładna, wszystko w zestawie tak jak powinno być, polecam." [ref=e34]
+      - paragraph
+        - StaticText "Bardzo dobre hulajnogi, kiedy przyjechała była bardzo ładna, wszystko w zestawie tak jak powinno być, polecam."
+    - button "Useful" [ref=e35]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e36]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e37]
+  - article
+    - complementary "Info for Szymon"
+      - StaticText "SZ"
+      - link "Szymon 3 days ago" [ref=e82]
+        - StaticText "Szymon"
+        - time
+          - StaticText "3 days ago"
+    - image "Rated 5 out of 5 stars"
+    - button "Redirected" [expanded=false, ref=e83]
+      - StaticText "Redirected"
+    - button "Ta firma dba o bezpieczeństwo innych osób hulajnogi zą wyposzażone w amortyzatory przód i tył" [ref=e38]
+      - paragraph
+        - StaticText "Ta firma dba o bezpieczeństwo innych osób hulajnogi zą wyposzażone w amortyzatory przód i tył"
+    - button "Useful" [ref=e39]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e40]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e41]
+  - button "See all 41 reviews" [ref=e10]
+    - StaticText "See all "
+    - StaticText "41"
+    - StaticText " reviews"
+  - heading "Company details" [level=2, ref=e11]
+  - generic
+    - heading "Written by the company" [level=3, ref=e42]
+    - paragraph
+      - StaticText "Jesteśmy oficjalnym sklepem internetowym KuKirin Polska. Naszą misją jest zapewnianie bezpiecznych i niezawodnych środków transportu oraz oferowanie wysokiej jakości produktów i usług."
+  - heading "Contact info" [level=2, ref=e12]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "China"
+    - listitem [level=1]
+      - link "support@kukirin-scooter.pl" [ref=e84]
+    - listitem [level=1]
+      - link "www.kukirin-scooter.pl" [ref=e85]
+  - generic
+    - generic [ref=e43] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "4.8"
+      - heading "Excellent" [level=3, ref=e86]
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "41 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e44]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e45]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e13]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e46]
+  - button "SCROLL BACK" [disabled, ref=e14]
+  - button "SCROLL FORWARD" [ref=e15]
+  - generic
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e87]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e176]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kukirin Escooters logo Kukirin Escooters www.kukirin-escooters.com TrustScore 4.5 out of 5 4.5 (148)" [ref=e88]
+      - image "Kukirin Escooters logo"
+      - heading "Kukirin Escooters" [level=3, ref=e177]
+      - paragraph
+        - StaticText "www.kukirin-escooters.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.5"
+      - paragraph
+        - StaticText "(148)"
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e89]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e178]
+      - paragraph
+        - StaticText "kukirin-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(413)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e90]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e179]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "Kukirin Eu logo Kukirin Eu kukirin-eu.com TrustScore 3.5 out of 5 3.6 (1)" [ref=e91]
+      - image "Kukirin Eu logo"
+      - heading "Kukirin Eu" [level=3, ref=e180]
+      - paragraph
+        - StaticText "kukirin-eu.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.6"
+      - paragraph
+        - StaticText "(1)"
+    - link "Kukirin logo Kukirin kukirin.eu TrustScore 4 out of 5 3.8 (2)" [ref=e92]
+      - image "Kukirin logo"
+      - heading "Kukirin" [level=3, ref=e181]
+      - paragraph
+        - StaticText "kukirin.eu"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3.8"
+      - paragraph
+        - StaticText "(2)"
+    - link "Kukirin Danmark ApS logo Kukirin Danmark ApS spelling.dk TrustScore 5 out of 5 4.8 (75)" [ref=e93]
+      - image "Kukirin Danmark ApS logo"
+      - heading "Kukirin Danmark ApS" [level=3, ref=e182]
+      - paragraph
+        - StaticText "spelling.dk"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(75)"
+  - complementary
+    - StaticText "4.8"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e94]
+    - heading "All reviews" [level=2, ref=e95]
+    - paragraph
+      - StaticText "(41)"
+    - paragraph
+      - strong
+        - StaticText "40 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e96]
+      - StaticText "Write a review"
+    - LayoutTable
+      - LabelText "41 of 41 reviews" [ref=e183] clickable [cursor:pointer]
+        - checkbox "5-star 100%" [checked=false, ref=e270]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "100%"
+      - LabelText "0 of 41 reviews"
+        - checkbox "4-star 0%" [checked=false, disabled, ref=e271]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 41 reviews"
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e272]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 41 reviews"
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e273]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 41 reviews"
+        - checkbox "1-star 0%" [checked=false, disabled, ref=e274]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "0%"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e97]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e98]
+  - generic
+    - generic
+      - generic [ref=e184] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e230]
+    - button "More filters" [ref=e47]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e48]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e49]
+    - checkbox "Recommendation" [checked=false, ref=e50]
+      - StaticText "Recommendation"
+  - separator
+  - generic
+    - article
+      - complementary "Info for Piotr dacko"
+        - StaticText "PD"
+        - link "Piotr dacko PL • 1 review" [ref=e185]
+          - StaticText "Piotr dacko"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "7 hours ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e231]
+          - StaticText "Redirected"
+        - generic
+          - link "Nie ma lepszej hulajnogi niż kukirin M4…" [ref=e232]
+            - heading "Nie ma lepszej hulajnogi niż kukirin M4…" [level=2, ref=e275]
+          - paragraph
+          - StaticText "June 10, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e99]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e100]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e101]
+    - article
+      - complementary "Info for Pioter Mega"
+        - StaticText "PM"
+        - link "Pioter Mega PL • 1 review" [ref=e186]
+          - StaticText "Pioter Mega"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "A day ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e233]
+          - StaticText "Redirected"
+        - generic
+          - link "Hulajnoga kukirin G2" [ref=e234]
+            - heading "Hulajnoga kukirin G2" [level=2, ref=e276]
+          - paragraph
+          - StaticText "June 20, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e102]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e103]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e104]
+    - article
+      - complementary "Info for Szymon"
+        - StaticText "SZ"
+        - link "Szymon PL • 1 review" [ref=e187]
+          - StaticText "Szymon"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "3 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e235]
+          - StaticText "Redirected"
+        - generic
+          - link "Ta firma dba o bezpieczeństwo innych…" [ref=e236]
+            - heading "Ta firma dba o bezpieczeństwo innych…" [level=2, ref=e277]
+          - paragraph
+          - StaticText "June 10, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e105]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e106]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e107]
+    - article
+      - complementary "Info for Szymon Kroma"
+        - link "Szymon Kroma PL • 1 review" [ref=e188]
+          - StaticText "Szymon Kroma"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "4 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e237]
+          - StaticText "Redirected"
+        - generic
+          - link "KuKirin to dobra firma produkująca…" [ref=e238]
+            - heading "KuKirin to dobra firma produkująca…" [level=2, ref=e278]
+          - paragraph
+          - StaticText "June 9, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e108]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e109]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e110]
+    - article
+      - complementary "Info for Ivan Yemsenko"
+        - link "Ivan Yemsenko PL • 1 review" [ref=e189]
+          - StaticText "Ivan Yemsenko"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "4 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e239]
+          - StaticText "Redirected"
+        - generic
+          - link "Bardzo dobre hulajnogi" [ref=e240]
+            - heading "Bardzo dobre hulajnogi" [level=2, ref=e279]
+          - paragraph
+          - StaticText "June 10, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e111]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e112]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e113]
+    - article
+      - complementary "Info for Ivan Kniaziev"
+        - link "Ivan Kniaziev PL • 1 review" [ref=e190]
+          - StaticText "Ivan Kniaziev"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "5 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e241]
+          - StaticText "Redirected"
+        - generic
+          - link "Dobre hulajnogi" [ref=e242]
+            - heading "Dobre hulajnogi" [level=2, ref=e280]
+          - StaticText "June 9, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e114]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e115]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e116]
+    - article
+      - complementary "Info for Tymon Oltarzewski"
+        - StaticText "TO"
+        - link "Tymon Oltarzewski PL • 1 review" [ref=e191]
+          - StaticText "Tymon Oltarzewski"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "6 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e243]
+          - StaticText "Redirected"
+        - generic
+          - link "Mega superr" [ref=e244]
+            - heading "Mega superr" [level=2, ref=e281]
+          - StaticText "June 8, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e117]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e118]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e119]
+    - article
+      - complementary "Info for Zuzanna"
+        - StaticText "ZU"
+        - link "Zuzanna PL • 2 reviews" [ref=e192]
+          - StaticText "Zuzanna"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "6 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e245]
+          - StaticText "Redirected"
+        - generic
+          - link "Chulajnoha zuber" [ref=e246]
+            - heading "Chulajnoha zuber" [level=2, ref=e282]
+          - paragraph
+          - StaticText "June 8, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e120]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e121]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e122]
+    - article
+      - complementary "Info for Michał Gorząch"
+        - StaticText "MG"
+        - link "Michał Gorząch PL • 1 review" [ref=e193]
+          - StaticText "Michał Gorząch"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "6 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e247]
+          - StaticText "Redirected"
+        - generic
+          - link "Najlepsze chulajnogi i szybka…" [ref=e248]
+            - heading "Najlepsze chulajnogi i szybka…" [level=2, ref=e283]
+          - paragraph
+          - StaticText "June 8, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e123]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e124]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e125]
+    - article
+      - complementary "Info for holoperr"
+        - link "holoperr PL • 1 review" [ref=e194]
+          - StaticText "holoperr"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "7 days ago"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e249]
+          - StaticText "Redirected"
+        - generic
+          - link "Super sprzęt" [ref=e250]
+            - heading "Super sprzęt" [level=2, ref=e284]
+          - paragraph
+          - StaticText "August 8, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e126]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e127]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e128]
+    - generic
+      - button "Dismiss" [ref=e129]
+      - paragraph
+        - StaticText "See if a website is trustworthy without leaving the page"
+      - link "Get Chrome extension" [ref=e195]
+        - StaticText "Get Chrome extension"
+    - article
+      - complementary "Info for Elowinll Minecraft"
+        - link "Elowinll Minecraft PL • 2 reviews" [ref=e196]
+          - StaticText "Elowinll Minecraft"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jun 6, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e251]
+          - StaticText "Redirected"
+        - generic
+          - link "dobrze sie jeździ do szkoły" [ref=e252]
+            - heading "dobrze sie jeździ do szkoły" [level=2, ref=e285]
+          - StaticText "December 6, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e130]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e131]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e132]
+    - button "See 1 more review by Elowinll" [ref=e51]
+      - StaticText "See 1 more review by Elowinll"
+    - article
+      - complementary "Info for huan padre"
+        - link "huan padre PL • 1 review" [ref=e197]
+          - StaticText "huan padre"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 6, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e253]
+          - StaticText "Redirected"
+        - generic
+          - link "Hulajniga bardzi dobrze wykonana i…" [ref=e254]
+            - heading "Hulajniga bardzi dobrze wykonana i…" [level=2, ref=e286]
+          - paragraph
+          - StaticText "June 5, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e133]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e134]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e135]
+    - article
+      - complementary "Info for Jan"
+        - link "Jan PL • 2 reviews" [ref=e198]
+          - StaticText "Jan"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jun 5, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Njlepsza hulajnoga na jakiej jeździłem…" [ref=e255]
+            - heading "Njlepsza hulajnoga na jakiej jeździłem…" [level=2, ref=e287]
+          - paragraph
+          - StaticText "June 5, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e136]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e137]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e138]
+    - article
+      - complementary "Info for Maksymilian Polinski"
+        - link "Maksymilian Polinski PL • 1 review" [ref=e199]
+          - StaticText "Maksymilian Polinski"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 3, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e256]
+          - StaticText "Redirected"
+        - generic
+          - link "fajna i polecam" [ref=e257]
+            - heading "fajna i polecam" [level=2, ref=e288]
+          - StaticText "June 2, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e139]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e140]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e141]
+    - article
+      - complementary "Info for Kacper Urbanek"
+        - link "Kacper Urbanek PL • 1 review" [ref=e200]
+          - StaticText "Kacper Urbanek"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 2, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e258]
+          - StaticText "Redirected"
+        - generic
+          - link "Gshs" [ref=e259]
+            - heading "Gshs" [level=2, ref=e289]
+          - paragraph
+          - StaticText "June 1, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e142]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e143]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e144]
+    - article
+      - complementary "Info for Mikolaj Stefański"
+        - link "Mikolaj Stefański PL • 1 review" [ref=e201]
+          - StaticText "Mikolaj Stefański"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 30, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e260]
+          - StaticText "Redirected"
+        - generic
+          - link "Bardzo fajny sklep kup8ilem g2 i sie…" [ref=e261]
+            - heading "Bardzo fajny sklep kup8ilem g2 i sie…" [level=2, ref=e290]
+          - paragraph
+          - StaticText "May 29, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e145]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e146]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e147]
+    - article
+      - complementary "Info for Wiktor Dzioboń"
+        - link "Wiktor Dzioboń PL • 1 review" [ref=e202]
+          - StaticText "Wiktor Dzioboń"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 29, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e262]
+          - StaticText "Redirected"
+        - generic
+          - link "Bardzo szybka hulajnoga jak za 2100" [ref=e263]
+            - heading "Bardzo szybka hulajnoga jak za 2100" [level=2, ref=e291]
+          - StaticText "May 24, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e148]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e149]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e150]
+    - article
+      - complementary "Info for Aleksander"
+        - StaticText "AL"
+        - link "Aleksander PL • 1 review" [ref=e203]
+          - StaticText "Aleksander"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 28, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e264]
+          - StaticText "Redirected"
+        - generic
+          - link "Najlepsze chulajnogi ever jak nimi jadę…" [ref=e265]
+            - heading "Najlepsze chulajnogi ever jak nimi jadę…" [level=2, ref=e292]
+          - paragraph
+          - StaticText "May 27, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e151]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e152]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e153]
+    - article
+      - complementary "Info for Adam Michałkiewicz"
+        - link "Adam Michałkiewicz PL • 1 review" [ref=e204]
+          - StaticText "Adam Michałkiewicz"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 27, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e266]
+          - StaticText "Redirected"
+        - generic
+          - link "Świetna hulajnoga i udany zakup" [ref=e267]
+            - heading "Świetna hulajnoga i udany zakup" [level=2, ref=e293]
+          - paragraph
+          - StaticText "October 17, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e154]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e155]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e156]
+    - article
+      - complementary "Info for Olek Janiszewski"
+        - link "Olek Janiszewski PL • 1 review" [ref=e205]
+          - StaticText "Olek Janiszewski"
+          - StaticText "PL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 24, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Redirected" [expanded=false, ref=e268]
+          - StaticText "Redirected"
+        - generic
+          - link "Hulajngoa bardzo fajna polecam na…" [ref=e269]
+            - heading "Hulajngoa bardzo fajna polecam na…" [level=2, ref=e294]
+      - button "Useful" [ref=e157]
+      - button "Share" [expanded=false, ref=e158]
+      - button "Flag this review" [ref=e159]
+    - navigation "Pagination" [ref=e52]
+      - link "Previous page" [disabled, ref=e160]
+      - link "Page number 1" [ref=e161]
+      - link "Page number 2" [ref=e162]
+      - link "Next page" [ref=e163]
+  - heading "The TrustpilotExperience" [level=3, ref=e16]
+  - heading "We're open to all" [level=4, ref=e17]
+    - button "We're open to all" [expanded=false, ref=e53]
+  - heading "We champion verified reviews" [level=4, ref=e18]
+    - button "We champion verified reviews" [expanded=false, ref=e54]
+  - heading "We fight fake reviews" [level=4, ref=e19]
+    - button "We fight fake reviews" [expanded=false, ref=e55]
+  - heading "We show the latest reviews" [level=4, ref=e20]
+    - button "We show the latest reviews" [expanded=false, ref=e56]
+  - heading "We encourage constructive feedback" [level=4, ref=e21]
+    - button "We encourage constructive feedback" [expanded=false, ref=e57]
+  - heading "We verify reviewers" [level=4, ref=e22]
+    - button "We verify reviewers" [expanded=false, ref=e58]
+  - heading "We advocate against bias" [level=4, ref=e23]
+    - button "We advocate against bias" [expanded=false, ref=e59]
+  - link "Take a closer look" [ref=e24]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e60]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e61]
+    - DescriptionList
+      - term "United States" [ref=e164] clickable [cursor:pointer]
+        - button "United States" [ref=e206]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e62]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e207]
+      - listitem [level=1]
+        - link "Jobs" [ref=e208]
+      - listitem [level=1]
+        - link "Contact" [ref=e209]
+      - listitem [level=1]
+        - link "Blog" [ref=e210]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e211]
+      - listitem [level=1]
+        - link "Press" [ref=e212]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e213]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e214]
+  - generic
+    - heading "Community" [level=3, ref=e63]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e215]
+      - listitem [level=1]
+        - link "Help Center" [ref=e216]
+      - listitem [level=1]
+        - link "Log in" [ref=e217]
+      - listitem [level=1]
+        - link "Sign up" [ref=e218]
+  - generic
+    - heading "Businesses" [level=3, ref=e64]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e219]
+      - listitem [level=1]
+        - link "Products" [ref=e220]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e221]
+      - listitem [level=1]
+        - link "Business Login" [ref=e222]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e223]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e224]
+  - generic
+    - heading "Follow us on" [level=3, ref=e65]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e225]
+      - listitem [level=1]
+        - link "X" [ref=e226]
+      - listitem [level=1]
+        - link "Instagram" [ref=e227]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e228]
+      - listitem [level=1]
+        - link "Youtube" [ref=e229]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e165]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e166]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e167]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e168]
+    - listitem [level=1]
+      - link "System status" [ref=e169]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e170]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e171]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e172]

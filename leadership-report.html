@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trustpilot + Reddit VOC 工具功能汇报</title>
+  <style>
+    :root{
+      --bg:#f6f7fb;
+      --ink:#172033;
+      --muted:#667085;
+      --line:#d9dee8;
+      --panel:#ffffff;
+      --green:#0f9f6e;
+      --blue:#2357d9;
+      --amber:#b7791f;
+      --red:#c2413a;
+      --violet:#6d45c6;
+      --shadow:0 18px 50px rgba(23,32,51,.10);
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--ink);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;
+    }
+    .page{
+      width:1600px;
+      height:1000px;
+      padding:54px 64px 48px;
+      background:
+        linear-gradient(180deg,#fbfcff 0%,#f3f5fa 100%);
+      position:relative;
+      overflow:hidden;
+    }
+    .top{
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-start;
+      gap:40px;
+      margin-bottom:34px;
+    }
+    h1{
+      margin:0 0 14px;
+      font-size:54px;
+      line-height:1.05;
+      letter-spacing:0;
+      font-weight:780;
+    }
+    .subtitle{
+      font-size:21px;
+      color:var(--muted);
+      line-height:1.55;
+      max-width:930px;
+    }
+    .status{
+      min-width:310px;
+      background:var(--panel);
+      border:1px solid var(--line);
+      box-shadow:var(--shadow);
+      border-radius:8px;
+      padding:22px 24px;
+    }
+    .status .label{
+      font-size:14px;
+      color:var(--muted);
+      margin-bottom:8px;
+      font-weight:650;
+    }
+    .status .ok{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      font-size:30px;
+      font-weight:780;
+      color:var(--green);
+      margin-bottom:10px;
+    }
+    .dot{
+      width:13px;height:13px;border-radius:50%;background:var(--green);
+      box-shadow:0 0 0 6px rgba(15,159,110,.12);
+      display:inline-block;
+    }
+    .url{
+      font-size:15px;
+      color:var(--blue);
+      word-break:break-all;
+      font-weight:650;
+    }
+    .metrics{
+      display:grid;
+      grid-template-columns:repeat(6,1fr);
+      gap:14px;
+      margin-bottom:26px;
+    }
+    .metric{
+      background:var(--panel);
+      border:1px solid var(--line);
+      border-radius:8px;
+      padding:18px 18px 16px;
+      box-shadow:0 10px 28px rgba(23,32,51,.06);
+      min-height:126px;
+    }
+    .metric .num{
+      font-size:39px;
+      line-height:1;
+      font-weight:800;
+      margin-bottom:12px;
+      font-variant-numeric:tabular-nums;
+    }
+    .metric .name{
+      font-size:15px;
+      font-weight:720;
+      margin-bottom:7px;
+    }
+    .metric .desc{
+      font-size:13px;
+      color:var(--muted);
+      line-height:1.35;
+    }
+    .m-green .num{color:var(--green)}
+    .m-blue .num{color:var(--blue)}
+    .m-amber .num{color:var(--amber)}
+    .m-red .num{color:var(--red)}
+    .m-violet .num{color:var(--violet)}
+    .grid{
+      display:grid;
+      grid-template-columns:1.08fr .92fr;
+      gap:24px;
+      height:544px;
+    }
+    .panel{
+      background:var(--panel);
+      border:1px solid var(--line);
+      border-radius:8px;
+      box-shadow:var(--shadow);
+      padding:26px;
+      overflow:hidden;
+    }
+    .panel h2{
+      margin:0 0 20px;
+      font-size:24px;
+      line-height:1.25;
+      font-weight:780;
+    }
+    .capabilities{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:14px;
+    }
+    .cap{
+      border:1px solid var(--line);
+      border-radius:8px;
+      padding:17px 18px;
+      min-height:132px;
+      background:#fbfcff;
+    }
+    .cap-head{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      margin-bottom:10px;
+    }
+    .icon{
+      width:30px;height:30px;border-radius:7px;
+      display:grid;place-items:center;
+      color:#fff;font-weight:800;font-size:15px;
+    }
+    .i-blue{background:var(--blue)}
+    .i-green{background:var(--green)}
+    .i-violet{background:var(--violet)}
+    .i-amber{background:var(--amber)}
+    .cap-title{
+      font-size:17px;
+      font-weight:760;
+    }
+    .cap p{
+      margin:0;
+      font-size:14px;
+      color:var(--muted);
+      line-height:1.55;
+    }
+    .flow{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      margin-top:22px;
+      padding-top:20px;
+      border-top:1px solid var(--line);
+    }
+    .step{
+      flex:1;
+      background:#f5f7fb;
+      border:1px solid var(--line);
+      border-radius:8px;
+      padding:14px 12px;
+      text-align:center;
+      min-height:76px;
+    }
+    .step strong{
+      display:block;
+      font-size:15px;
+      margin-bottom:7px;
+    }
+    .step span{
+      font-size:12px;
+      color:var(--muted);
+      line-height:1.3;
+      display:block;
+    }
+    .arrow{
+      color:#98a2b3;
+      font-size:22px;
+      font-weight:700;
+    }
+    .right-stack{
+      display:grid;
+      grid-template-rows:1fr 1fr;
+      gap:24px;
+      height:100%;
+    }
+    .coverage-row{
+      display:grid;
+      grid-template-columns:1fr auto;
+      gap:16px;
+      align-items:center;
+      margin-bottom:15px;
+    }
+    .coverage-row:last-child{margin-bottom:0}
+    .bar-wrap{
+      height:13px;
+      background:#eef1f6;
+      border-radius:999px;
+      overflow:hidden;
+      border:1px solid #e0e5ee;
+    }
+    .bar{
+      height:100%;
+      border-radius:999px;
+    }
+    .b-fresh{width:71.2%;background:var(--green)}
+    .b-history{width:10.2%;background:var(--amber)}
+    .b-missing{width:18.6%;background:#a3acba}
+    .cov-label{
+      display:flex;
+      justify-content:space-between;
+      font-size:14px;
+      margin-bottom:7px;
+      color:var(--muted);
+    }
+    .cov-label strong{color:var(--ink)}
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      min-width:58px;
+      height:30px;
+      padding:0 10px;
+      border-radius:999px;
+      font-size:14px;
+      font-weight:760;
+      background:#f5f7fb;
+      color:var(--ink);
+      border:1px solid var(--line);
+    }
+    .checks{
+      display:grid;
+      gap:12px;
+    }
+    .check{
+      display:flex;
+      align-items:flex-start;
+      gap:11px;
+      font-size:15px;
+      color:var(--muted);
+      line-height:1.45;
+    }
+    .check b{color:var(--ink)}
+    .tick{
+      flex:0 0 22px;
+      width:22px;height:22px;
+      border-radius:50%;
+      background:rgba(15,159,110,.12);
+      color:var(--green);
+      display:grid;
+      place-items:center;
+      font-weight:900;
+      font-size:14px;
+      margin-top:1px;
+    }
+    .footer{
+      position:absolute;
+      left:64px;
+      right:64px;
+      bottom:30px;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      color:var(--muted);
+      font-size:14px;
+      border-top:1px solid var(--line);
+      padding-top:16px;
+    }
+    .footer strong{color:var(--ink)}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="top">
+      <div>
+        <h1>Trustpilot + Reddit VOC<br>竞品情报工具</h1>
+        <div class="subtitle">把售前社区声音、售后 Trustpilot 口碑、AI 洞察和自动化部署整合成一个可公开访问的管理看板，支持品牌风险监控、竞品对标和增长决策。</div>
+      </div>
+      <div class="status">
+        <div class="label">当前上线状态</div>
+        <div class="ok"><span class="dot"></span>可公开使用</div>
+        <div class="url">https://trustpilot-voc.vercel.app</div>
+      </div>
+    </section>
+
+    <section class="metrics">
+      <div class="metric m-blue">
+        <div class="num">59</div>
+        <div class="name">配置品牌</div>
+        <div class="desc">电动滑板 + 电动滑板车两条赛道</div>
+      </div>
+      <div class="metric m-green">
+        <div class="num">42</div>
+        <div class="name">本轮新鲜数据</div>
+        <div class="desc">已完成 Trustpilot 抓取并注入</div>
+      </div>
+      <div class="metric m-amber">
+        <div class="num">6</div>
+        <div class="name">历史可用数据</div>
+        <div class="desc">本轮失败但保留历史记录</div>
+      </div>
+      <div class="metric">
+        <div class="num">11</div>
+        <div class="name">暂无数据品牌</div>
+        <div class="desc">页面明确标记，避免误读</div>
+      </div>
+      <div class="metric m-violet">
+        <div class="num">621</div>
+        <div class="name">Reddit 帖子</div>
+        <div class="desc">售前需求与社区声音样本</div>
+      </div>
+      <div class="metric m-red">
+        <div class="num">15</div>
+        <div class="name">AI 洞察</div>
+        <div class="desc">需求热度、痛点强度、内容机会</div>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="panel">
+        <h2>核心功能模块</h2>
+        <div class="capabilities">
+          <div class="cap">
+            <div class="cap-head"><div class="icon i-blue">T</div><div class="cap-title">Trustpilot 售后口碑</div></div>
+            <p>自动抓取品牌评分、评论量、星级结构、回复率、风险标签和历史趋势，支持竞品横向比较。</p>
+          </div>
+          <div class="cap">
+            <div class="cap-head"><div class="icon i-green">R</div><div class="cap-title">Reddit 售前需求</div></div>
+            <p>覆盖品牌、生活方式、问题和价值观社区，识别推荐、吐槽、求助、对比等高价值帖子。</p>
+          </div>
+          <div class="cap">
+            <div class="cap-head"><div class="icon i-violet">AI</div><div class="cap-title">深度洞察与动作建议</div></div>
+            <p>LLM 失败时自动回退关键词分析，输出需求排名、业务动作、痛点矩阵和优化优先级。</p>
+          </div>
+          <div class="cap">
+            <div class="cap-head"><div class="icon i-amber">D</div><div class="cap-title">Dashboard 与部署</div></div>
+            <p>数据注入静态看板，Vercel 自动上线，API 返回 59 个品牌，适合团队共享与定期复盘。</p>
+          </div>
+        </div>
+
+        <div class="flow">
+          <div class="step"><strong>Reddit</strong><span>JSON API + HTML 兜底</span></div>
+          <div class="arrow">›</div>
+          <div class="step"><strong>Trustpilot</strong><span>浏览器抓取与历史保留</span></div>
+          <div class="arrow">›</div>
+          <div class="step"><strong>Analysis</strong><span>LLM + 关键词 fallback</span></div>
+          <div class="arrow">›</div>
+          <div class="step"><strong>Dashboard</strong><span>自动注入并部署</span></div>
+        </div>
+      </div>
+
+      <div class="right-stack">
+        <div class="panel">
+          <h2>数据覆盖透明度</h2>
+          <div class="coverage-row">
+            <div>
+              <div class="cov-label"><strong>Fresh 数据</strong><span>42 / 59</span></div>
+              <div class="bar-wrap"><div class="bar b-fresh"></div></div>
+            </div>
+            <span class="pill">71%</span>
+          </div>
+          <div class="coverage-row">
+            <div>
+              <div class="cov-label"><strong>历史数据</strong><span>6 / 59</span></div>
+              <div class="bar-wrap"><div class="bar b-history"></div></div>
+            </div>
+            <span class="pill">10%</span>
+          </div>
+          <div class="coverage-row">
+            <div>
+              <div class="cov-label"><strong>暂无数据</strong><span>11 / 59</span></div>
+              <div class="bar-wrap"><div class="bar b-missing"></div></div>
+            </div>
+            <span class="pill">19%</span>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>公开前已完成的可靠性优化</h2>
+          <div class="checks">
+            <div class="check"><span class="tick">✓</span><span><b>失败不消失：</b>抓取失败品牌保留历史数据或展示无数据占位。</span></div>
+            <div class="check"><span class="tick">✓</span><span><b>API 已同步：</b>/api/health 返回 59 个品牌和正确 focus。</span></div>
+            <div class="check"><span class="tick">✓</span><span><b>Reddit 有兜底：</b>失败时用最新非空数据，不阻断主流程。</span></div>
+            <div class="check"><span class="tick">✓</span><span><b>安全处理：</b>.env 忽略，D block 转义，本地 Vercel token 已清理。</span></div>
+            <div class="check"><span class="tick">✓</span><span><b>定时任务友好：</b>部署失败会返回失败码，方便后续报警。</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="footer">
+      <div><strong>用途：</strong>品牌口碑监控 · 竞品风险预警 · 内容选题 · 产品与客服优化</div>
+      <div>数据日期：2026-06-18 · 线上生产环境已验证</div>
+    </div>
+  </main>
+</body>
+</html>

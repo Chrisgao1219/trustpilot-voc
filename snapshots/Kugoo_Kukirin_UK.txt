@@ -1,0 +1,976 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e67]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Sports" [ref=e177]
+        - image
+      - listitem [level=1]
+        - link "Outdoor & Winter Sports" [ref=e178]
+        - image
+      - listitem [level=1]
+        - link "Outdoor Sports Store" [ref=e179]
+        - image
+      - listitem [level=1]
+        - link "Kugoo Kukirin Uk" [disabled, ref=e180]
+  - navigation
+    - button "Summary" [ref=e68]
+    - button "About" [ref=e69]
+    - button "Reviews" [ref=e70]
+    - link "Visit website" [ref=e71]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e72]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile November 2024 Kugoo Kukirin Uk Reviews26 • TrustScore 4 out of 5 4.0 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Outdoor Sports Store Write a review Visit website" [ref=e73]
+      - image "Kugoo Kukirin Uk logo"
+    - generic
+      - button "Claimed profile November 2024" [expanded=false, ref=e74]
+        - StaticText "Claimed profile"
+        - StaticText "November 2024"
+      - heading "Kugoo Kukirin Uk Reviews26" [level=1, ref=e75]
+        - StaticText "Kugoo Kukirin Uk"
+        - link "Reviews26" [ref=e181]
+          - StaticText "Reviews26"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 4 out of 5 4.0" [ref=e182]
+          - image "TrustScore 4 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e183]
+      - link "Outdoor Sports Store" [ref=e184]
+      - link "Write a review" [ref=e76]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e77]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e26]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "See what reviewers are saying" [level=2, ref=e9]
+  - button "Tooltip" [ref=e10]
+  - article
+    - complementary "Info for Shazia Shaheen"
+      - StaticText "SS"
+      - link "Shazia Shaheen Apr 18, 2026" [ref=e78]
+        - StaticText "Shazia Shaheen"
+        - time
+          - StaticText "Apr 18, 2026"
+    - image "Rated 3 out of 5 stars"
+    - button "Verified" [expanded=false, ref=e79]
+      - StaticText "Verified"
+    - button "I was promised a free helmet and bag they haven’t replied since after I received just my e scooter" [ref=e27]
+      - paragraph
+        - StaticText "I was promised a free helmet and bag they haven’t replied since after I received just my e scooter"
+    - button "Useful" [ref=e28]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e29]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e30]
+  - article
+    - complementary "Info for Alan"
+      - StaticText "AL"
+      - link "Alan Sep 3, 2025" [ref=e80]
+        - StaticText "Alan"
+        - time
+          - StaticText "Sep 3, 2025"
+    - image "Rated 1 out of 5 stars"
+    - button "Yes, great scooters, but abysmal customer service. It’s like chatting to a bot. I have an S1 Pro. It needs a new battery. Simple!! Customer service sent me incorrect replacement details and then went... See more" [ref=e31]
+      - paragraph
+        - StaticText "Yes, great scooters, but abysmal customer service. It’s like chatting to a bot. I have an S1 Pro. It needs a new battery. Simple!! Customer service sent me incorrect replacement details and then went... See more"
+    - button "Useful" [ref=e32]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e33]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e34]
+  - article
+    - complementary "Info for Steven smith"
+      - StaticText "SS"
+      - link "Steven smith Nov 17, 2024" [ref=e81]
+        - StaticText "Steven smith"
+        - time
+          - StaticText "Nov 17, 2024"
+    - image "Rated 5 out of 5 stars"
+    - button "I have now owned 3 kugookirin scooters. 2 M4 pro models & my latest G2 Max. Which I have enjoyed almost 5000 miles between them. They have been 96% excellent purchases. Parts and working on these... See more Company replied" [ref=e35]
+      - paragraph
+        - StaticText "I have now owned 3 kugookirin scooters. 2 M4 pro models & my latest G2 Max. Which I have enjoyed almost 5000 miles between them. They have been 96% excellent purchases. Parts and working on these... See more"
+      - image
+      - paragraph
+        - StaticText "Company replied"
+    - button "Useful" [ref=e36]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e37]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e38]
+  - article
+    - complementary "Info for Slawomir Blasik"
+      - link "Slawomir Blasik Jan 11, 2025" [ref=e82]
+        - StaticText "Slawomir Blasik"
+        - time
+          - StaticText "Jan 11, 2025"
+    - image "Rated 5 out of 5 stars"
+    - button "I purchased second time scooter for a giff (G2 Max and now G3 Pro) and like previously I wasn't disappointed. Very well done. Solid construction and of course speed ect. The main thing is astonishing... See more" [ref=e39]
+      - paragraph
+        - StaticText "I purchased second time scooter for a giff (G2 Max and now G3 Pro) and like previously I wasn't disappointed. Very well done. Solid construction and of course speed ect. The main thing is astonishing... See more"
+    - button "Useful" [ref=e40]
+      - StaticText "Useful"
+    - button "Share" [expanded=false, ref=e41]
+      - StaticText "Share"
+    - button "Flag this review" [ref=e42]
+  - button "See all 26 reviews" [ref=e11]
+    - StaticText "See all "
+    - StaticText "26"
+    - StaticText " reviews"
+  - heading "Company details" [level=2, ref=e12]
+  - list
+    - listitem [level=1]
+      - link "Outdoor Sports Store" [ref=e83]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e84]
+  - generic
+    - heading "Written by the company" [level=3, ref=e43]
+    - paragraph
+      - StaticText "OfficialKugooKukirin UK is an authorized dealer of the Kukirin Factory, specializing in the production of a range of smart e-scooter models and various smart products. Our offerings cater to users from beginners to professionals. We currently ship from our UK warehouse, utilizing DPD UK as our partner courier. OfficialKugooKukirin UK is solely responsible fo"
+      - StaticText "… "
+      - button "See more" [ref=e85]
+  - heading "Contact info" [level=2, ref=e13]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "22-23 Danes Road, RM7 0HL, Romford, United Kingdom"
+    - listitem [level=1]
+      - link "01708837033" [ref=e86]
+    - listitem [level=1]
+      - link "service@officialkugookukirin.co.uk" [ref=e87]
+    - listitem [level=1]
+      - link "officialkugookukirin.co.uk" [ref=e88]
+  - generic
+    - generic [ref=e44] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "4.0"
+      - heading "Great" [level=3, ref=e89]
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "26 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e45]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - paragraph
+      - StaticText "Hasn’t replied to negative reviews"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e46]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e14]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e47]
+  - button "SCROLL BACK" [disabled, ref=e15]
+  - button "SCROLL FORWARD" [ref=e16]
+  - generic
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e90]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e185]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e91]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e186]
+      - paragraph
+        - StaticText "kukirin-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(413)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e92]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e187]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "Kukirin Escooters logo Kukirin Escooters www.kukirin-escooters.com TrustScore 4.5 out of 5 4.5 (148)" [ref=e93]
+      - image "Kukirin Escooters logo"
+      - heading "Kukirin Escooters" [level=3, ref=e188]
+      - paragraph
+        - StaticText "www.kukirin-escooters.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.5"
+      - paragraph
+        - StaticText "(148)"
+    - link "LOCO Scooters logo LOCO Scooters locoscooters.ie TrustScore 4.5 out of 5 4.7 (3K)" [ref=e94]
+      - image "LOCO Scooters logo"
+      - heading "LOCO Scooters" [level=3, ref=e189]
+      - paragraph
+        - StaticText "locoscooters.ie"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.7"
+      - paragraph
+        - StaticText "(3K)"
+    - link "Kugooscooter Uk logo Kugooscooter Uk kugooscooter-uk.com TrustScore 3.5 out of 5 3.7 (1)" [ref=e95]
+      - image "Kugooscooter Uk logo"
+      - heading "Kugooscooter Uk" [level=3, ref=e190]
+      - paragraph
+        - StaticText "kugooscooter-uk.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1)"
+    - link "Kugooescooter logo Kugooescooter kugooescooter.com TrustScore 3.5 out of 5 3.4 (7)" [ref=e96]
+      - image "Kugooescooter logo"
+      - heading "Kugooescooter" [level=3, ref=e191]
+      - paragraph
+        - StaticText "kugooescooter.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.4"
+      - paragraph
+        - StaticText "(7)"
+    - link "Rapid Scooter Master logo Rapid Scooter Master rapidscooter.co.uk TrustScore 4.5 out of 5 4.7 (445)" [ref=e97]
+      - image "Rapid Scooter Master logo"
+      - heading "Rapid Scooter Master" [level=3, ref=e192]
+      - paragraph
+        - StaticText "rapidscooter.co.uk"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.7"
+      - paragraph
+        - StaticText "(445)"
+  - complementary
+    - StaticText "4.0"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e98]
+    - heading "All reviews" [level=2, ref=e99]
+    - paragraph
+      - StaticText "(26)"
+    - paragraph
+      - strong
+        - StaticText "5 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e100]
+      - StaticText "Write a review"
+    - LayoutTable
+      - LabelText "22 of 26 reviews" [ref=e193] clickable [cursor:pointer]
+        - checkbox "5-star 84%" [checked=false, ref=e269]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "84%"
+      - LabelText "0 of 26 reviews"
+        - checkbox "4-star 0%" [checked=false, disabled, ref=e270]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "2 of 26 reviews" [ref=e194] clickable [cursor:pointer]
+        - checkbox "3-star 8%" [checked=false, ref=e271]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "8%"
+      - LabelText "0 of 26 reviews"
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e272]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "2 of 26 reviews" [ref=e195] clickable [cursor:pointer]
+        - checkbox "1-star 8%" [checked=false, ref=e273]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "8%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e101]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e102]
+  - generic
+    - generic
+      - generic [ref=e196] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e242]
+    - button "More filters" [ref=e48]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e49]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e50]
+    - checkbox "Delivery service" [checked=false, ref=e51]
+      - StaticText "Delivery service"
+  - separator
+  - generic
+    - article
+      - complementary "Info for Shazia Shaheen"
+        - StaticText "SS"
+        - link "Shazia Shaheen GB • 1 review" [ref=e197]
+          - StaticText "Shazia Shaheen"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Apr 18, 2026"
+      - generic
+        - image "Rated 3 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e243]
+          - StaticText "Verified"
+        - generic
+          - link "I was promised a free helmet and bag…" [ref=e244]
+            - heading "I was promised a free helmet and bag…" [level=2, ref=e274]
+          - paragraph
+          - StaticText "April 14, 2026"
+      - button "Useful" [ref=e103]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e104]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e105]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Scott Aitken"
+        - StaticText "SA"
+        - link "Scott Aitken GB • 2 reviews" [ref=e198]
+          - StaticText "Scott Aitken"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 6, 2025"
+      - generic
+        - image "Rated 3 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e245]
+          - StaticText "Verified"
+        - generic
+          - link "It would be 5 stars if I had received…" [ref=e246]
+            - heading "It would be 5 stars if I had received…" [level=2, ref=e275]
+          - paragraph
+          - StaticText "October 22, 2025"
+      - button "Useful" [ref=e106]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e107]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e108]
+      - generic
+        - image
+        - image "Kugoo Kukirin Uk logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Kukirin Uk"
+        - time
+          - StaticText "Jan 3, 2026"
+        - paragraph
+          - StaticText "Hello Scott, am glad we have issued free bag for you and you have confirmed it has been received by you. Thanks"
+    - article
+      - complementary "Info for Alan"
+        - StaticText "AL"
+        - link "Alan FR • 17 reviews" [ref=e199]
+          - StaticText "Alan"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "17"
+          - StaticText " reviews"
+      - time
+        - StaticText "Sep 3, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "All that glitters is not gold!" [ref=e247]
+            - heading "All that glitters is not gold!" [level=2, ref=e276]
+          - paragraph
+          - StaticText "September 3, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e109]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e110]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e111]
+    - article
+      - complementary "Info for Natalie"
+        - StaticText "NA"
+        - link "Natalie GB • 2 reviews" [ref=e200]
+          - StaticText "Natalie"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jul 13, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I purchased the G2 Master for my sons…" [ref=e248]
+            - heading "I purchased the G2 Master for my sons…" [level=2, ref=e277]
+          - paragraph
+          - StaticText "June 26, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e112]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e113]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e114]
+    - article
+      - complementary "Info for Danielle "
+        - StaticText "DA"
+        - link "Danielle GB • 7 reviews" [ref=e201]
+          - StaticText "Danielle"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "7"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jul 4, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Bought this for my son" [ref=e249]
+            - heading "Bought this for my son" [level=2, ref=e278]
+          - paragraph
+          - StaticText "July 3, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e115]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e116]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e117]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Christopher Alcock"
+        - StaticText "CA"
+        - link "Christopher Alcock GB • 7 reviews" [ref=e202]
+          - StaticText "Christopher Alcock"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "7"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jun 28, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Fast shipping no problems at all…" [ref=e250]
+            - heading "Fast shipping no problems at all…" [level=2, ref=e279]
+          - paragraph
+          - StaticText "May 27, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e118]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e119]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e120]
+    - article
+      - complementary "Info for ANDREW JONES"
+        - StaticText "AJ"
+        - link "ANDREW JONES GB • 2 reviews" [ref=e203]
+          - StaticText "ANDREW JONES"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jun 28, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Next day delivery was a no brainer also…" [ref=e251]
+            - heading "Next day delivery was a no brainer also…" [level=2, ref=e280]
+          - paragraph
+          - StaticText "June 17, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e121]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e122]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e123]
+    - button "See 1 more review by ANDREW" [ref=e52]
+      - StaticText "See 1 more review by ANDREW"
+    - article
+      - complementary "Info for Grzegorz Pachuta"
+        - link "Grzegorz Pachuta GB • 1 review" [ref=e204]
+          - StaticText "Grzegorz Pachuta"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 27, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Extremely fast delivery" [ref=e252]
+            - heading "Extremely fast delivery" [level=2, ref=e281]
+          - paragraph
+          - StaticText "June 5, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e124]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e125]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e126]
+    - article
+      - complementary "Info for Lewis Scaccia"
+        - StaticText "LS"
+        - link "Lewis Scaccia GB • 1 review" [ref=e205]
+          - StaticText "Lewis Scaccia"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 31, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Good quality for the price" [ref=e253]
+            - heading "Good quality for the price" [level=2, ref=e282]
+          - paragraph
+          - StaticText "May 31, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e127]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e128]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e129]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for André Azevedo"
+        - StaticText "AA"
+        - link "André Azevedo GB • 1 review" [ref=e206]
+          - StaticText "André Azevedo"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Mar 1, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "denying a refund" [ref=e254]
+            - heading "denying a refund" [level=2, ref=e283]
+          - paragraph
+          - StaticText "February 28, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e130]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e131]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e132]
+    - generic
+      - button "Dismiss" [ref=e133]
+      - paragraph
+        - StaticText "See if a website is trustworthy without leaving the page"
+      - link "Get Chrome extension" [ref=e207]
+        - StaticText "Get Chrome extension"
+    - article
+      - complementary "Info for Andre Azevedo"
+        - StaticText "AA"
+        - link "Andre Azevedo GB • 2 reviews" [ref=e208]
+          - StaticText "Andre Azevedo"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Feb 15, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Very fast!!" [ref=e255]
+            - heading "Very fast!!" [level=2, ref=e284]
+          - paragraph
+          - StaticText "February 15, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e134]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e135]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e136]
+    - article
+      - complementary "Info for tracey walton"
+        - StaticText "TW"
+        - link "tracey walton GB • 13 reviews" [ref=e209]
+          - StaticText "tracey walton"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "13"
+          - StaticText " reviews"
+      - time
+        - StaticText "Feb 15, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e256]
+          - StaticText "Verified"
+        - generic
+          - link "Super quick delivery" [ref=e257]
+            - heading "Super quick delivery" [level=2, ref=e285]
+          - paragraph
+          - StaticText "February 12, 2025"
+      - button "Useful" [ref=e137]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e138]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e139]
+    - article
+      - complementary "Info for Joel Towell"
+        - StaticText "JT"
+        - link "Joel Towell GB • 1 review" [ref=e210]
+          - StaticText "Joel Towell"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Feb 8, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e258]
+          - StaticText "Verified"
+        - generic
+          - link "The scooter came fast in good condition…" [ref=e259]
+            - heading "The scooter came fast in good condition…" [level=2, ref=e286]
+          - paragraph
+          - StaticText "January 20, 2025"
+      - button "Useful" [ref=e140]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e141]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e142]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for James"
+        - StaticText "JA"
+        - link "James GB • 6 reviews" [ref=e211]
+          - StaticText "James"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "6"
+          - StaticText " reviews"
+      - time
+        - StaticText "Feb 3, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e260]
+          - StaticText "Verified"
+        - generic
+          - link "G2 Max" [ref=e261]
+            - heading "G2 Max" [level=2, ref=e287]
+          - paragraph
+          - StaticText "January 31, 2025"
+      - button "Useful" [ref=e143]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e144]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e145]
+    - article
+      - complementary "Info for Slawomir Blasik"
+        - link "Slawomir Blasik GB • 1 review" [ref=e212]
+          - StaticText "Slawomir Blasik"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jan 11, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I purchased second time scooter for a…" [ref=e262]
+            - heading "I purchased second time scooter for a…" [level=2, ref=e288]
+          - paragraph
+          - StaticText "January 9, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e146]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e147]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e148]
+    - article
+      - complementary "Info for Alexandru Motofelia"
+        - StaticText "AM"
+        - link "Alexandru Motofelia GB • 1 review" [ref=e213]
+          - StaticText "Alexandru Motofelia"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jan 8, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e263]
+          - StaticText "Verified"
+        - generic
+          - link "Good service,gives what you want exact!" [ref=e264]
+            - heading "Good service,gives what you want exact!" [level=2, ref=e289]
+          - StaticText "January 4, 2025"
+      - button "Useful" [ref=e149]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e150]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e151]
+    - article
+      - complementary "Info for Harry Long"
+        - StaticText "HL"
+        - link "Harry Long GB • 1 review" [ref=e214]
+          - StaticText "Harry Long"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jan 7, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "G2 Pro" [ref=e265]
+            - heading "G2 Pro" [level=2, ref=e290]
+          - paragraph
+          - StaticText "January 7, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e152]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e153]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e154]
+      - generic
+        - image
+        - image "Kugoo Kukirin Uk logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Kukirin Uk"
+        - time
+          - StaticText "Jan 8, 2025"
+        - paragraph
+          - StaticText "Thanks for the review"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Jodie"
+        - StaticText "JO"
+        - link "Jodie GB • 5 reviews" [ref=e215]
+          - StaticText "Jodie"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "5"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jan 4, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Easy to order and quick delivery." [ref=e266]
+            - heading "Easy to order and quick delivery." [level=2, ref=e291]
+          - paragraph
+          - StaticText "December 30, 2024"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e155]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e156]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e157]
+      - generic
+        - image
+        - image "Kugoo Kukirin Uk logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Kukirin Uk"
+        - time
+          - StaticText "Jan 8, 2025"
+        - paragraph
+          - StaticText "Thanks for the review, we really appreciate your review."
+    - article
+      - complementary "Info for Vaughan"
+        - StaticText "VA"
+        - link "Vaughan GB • 3 reviews" [ref=e216]
+          - StaticText "Vaughan"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "3"
+          - StaticText " reviews"
+      - time
+        - StaticText "Dec 31, 2024"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Scooter is brilliant" [ref=e267]
+            - heading "Scooter is brilliant" [level=2, ref=e292]
+          - paragraph
+          - StaticText "December 24, 2024"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e158]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e159]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e160]
+      - generic
+        - image
+        - image "Kugoo Kukirin Uk logo"
+        - paragraph
+          - StaticText "Reply from Kugoo Kukirin Uk"
+        - time
+          - StaticText "Jan 8, 2025"
+        - paragraph
+          - StaticText "Thanks for the review, we will keep doing better ."
+          - LineBreak "\n"
+    - article
+      - complementary "Info for Samuel A. Mr Beautiful"
+        - link "Samuel A. Mr Beautiful GB • 3 reviews" [ref=e217]
+          - StaticText "Samuel A. Mr Beautiful"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "3"
+          - StaticText " reviews"
+      - time
+        - StaticText "Dec 31, 2024"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "great scooter" [ref=e268]
+            - heading "great scooter" [level=2, ref=e293]
+      - button "Useful" [ref=e161]
+      - button "Share" [expanded=false, ref=e162]
+      - button "Flag this review" [ref=e163]
+    - navigation "Pagination" [ref=e53]
+      - link "Previous page" [disabled, ref=e164]
+      - link "Page number 1" [ref=e165]
+      - link "Page number 2" [ref=e166]
+      - link "Next page" [ref=e167]
+  - heading "The TrustpilotExperience" [level=3, ref=e17]
+  - heading "We're open to all" [level=4, ref=e18]
+    - button "We're open to all" [expanded=false, ref=e54]
+  - heading "We champion verified reviews" [level=4, ref=e19]
+    - button "We champion verified reviews" [expanded=false, ref=e55]
+  - heading "We fight fake reviews" [level=4, ref=e20]
+    - button "We fight fake reviews" [expanded=false, ref=e56]
+  - heading "We show the latest reviews" [level=4, ref=e21]
+    - button "We show the latest reviews" [expanded=false, ref=e57]
+  - heading "We encourage constructive feedback" [level=4, ref=e22]
+    - button "We encourage constructive feedback" [expanded=false, ref=e58]
+  - heading "We verify reviewers" [level=4, ref=e23]
+    - button "We verify reviewers" [expanded=false, ref=e59]
+  - heading "We advocate against bias" [level=4, ref=e24]
+    - button "We advocate against bias" [expanded=false, ref=e60]
+  - link "Take a closer look" [ref=e25]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e61]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e62]
+    - DescriptionList
+      - term "United States" [ref=e168] clickable [cursor:pointer]
+        - button "United States" [ref=e218]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e63]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e219]
+      - listitem [level=1]
+        - link "Jobs" [ref=e220]
+      - listitem [level=1]
+        - link "Contact" [ref=e221]
+      - listitem [level=1]
+        - link "Blog" [ref=e222]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e223]
+      - listitem [level=1]
+        - link "Press" [ref=e224]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e225]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e226]
+  - generic
+    - heading "Community" [level=3, ref=e64]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e227]
+      - listitem [level=1]
+        - link "Help Center" [ref=e228]
+      - listitem [level=1]
+        - link "Log in" [ref=e229]
+      - listitem [level=1]
+        - link "Sign up" [ref=e230]
+  - generic
+    - heading "Businesses" [level=3, ref=e65]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e231]
+      - listitem [level=1]
+        - link "Products" [ref=e232]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e233]
+      - listitem [level=1]
+        - link "Business Login" [ref=e234]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e235]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e236]
+  - generic
+    - heading "Follow us on" [level=3, ref=e66]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e237]
+      - listitem [level=1]
+        - link "X" [ref=e238]
+      - listitem [level=1]
+        - link "Instagram" [ref=e239]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e240]
+      - listitem [level=1]
+        - link "Youtube" [ref=e241]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e169]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e170]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e171]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e172]
+    - listitem [level=1]
+      - link "System status" [ref=e173]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e174]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e175]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e176]

@@ -1,0 +1,258 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e41]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Vehicles & Transportation" [ref=e84]
+      - listitem [level=1]
+        - link "Motorcycle & Powersports" [ref=e85]
+      - listitem [level=1]
+        - link "Motor Scooter Dealer" [ref=e86]
+      - listitem [level=1]
+        - link "Kukirinro" [disabled, ref=e87]
+  - navigation
+    - button "Summary" [ref=e42]
+    - button "About" [ref=e43]
+    - button "Reviews" [ref=e44]
+    - link "Visit website" [ref=e45]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e46]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile March 2026 Kukirinro Reviews0 • TrustScore 0 out of 5 0.0 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Motor Scooter Dealer Write a review Visit website" [ref=e47]
+      - image "Kukirinro logo"
+    - generic
+      - button "Claimed profile March 2026" [expanded=false, ref=e48]
+      - heading "Kukirinro Reviews0" [level=1, ref=e49]
+        - link "Reviews0" [ref=e88]
+      - generic
+        - link "TrustScore 0 out of 5 0.0" [ref=e89]
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e90]
+      - link "Motor Scooter Dealer" [ref=e91]
+      - link "Write a review" [ref=e50]
+      - link "Visit website" [ref=e51]
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e23]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Company details" [level=2, ref=e9]
+  - list
+    - listitem [level=1]
+      - link "Motor Scooter Dealer" [ref=e52]
+    - listitem [level=1]
+      - link "Bike Accessories Store" [ref=e53]
+    - listitem [level=1]
+      - link "Electric Motor Repair Shop" [ref=e54]
+    - listitem [level=1]
+      - link "Motorcycle Equipment and Accessories Store" [ref=e55]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e56]
+  - generic
+    - heading "Written by the company" [level=3, ref=e24]
+    - paragraph
+      - StaticText "🛴 Kukirin România – Magazinul tău oficial pentru trotinete electrice Suntem reprezentanții oficiali ai brandului Kukirin în România și vă oferim trotinete electrice de calitate, împreună cu accesorii originale. De ce să alegi Kukirin România? - Autenticitate garantată – Toate produsele noastre sunt 100% originale, direct de la producător - Siguranță și "
+      - StaticText "… "
+      - button "See more" [ref=e57]
+  - heading "Contact info" [level=2, ref=e10]
+  - list
+    - listitem [level=1]
+      - paragraph
+    - listitem [level=1]
+      - link "+8613414093847" [ref=e58]
+    - listitem [level=1]
+      - link "service@kukirinro.com" [ref=e59]
+    - listitem [level=1]
+      - link "kukirinro.com" [ref=e60]
+  - heading "People also looked at Tooltip" [level=2, ref=e11]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e25]
+  - button "SCROLL BACK" [disabled, ref=e12]
+  - button "SCROLL FORWARD" [ref=e13]
+  - generic
+    - link "Kukirin It logo Kukirin It kukirin-it.com TrustScore 4.5 out of 5 4.4 (19)" [ref=e61]
+      - image "Kukirin It logo"
+      - heading "Kukirin It" [level=3, ref=e92]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e62]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e93]
+      - paragraph
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kugoo Ireland logo Kugoo Ireland www.kugoo-ireland.com TrustScore 3 out of 5 3.2 (1)" [ref=e63]
+      - image "Kugoo Ireland logo"
+      - heading "Kugoo Ireland" [level=3, ref=e94]
+      - paragraph
+      - image "TrustScore 3 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kukirinscooter.eu logo Kukirinscooter.eu kukirinscooter.eu TrustScore 3 out of 5 3.2 (1)" [ref=e64]
+      - image "Kukirinscooter.eu logo"
+      - heading "Kukirinscooter.eu" [level=3, ref=e95]
+      - paragraph
+      - image "TrustScore 3 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kukirin Italy logo Kukirin Italy kukirin-italy.com TrustScore 4.5 out of 5 4.4 (12)" [ref=e65]
+      - image "Kukirin Italy logo"
+      - heading "Kukirin Italy" [level=3, ref=e96]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+  - complementary
+    - StaticText "0.0"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e66]
+    - heading "All reviews" [level=2, ref=e67]
+    - paragraph
+      - StaticText "(0)"
+    - paragraph
+      - strong
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e68]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e69]
+    - LayoutTable
+      - LabelText
+        - checkbox "5-star 0%" [checked=false, disabled, ref=e121]
+      - LabelText
+        - checkbox "4-star 0%" [checked=false, disabled, ref=e122]
+      - LabelText
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e123]
+      - LabelText
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e124]
+      - LabelText
+        - checkbox "1-star 0%" [checked=false, disabled, ref=e125]
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e70]
+  - generic
+    - generic
+      - link "Read more" [ref=e71]
+  - generic
+    - heading "No reviews" [level=3, ref=e26]
+    - paragraph
+    - navigation "Pagination" [ref=e27]
+      - link "Previous page" [disabled, ref=e72]
+      - link "Page number 1" [ref=e73]
+      - link "Next page" [disabled, ref=e74]
+  - heading "The TrustpilotExperience" [level=3, ref=e14]
+  - heading "We're open to all" [level=4, ref=e15]
+    - button "We're open to all" [expanded=false, ref=e28]
+  - heading "We champion verified reviews" [level=4, ref=e16]
+    - button "We champion verified reviews" [expanded=false, ref=e29]
+  - heading "We fight fake reviews" [level=4, ref=e17]
+    - button "We fight fake reviews" [expanded=false, ref=e30]
+  - heading "We show the latest reviews" [level=4, ref=e18]
+    - button "We show the latest reviews" [expanded=false, ref=e31]
+  - heading "We encourage constructive feedback" [level=4, ref=e19]
+    - button "We encourage constructive feedback" [expanded=false, ref=e32]
+  - heading "We verify reviewers" [level=4, ref=e20]
+    - button "We verify reviewers" [expanded=false, ref=e33]
+  - heading "We advocate against bias" [level=4, ref=e21]
+    - button "We advocate against bias" [expanded=false, ref=e34]
+  - link "Take a closer look" [ref=e22]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e35]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e36]
+    - DescriptionList
+      - term "United States" [ref=e75] clickable [cursor:pointer]
+        - button "United States" [ref=e97]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e37]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e98]
+      - listitem [level=1]
+        - link "Jobs" [ref=e99]
+      - listitem [level=1]
+        - link "Contact" [ref=e100]
+      - listitem [level=1]
+        - link "Blog" [ref=e101]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e102]
+      - listitem [level=1]
+        - link "Press" [ref=e103]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e104]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e105]
+  - generic
+    - heading "Community" [level=3, ref=e38]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e106]
+      - listitem [level=1]
+        - link "Help Center" [ref=e107]
+      - listitem [level=1]
+        - link "Log in" [ref=e108]
+      - listitem [level=1]
+        - link "Sign up" [ref=e109]
+  - generic
+    - heading "Businesses" [level=3, ref=e39]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e110]
+      - listitem [level=1]
+        - link "Products" [ref=e111]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e112]
+      - listitem [level=1]
+        - link "Business Login" [ref=e113]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e114]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e115]
+  - generic
+    - heading "Follow us on" [level=3, ref=e40]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e116]
+      - listitem [level=1]
+        - link "X" [ref=e117]
+      - listitem [level=1]
+        - link "Instagram" [ref=e118]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e119]
+      - listitem [level=1]
+        - link "Youtube" [ref=e120]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e76]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e77]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e78]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e79]
+    - listitem [level=1]
+      - link "System status" [ref=e80]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e81]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e82]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e83]

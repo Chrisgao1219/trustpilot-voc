@@ -1,0 +1,81 @@
+[18:32:17] === Trustpilot VOC Auto-Scan 2026-06-09 ===
+[18:32:17] Focus: Meepo EU, 14 brands across 14 URLs
+[18:32:17] [1/4] Apify scraper batch run...
+[22:00:51] === Trustpilot VOC Auto-Scan 2026-06-09 ===
+[22:00:51] Focus: Meepo EU, 14 brands across 14 URLs
+[22:00:51] [1/4] Apify scraper batch run...
+[22:01:19] Scraper done. Dataset=bslLrEDDUUkiYW6iF, Cost=$0.007
+[22:01:19] [2/4] Fetching results...
+[22:01:35] Got 105 reviews total
+[22:01:35] [3/4] Aggregating brand stats...
+[22:01:35]   Meepo EU: 3.8/5 (5 reviews) [yellow]
+[22:01:35]   Meepo US: 3.2/5 (50 reviews) [yellow]
+[22:01:35]   Exway Global: 3.2/5 (50 reviews) [yellow]
+[22:01:35]   Exway USA: skipped (no data)
+[22:01:35]   Backfire Global: skipped (no data)
+[22:01:35]   Backfire USA: skipped (no data)
+[22:01:35]   Maxfind: skipped (no data)
+[22:01:35]   Evolve AU: skipped (no data)
+[22:01:35]   Evolve UK: skipped (no data)
+[22:01:35]   Evolve USA: skipped (no data)
+[22:01:35]   Tynee: skipped (no data)
+[22:01:35]   Ownboard: skipped (no data)
+[22:01:35]   同事测试品牌: skipped (no data)
+[22:01:35]   TestX: skipped (no data)
+[22:01:35] Aggregated 3/14 brands
+[22:01:35] [4/4] Merging & deploying...
+[22:01:35] Merged deep analysis from: meepo-eu-update.json
+[22:01:35] JSON: D:\Ai\Trustpilot\trustpilot-voc\2026-06-09.json
+[22:01:35] Deploying to Vercel...
+[22:10:19] === Trustpilot VOC Auto-Scan 2026-06-09 ===
+[22:10:19] Focus: Meepo EU, 12 brands across 12 URLs
+[22:10:19] [1/4] Apify per-URL scraping...
+[22:10:19]   [1/12] Meepo EU...
+[22:10:58]     5 reviews, $0.007
+[22:10:58]   [2/12] Meepo US...
+[22:12:00]     50 reviews, $0.007
+[22:12:00]   [3/12] Exway Global...
+[22:12:35]     50 reviews, $0.007
+[22:12:35]   [4/12] Exway USA...
+[22:13:35]     8 reviews, $0.007
+[22:13:35]   [5/12] Backfire Global...
+[22:14:21]     19 reviews, $0.007
+[22:14:21]   [6/12] Backfire USA...
+[22:15:56]     10 reviews, $0.007
+[22:15:56]   [7/12] Maxfind...
+[22:16:35]     50 reviews, $0.007
+[22:16:35]   [8/12] Evolve AU...
+[22:17:10]     50 reviews, $0.022
+[22:17:10]   [9/12] Evolve UK...
+[22:17:43]     15 reviews, $0.007
+[22:17:43]   [10/12] Evolve USA...
+[22:18:23]     50 reviews, $0.0325
+[22:18:23]   [11/12] Tynee...
+[22:19:54]     50 reviews, $0.007
+[22:19:54]   [12/12] Ownboard...
+[22:20:56]     31 reviews, $0.007
+[22:20:56] Scrape done: 388 reviews total, $0.125 cost, 0 failed
+[22:20:56] [2/4] Fetching complete.
+[22:20:56] [3/4] Aggregating brand stats...
+[22:20:56]   Meepo EU: 3.8/5 (5 reviews) [yellow]
+[22:20:56]   Meepo US: 3.2/5 (50 reviews) [yellow]
+[22:20:56]   Exway Global: 3.2/5 (50 reviews) [yellow]
+[22:20:56]   Exway USA: 3.4/5 (8 reviews) [yellow]
+[22:20:56]   Backfire Global: 2.8/5 (19 reviews) [red]
+[22:20:56]   Backfire USA: skipped (no data)
+[22:20:56]   Maxfind: 3.7/5 (50 reviews) [yellow]
+[22:20:56]   Evolve AU: 3.3/5 (86 reviews) [yellow]
+[22:20:56]   Evolve UK: 2.9/5 (15 reviews) [red]
+[22:20:56]   Evolve USA: 4.0/5 (14 reviews) [green]
+[22:20:56]   Tynee: 4.8/5 (50 reviews) [green]
+[22:20:56]   Ownboard: 2.5/5 (31 reviews) [red]
+[22:20:56] Aggregated 11/12 brands
+[22:20:56] [4/4] Merging & deploying...
+[22:20:56] Merged deep analysis from: 2026-06-09.json
+[22:20:56] JSON: D:\Ai\Trustpilot\trustpilot-voc\2026-06-09.json
+[22:20:56] Deploying to Vercel...
+[22:21:10] "url": "https://trustpilot-85igj1y8s-email-marketing.vercel.app",
+[22:21:10] "message": "Deployment trustpilot-85igj1y8s-email-marketing.vercel.app ready.",
+[22:21:10] "command": "vercel inspect trustpilot-85igj1y8s-email-marketing.vercel.app",
+[22:21:10] === Done ===
+[22:21:10] URL: https://trustpilot-voc.vercel.app

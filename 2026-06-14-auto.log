@@ -1,0 +1,125 @@
+[14:13:37] === Trustpilot VOC Auto-Scan 2026-06-14 ===
+[14:13:37] Focus: Meepo EU, 12 brands across 12 URLs
+[14:13:37] [1/4] Apify per-URL scraping...
+[14:13:37]   [1/12] Meepo EU...
+[14:14:19]     5 reviews, $0.007
+[14:14:19]   [2/12] Meepo US...
+[14:15:41]     50 reviews, $0.022
+[14:15:41]   [3/12] Exway Global...
+[14:16:36]     50 reviews, $0.037
+[14:16:36]   [4/12] Exway USA...
+[14:17:15]     8 reviews, $0.007
+[14:17:15]   [5/12] Backfire Global...
+[14:17:49]     19 reviews, $0.007
+[14:17:49]   [6/12] Backfire USA...
+[14:18:23]     19 reviews, $0.007
+[14:18:23]   [7/12] Maxfind...
+[14:19:09]     50 reviews, $0.007
+[14:19:09]   [8/12] Evolve AU...
+[14:19:48]     50 reviews, $0.007
+[14:19:48]   [9/12] Evolve UK...
+[14:20:26]     15 reviews, $0.007
+[14:20:26]   [10/12] Evolve USA...
+[14:20:59]     50 reviews, $0.007
+[14:20:59]   [11/12] Tynee...
+[14:21:37]     50 reviews, $0.007
+[14:21:37]   [12/12] Ownboard...
+[14:22:13]     31 reviews, $0.007
+[14:22:13] Scrape done: 397 reviews total, $0.129 cost, 0 failed
+[14:22:13] [2/4] Fetching complete.
+[14:22:13] [3/4] Aggregating brand stats...
+[14:22:13]   Meepo EU: 3.8/5 (5 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Meepo US: 3.4/5 (50 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Exway Global: 3.2/5 (50 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Exway USA: 3.4/5 (8 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Backfire Global: 2.8/5 (19 reviews) [red] | themes: +0/-0
+[14:22:13]   Backfire USA: 3.7/5 (19 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Maxfind: 3.6/5 (50 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Evolve AU: 3.3/5 (86 reviews) [yellow] | themes: +0/-0
+[14:22:13]   Evolve UK: 2.9/5 (15 reviews) [red] | themes: +0/-0
+[14:22:13]   Evolve USA: 4.0/5 (14 reviews) [green] | themes: +0/-0
+[14:22:13]   Tynee: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[14:22:13]   Ownboard: 2.5/5 (31 reviews) [red] | themes: +0/-0
+[14:22:13] Aggregated 12/12 brands
+[14:22:13] Saved 361 review samples to 2026-06-14-reviews.json
+[14:22:13] [4/4] Merging & deploying...
+[14:22:13] Merged deep analysis from: 2026-06-09.json
+[14:22:13] JSON: D:\Ai\Trustpilot\trustpilot-voc\2026-06-14.json
+[14:22:13] Upgrade recommended: 风险品牌评分在2.0-3.5区间: Meepo US(3.4), Exway Global(3.2), Exway USA(3.4)
+[14:22:13] Injected fresh data into dashboard.html
+[14:22:13] Deploying to Vercel...
+[14:22:25] "url": "https://trustpilot-4jt2pd17m-email-marketing.vercel.app",
+[14:22:25] "message": "Deployment trustpilot-4jt2pd17m-email-marketing.vercel.app ready.",
+[14:22:25] "command": "vercel inspect trustpilot-4jt2pd17m-email-marketing.vercel.app",
+[14:22:25] === Done ===
+[14:22:25] URL: https://trustpilot-voc.vercel.app
+[23:03:40] === Trustpilot VOC Auto-Scan 2026-06-14 ===
+[23:03:40] Focus: Meepo EU, 15 brands across 15 URLs
+[23:03:40] [1/4] Apify per-URL scraping...
+[23:03:40]   [1/15] Meepo EU...
+[23:03:49] === Trustpilot VOC Auto-Scan 2026-06-14 ===
+[23:03:49] Focus: Meepo EU, 15 brands across 15 URLs
+[23:03:49] [1/4] Apify per-URL scraping...
+[23:03:49]   [1/15] Meepo EU...
+[23:04:02]     ERROR: Exit 1 [Apify call Meepo EU]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[23:04:02]   [2/15] Meepo US...
+[23:04:15]     ERROR: Exit 1 [Apify call Meepo US]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[23:04:15]   [3/15] Exway Global...
+[23:04:31]     ERROR: Exit 1 [Apify call Exway Global]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[23:04:31]   [4/15] Exway USA...
+[23:04:44]     ERROR: Exit 1 [Apify call Exway USA]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usag
+[23:04:44]   [5/15] Backfire Global...
+[23:04:56]     ERROR: Exit 1 [Apify call Backfire Global]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[23:04:56]   [6/15] Backfire USA...
+[23:05:08]     ERROR: Exit 1 [Apify call Backfire USA]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[23:05:08]   [7/15] Maxfind...
+[23:05:20]     ERROR: Exit 1 [Apify call Maxfind]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage 
+[23:05:20]   [8/15] Evolve AU...
+[23:05:32]     ERROR: Exit 1 [Apify call Evolve AU]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usag
+[23:05:32]   [9/15] Evolve UK...
+[23:05:45]     ERROR: Exit 1 [Apify call Evolve UK]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usag
+[23:05:45]   [10/15] Evolve USA...
+[23:05:58]     ERROR: Exit 1 [Apify call Evolve USA]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[23:05:58]   [11/15] Tynee...
+[23:06:11]     ERROR: Exit 1 [Apify call Tynee]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage ha
+[23:06:11]   [12/15] Ownboard...
+[23:06:23]     ERROR: Exit 1 [Apify call Ownboard]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[23:06:23]   [13/15] Kukirin Global...
+[23:06:35]     ERROR: Exit 1 [Apify call Kukirin Global]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[23:06:35]   [14/15] Kukirin Scooter...
+[23:06:48]     ERROR: Exit 1 [Apify call Kukirin Scooter]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[23:06:48]   [15/15] Kukirin ES...
+[23:07:00]     ERROR: Exit 1 [Apify call Kukirin ES]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[23:07:00] Scrape done: 0 reviews total, $0.000 cost, 15 failed
+[23:07:00] [2/4] Fetching complete.
+[23:07:00] FATAL: No reviews collected

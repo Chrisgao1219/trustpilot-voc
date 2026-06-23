@@ -1,0 +1,985 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e69]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Sports" [ref=e179]
+        - image
+      - listitem [level=1]
+        - link "Extreme Sports" [ref=e180]
+        - image
+      - listitem [level=1]
+        - link "Adventure Sports" [ref=e181]
+        - image
+      - listitem [level=1]
+        - link "Maxfind" [disabled, ref=e182]
+  - navigation
+    - button "Summary" [ref=e70]
+    - button "About" [ref=e71]
+    - button "Reviews" [ref=e72]
+    - link "Visit website" [ref=e73]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e74]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile August 2022 Maxfind Reviews135 • TrustScore 4 out of 5 3.8 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Adventure Sports Write a review Visit website" [ref=e75]
+      - image "Maxfind logo"
+    - generic
+      - button "Claimed profile August 2022" [expanded=false, ref=e76]
+        - StaticText "Claimed profile"
+        - StaticText "August 2022"
+      - heading "Maxfind Reviews135" [level=1, ref=e77]
+        - StaticText "Maxfind"
+        - link "Reviews135" [ref=e183]
+          - StaticText "Reviews135"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 4 out of 5 3.8" [ref=e184]
+          - image "TrustScore 4 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e185]
+      - link "Adventure Sports" [ref=e186]
+      - link "Write a review" [ref=e78]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e79]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e31]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Review summary" [level=2, ref=e9]
+  - button "Tooltip" [ref=e10]
+  - paragraph
+    - StaticText "Created with AI, based on recent reviews"
+  - paragraph
+    - StaticText "Evaluating 43 reviews, reviewers had a great experience with this company. Customers frequently praise the staff for their helpfulness, quick responses, and professional handling of inquiries, often going above and beyond to find solutions. Many consumers highlight the excellent quality of the products, noting their durability, powerful performance, and smooth ride even after years of use. The boa"
+    - StaticText "… "
+    - button "See more" [ref=e32]
+  - heading "Was this summary helpful?" [level=3, ref=e11]
+  - button [ref=e12]
+  - button [ref=e13]
+  - heading "What people talk about most" [level=3, ref=e14]
+  - generic
+    - button "Scroll forward" [ref=e33]
+    - generic
+      - button "Product Consumers find product quality to be ambiguous, with many praising the acceleration, speed, maneuverability,... See more" [ref=e80]
+        - heading "Product" [level=2, ref=e187]
+        - paragraph
+          - StaticText "Consumers find product quality to be ambiguous, with many praising the acceleration, speed, maneuverability,... See more"
+      - button "Quality Users describe ambiguous interactions with quality, with many reviewers praising the high quality,... See more" [ref=e81]
+        - heading "Quality" [level=2, ref=e188]
+        - paragraph
+          - StaticText "Users describe ambiguous interactions with quality, with many reviewers praising the high quality,... See more"
+      - button "Customer service Reviewers highlight ambiguous aspects of customer service, with many praising the helpfulness and quick... See more" [ref=e82]
+        - heading "Customer service" [level=2, ref=e189]
+        - paragraph
+          - StaticText "Reviewers highlight ambiguous aspects of customer service, with many praising the helpfulness and quick... See more"
+      - button "Service Clients share ambiguous opinions on service, with some reviewers having a very disappointing experience. Some... See more" [ref=e83]
+        - heading "Service" [level=2, ref=e190]
+        - paragraph
+          - StaticText "Clients share ambiguous opinions on service, with some reviewers having a very disappointing experience. Some... See more"
+      - button "Staff Reviewers mention positive feedback about staff, highlighting their helpfulness and quick response times in... See more" [ref=e84]
+        - heading "Staff" [level=2, ref=e191]
+        - paragraph
+          - StaticText "Reviewers mention positive feedback about staff, highlighting their helpfulness and quick response times in... See more"
+  - heading "Reviews shaping this summary" [level=3, ref=e15]
+  - generic
+    - button "SCROLL FORWARD" [ref=e34]
+    - generic
+      - article
+        - complementary "Info for Cameron Peck"
+          - link "Cameron Peck Apr 15, 2026" [ref=e268]
+        - image "Rated 4 out of 5 stars"
+        - button "Good customer service quick to reply also gave me complimentary upgrade. 10 out of 10 would recommend." [ref=e192]
+          - paragraph
+        - button "Useful" [ref=e193]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e194]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e195]
+      - article
+        - complementary "Info for Stajic Ugljesa"
+          - link "Stajic Ugljesa Jul 30, 2025" [ref=e269]
+        - image "Rated 5 out of 5 stars"
+        - button "Excellent customer service! My original order was out of stock in Europe, but the team went above and beyond to find a solution. I was genuinely impressed by how quickly and professionally everythin... See more" [ref=e196]
+          - paragraph
+        - button "Useful" [ref=e197]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e198]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e199]
+      - article
+        - complementary "Info for Kromosentono Olivier"
+          - link "Kromosentono Olivier Aug 16, 2025" [ref=e270]
+        - image "Rated 5 out of 5 stars"
+        - button ". Kevin from support was able to guide me according to my needs, the description I had given him of my daily route and directed me towards the max5s. Very good autonomy, punch to spare (personally I... See more" [ref=e200]
+          - paragraph
+        - button "Useful" [ref=e201]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e202]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e203]
+      - article
+        - complementary "Info for Jules GRIMARD"
+          - link "Jules GRIMARD Nov 24, 2025" [ref=e271]
+        - image "Rated 5 out of 5 stars"
+        - button "I thank “Maxfind” for this high‑quality electric skateboard. I bought a Maxfind Cybermax 6. I highlight its remarkable build quality. The deck is made of composite rather than wood, which gives it a... See more" [ref=e204]
+          - paragraph
+        - button "Useful" [ref=e205]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e206]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e207]
+  - button "See all 135 reviews" [ref=e16]
+    - StaticText "See all "
+    - StaticText "135"
+    - StaticText " reviews"
+  - separator
+  - heading "Company details" [level=2, ref=e17]
+  - list
+    - listitem [level=1]
+      - link "Adventure Sports" [ref=e85]
+    - listitem [level=1]
+      - link "Skateboard Shop" [ref=e86]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e87]
+  - generic
+    - heading "Written by the company" [level=3, ref=e35]
+    - paragraph
+      - StaticText "Maxfind has developed the best long range electric skateboard with highest performance. Use the best materials and the latest innovations for fun and convenience."
+  - heading "Contact info" [level=2, ref=e18]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "Room 401, Building T1, Silicon Valley Compound, Qingquan Road, 518000, Shenzhen, China"
+    - listitem [level=1]
+      - link "(910) 710-5902" [ref=e88]
+    - listitem [level=1]
+      - link "service@maxfind.com" [ref=e89]
+    - listitem [level=1]
+      - link "maxfind.com" [ref=e90]
+  - generic
+    - generic [ref=e36] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "3.8"
+      - heading "Great" [level=3, ref=e91]
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "135 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e37]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - paragraph
+      - StaticText "Replied to 12% of negative reviews"
+    - paragraph
+      - StaticText "Typically replies within 1 week"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e38]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e19]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e39]
+  - button "SCROLL BACK" [disabled, ref=e20]
+  - button "SCROLL FORWARD" [ref=e21]
+  - generic
+    - link "Maxfind logo Maxfind maxfindboards.com TrustScore 4 out of 5 3.9 (104)" [ref=e92]
+      - image "Maxfind logo"
+      - heading "Maxfind" [level=3, ref=e208]
+      - paragraph
+        - StaticText "maxfindboards.com"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3.9"
+      - paragraph
+        - StaticText "(104)"
+    - link "Meepo Electric Skateboards logo Meepo Electric Skateboards meepoboard.com TrustScore 3.5 out of 5 3.7 (367)" [ref=e93]
+      - image "Meepo Electric Skateboards logo"
+      - heading "Meepo Electric Skateboards" [level=3, ref=e209]
+      - paragraph
+        - StaticText "meepoboard.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(367)"
+    - link "Meepoboard Eu logo Meepoboard Eu meepoboard-eu.com TrustScore 3.5 out of 5 3.6 (5)" [ref=e94]
+      - image "Meepoboard Eu logo"
+      - heading "Meepoboard Eu" [level=3, ref=e210]
+      - paragraph
+        - StaticText "meepoboard-eu.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.6"
+      - paragraph
+        - StaticText "(5)"
+    - link "tyneeboard.com logo tyneeboard.com tyneeboard.com TrustScore 5 out of 5 4.8 (125)" [ref=e95]
+      - image "tyneeboard.com logo"
+      - heading "tyneeboard.com" [level=3, ref=e211]
+      - paragraph
+        - StaticText "tyneeboard.com"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(125)"
+    - link "Backfire Skateboards www.backfireboards.com TrustScore 3 out of 5 3.2 (19)" [ref=e96]
+      - image
+      - heading "Backfire Skateboards" [level=3, ref=e212]
+      - paragraph
+        - StaticText "www.backfireboards.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3.2"
+      - paragraph
+        - StaticText "(19)"
+    - link "Exway Board logo Exway Board exwayboard.com TrustScore 2.5 out of 5 2.6 (79)" [ref=e97]
+      - image "Exway Board logo"
+      - heading "Exway Board" [level=3, ref=e213]
+      - paragraph
+        - StaticText "exwayboard.com"
+      - image "TrustScore 2.5 out of 5"
+      - paragraph
+        - StaticText "2.6"
+      - paragraph
+        - StaticText "(79)"
+    - link "Wowgoboard logo Wowgoboard wowgoboard.com TrustScore 3 out of 5 3.2 (323)" [ref=e98]
+      - image "Wowgoboard logo"
+      - heading "Wowgoboard" [level=3, ref=e214]
+      - paragraph
+        - StaticText "wowgoboard.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3.2"
+      - paragraph
+        - StaticText "(323)"
+    - link "Backfire logo Backfire backfire.shop TrustScore 4.5 out of 5 4.7 (46)" [ref=e99]
+      - image "Backfire logo"
+      - heading "Backfire" [level=3, ref=e215]
+      - paragraph
+        - StaticText "backfire.shop"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.7"
+      - paragraph
+        - StaticText "(46)"
+  - complementary
+    - StaticText "3.8"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e100]
+    - heading "All reviews" [level=2, ref=e101]
+    - paragraph
+      - StaticText "(135)"
+    - paragraph
+      - strong
+        - StaticText "44 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e102]
+      - StaticText "Write a review"
+    - LayoutTable
+      - LabelText "83 of 135 reviews" [ref=e216] clickable [cursor:pointer]
+        - checkbox "5-star 62%" [checked=false, ref=e298]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "62%"
+      - LabelText "10 of 135 reviews" [ref=e217] clickable [cursor:pointer]
+        - checkbox "4-star 7%" [checked=false, ref=e299]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "7%"
+      - LabelText "1 of 135 reviews" [ref=e218] clickable [cursor:pointer]
+        - checkbox "3-star <1%" [checked=false, ref=e300]
+        - paragraph
+          - StaticText "3-star"
+        - StaticText "<"
+        - StaticText "1%"
+      - LabelText "2 of 135 reviews" [ref=e219] clickable [cursor:pointer]
+        - checkbox "2-star 1%" [checked=false, ref=e301]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "1%"
+      - LabelText "39 of 135 reviews" [ref=e220] clickable [cursor:pointer]
+        - checkbox "1-star 29%" [checked=false, ref=e302]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "29%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e103]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e104]
+  - generic
+    - generic
+      - generic [ref=e221] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e272]
+    - button "More filters" [ref=e40]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e41]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e42]
+    - checkbox "Customer service" [checked=false, ref=e43]
+      - StaticText "Customer service"
+    - checkbox "Customer communications" [checked=false, ref=e44]
+      - StaticText "Customer communications"
+    - checkbox "Quality" [checked=false, ref=e45]
+      - StaticText "Quality"
+    - checkbox "Product" [checked=false, ref=e46]
+      - StaticText "Product"
+    - checkbox "Delivery service" [checked=false, ref=e47]
+      - StaticText "Delivery service"
+    - checkbox "Order" [checked=false, ref=e48]
+      - StaticText "Order"
+    - checkbox "Service" [checked=false, ref=e49]
+      - StaticText "Service"
+    - checkbox "Social media" [checked=false, ref=e50]
+      - StaticText "Social media"
+    - checkbox "Spam" [checked=false, ref=e51]
+      - StaticText "Spam"
+    - checkbox "Location" [checked=false, ref=e52]
+      - StaticText "Location"
+  - separator
+  - generic
+    - article
+      - complementary "Info for david szabo segura"
+        - StaticText "DS"
+        - link "david szabo segura ES • 1 review" [ref=e222]
+          - StaticText "david szabo segura"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 8, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Great skates and great service" [ref=e273]
+            - heading "Great skates and great service" [level=2, ref=e303]
+          - paragraph
+          - StaticText "May 8, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e105]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e106]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e107]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Camerin David"
+        - link "Camerin David CA • 1 review" [ref=e223]
+          - StaticText "Camerin David"
+          - StaticText "CA"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Apr 21, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Great company to deal with and great skate board" [ref=e274]
+            - heading "Great company to deal with and great skate board" [level=2, ref=e304]
+          - paragraph
+          - StaticText "April 21, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e108]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e109]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e110]
+    - article
+      - complementary "Info for Peter Groen"
+        - link "Peter Groen NL • 6 reviews" [ref=e224]
+          - StaticText "Peter Groen"
+          - StaticText "NL"
+          - StaticText "•"
+          - StaticText "6"
+          - StaticText " reviews"
+      - time
+        - StaticText "Apr 16, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I rewrite a previous review." [ref=e275]
+            - heading "I rewrite a previous review." [level=2, ref=e305]
+          - paragraph
+            - StaticText "Result: I got a new longboard + extra parts + a good feeling because they gave me my passion and hobby back!!"
+          - StaticText "April 15, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e111]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e112]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e113]
+    - button "See 2 more reviews by Peter" [ref=e53]
+      - StaticText "See "
+      - StaticText "2"
+      - StaticText " more reviews by Peter"
+    - article
+      - complementary "Info for Cameron Peck"
+        - link "Cameron Peck GB • 1 review" [ref=e225]
+          - StaticText "Cameron Peck"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Apr 15, 2026"
+      - generic
+        - image "Rated 4 out of 5 stars"
+        - generic
+          - link "Good customer service quick to reply…" [ref=e276]
+            - heading "Good customer service quick to reply…" [level=2, ref=e306]
+          - paragraph
+          - StaticText "April 15, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e114]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e115]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e116]
+    - article
+      - complementary "Info for Rodrigo Alves"
+        - link "Rodrigo Alves GB • 1 review" [ref=e226]
+          - StaticText "Rodrigo Alves"
+          - StaticText "GB"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Mar 20, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Firstly" [ref=e277]
+            - heading "Firstly" [level=2, ref=e307]
+          - paragraph
+          - StaticText "March 20, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e117]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e118]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e119]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Jesse Williamson"
+        - StaticText "JW"
+        - link "Jesse Williamson AU • 3 reviews" [ref=e227]
+          - StaticText "Jesse Williamson"
+          - StaticText "AU"
+          - StaticText "•"
+          - StaticText "3"
+          - StaticText " reviews"
+      - time
+        - StaticText "Mar 19, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Simple service" [ref=e278]
+            - heading "Simple service" [level=2, ref=e308]
+          - paragraph
+          - StaticText "March 19, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e120]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e121]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e122]
+    - article
+      - complementary "Info for Evan"
+        - StaticText "EV"
+        - link "Evan US • 1 review" [ref=e228]
+          - StaticText "Evan"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Mar 16, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I have put about 65km" [ref=e279]
+            - heading "I have put about 65km" [level=2, ref=e309]
+          - paragraph
+          - StaticText "March 16, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e123]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e124]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e125]
+    - article
+      - complementary "Info for Gregory Friesen"
+        - link "Gregory Friesen US • 3 reviews" [ref=e229]
+          - StaticText "Gregory Friesen"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "3"
+          - StaticText " reviews"
+      - time
+        - StaticText "Mar 16, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Excellent Quick service" [ref=e280]
+            - heading "Excellent Quick service" [level=2, ref=e310]
+          - paragraph
+          - StaticText "March 15, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e126]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e127]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e128]
+    - article
+      - complementary "Info for C. Peterson"
+        - StaticText "CP"
+        - link "C. Peterson US • 1 review" [ref=e230]
+          - StaticText "C. Peterson"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Dec 5, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e281]
+          - StaticText "Verified"
+        - generic
+          - link "My CYBER MAX board is honestly so much…" [ref=e282]
+            - heading "My CYBER MAX board is honestly so much…" [level=2, ref=e311]
+          - paragraph
+          - StaticText "December 1, 2025"
+      - button "Useful" [ref=e129]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e130]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e131]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Susan Witt"
+        - StaticText "SW"
+        - link "Susan Witt US • 2 reviews" [ref=e231]
+          - StaticText "Susan Witt"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 29, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e283]
+          - StaticText "Verified"
+        - generic
+          - link "This thing is a ROCKET" [ref=e284]
+            - heading "This thing is a ROCKET" [level=2, ref=e312]
+          - paragraph
+          - StaticText "November 12, 2025"
+      - button "Useful" [ref=e132]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e133]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e134]
+    - generic
+      - button "Dismiss" [ref=e135]
+      - paragraph
+        - StaticText "See if a website is trustworthy without leaving the page"
+      - link "Get Chrome extension" [ref=e232]
+        - StaticText "Get Chrome extension"
+    - article
+      - complementary "Info for Jules GRIMARD"
+        - link "Jules GRIMARD FR • 1 review" [ref=e233]
+          - StaticText "Jules GRIMARD"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 24, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "A good overall electric longboard" [ref=e285]
+            - heading "A good overall electric longboard" [level=2, ref=e313]
+          - paragraph
+          - StaticText "November 21, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e136]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e137]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e138]
+    - article
+      - complementary "Info for Shirley Rogers"
+        - StaticText "SR"
+        - link "Shirley Rogers US • 4 reviews" [ref=e234]
+          - StaticText "Shirley Rogers"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "4"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 18, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e286]
+          - StaticText "Verified"
+        - generic
+          - link "Shipping was lightning quick" [ref=e287]
+            - heading "Shipping was lightning quick" [level=2, ref=e314]
+          - paragraph
+          - StaticText "November 11, 2025"
+      - button "Useful" [ref=e139]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e140]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e141]
+    - article
+      - complementary "Info for S G"
+        - StaticText "SG"
+        - link "S G FR • 4 reviews" [ref=e235]
+          - StaticText "S G"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "4"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 17, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Skateboards engineered for failure. Customer support will then steal the board from you" [ref=e288]
+            - heading "Skateboards engineered for failure. Customer support will then steal the board from you" [level=2, ref=e315]
+          - paragraph
+            - StaticText "Bought an FF AT. One of the rear truck failed on the first day: the piece holding the motor broke (poor soldiering), which almost killed me (slowing down, going downhill on asphalt before a crossing)."
+          - StaticText "April 4, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e142]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e143]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e144]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Paul Valentine"
+        - StaticText "PV"
+        - link "Paul Valentine US • 3 reviews" [ref=e236]
+          - StaticText "Paul Valentine"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "3"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 16, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e289]
+          - StaticText "Verified"
+        - generic
+          - link "Grabbed the Cyber Max during the fall…" [ref=e290]
+            - heading "Grabbed the Cyber Max during the fall…" [level=2, ref=e316]
+          - paragraph
+          - StaticText "November 15, 2025"
+      - button "Useful" [ref=e145]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e146]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e147]
+    - article
+      - complementary "Info for Issac Endrick"
+        - button "Issac Endrick" [expanded=false, ref=e237]
+          - StaticText "IE"
+        - link "Issac Endrick US • 1 review" [ref=e238]
+          - StaticText "Issac Endrick"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 12, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e291]
+          - StaticText "Verified"
+        - generic
+          - link "Good board" [ref=e292]
+            - heading "Good board" [level=2, ref=e317]
+          - paragraph
+          - StaticText "October 21, 2025"
+      - button "Useful" [ref=e148]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e149]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e150]
+    - article
+      - complementary "Info for Jürgen"
+        - StaticText "JÜ"
+        - link "Jürgen DE • 2 reviews" [ref=e239]
+          - StaticText "Jürgen"
+          - StaticText "DE"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Updated Nov 17, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "This site is a scam" [ref=e293]
+            - heading "This site is a scam" [level=2, ref=e318]
+          - paragraph
+            - StaticText "This site is a scam. I ordered a e-longboard. They claim shipping will be done in \"European Union: 5-10 Days\". After over 2 Weeks, I check my account. I see a tracking Code from DHL but DHL does not know the tracking number. I requested a refund by mail, and they asked me about the reason. I answer that request very politely, and they say they will refund after their holidays. But nothing happens. I write more emails asking about the status of my order. \"Let me check\" is the answer. Then silence again."
+            - StaticText "Third: They never stated that they already shipped my order in any mail I got from them."
+          - StaticText "September 26, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e151]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e152]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e153]
+      - generic
+        - image
+        - image "Maxfind logo"
+        - paragraph
+          - StaticText "Reply from Maxfind"
+        - time
+          - StaticText "Nov 11, 2025"
+        - paragraph
+          - StaticText "Hello, we have already shipped the goods to you. Your address was incorrect, so the goods were returned to the warehouse and resent. The courier did contact you, but you did not answer the phone."
+    - article
+      - complementary "Info for Suzanne Williams McKelvey"
+        - link "Suzanne Williams McKelvey US • 1 review" [ref=e240]
+          - StaticText "Suzanne Williams McKelvey"
+          - StaticText "US"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 4, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Impressed!!" [ref=e294]
+            - heading "Impressed!!" [level=2, ref=e319]
+          - paragraph
+          - StaticText "October 31, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e154]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e155]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e156]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Maria Luisa"
+        - StaticText "ML"
+        - link "Maria Luisa ES • 4 reviews" [ref=e241]
+          - StaticText "Maria Luisa"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "4"
+          - StaticText " reviews"
+      - time
+        - StaticText "Oct 24, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Maxfind are scammers" [ref=e295]
+            - heading "Maxfind are scammers" [level=2, ref=e320]
+          - paragraph
+          - StaticText "July 1, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e157]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e158]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e159]
+    - button "See 1 more review by Maria" [ref=e54]
+      - StaticText "See 1 more review by Maria"
+    - article
+      - complementary "Info for Lincoln Willms"
+        - link "Lincoln Willms CA • 1 review" [ref=e242]
+          - StaticText "Lincoln Willms"
+          - StaticText "CA"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 23, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Best Longboard Company" [ref=e296]
+            - heading "Best Longboard Company" [level=2, ref=e321]
+          - paragraph
+          - StaticText "October 22, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e160]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e161]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e162]
+    - article
+      - complementary "Info for Rosa Pérez"
+        - link "Rosa Pérez ES • 1 review" [ref=e243]
+          - StaticText "Rosa Pérez"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 22, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Best electric skateboards" [ref=e297]
+            - heading "Best electric skateboards" [level=2, ref=e322]
+      - button "Useful" [ref=e163]
+      - button "Share" [expanded=false, ref=e164]
+      - button "Flag this review" [ref=e165]
+    - navigation "Pagination" [ref=e55]
+      - link "Previous page" [disabled, ref=e166]
+      - link "Page number 1" [ref=e167]
+      - link "Page number 2" [ref=e168]
+      - link "Next page" [ref=e169]
+  - heading "The TrustpilotExperience" [level=3, ref=e22]
+  - heading "We're open to all" [level=4, ref=e23]
+    - button "We're open to all" [expanded=false, ref=e56]
+  - heading "We champion verified reviews" [level=4, ref=e24]
+    - button "We champion verified reviews" [expanded=false, ref=e57]
+  - heading "We fight fake reviews" [level=4, ref=e25]
+    - button "We fight fake reviews" [expanded=false, ref=e58]
+  - heading "We show the latest reviews" [level=4, ref=e26]
+    - button "We show the latest reviews" [expanded=false, ref=e59]
+  - heading "We encourage constructive feedback" [level=4, ref=e27]
+    - button "We encourage constructive feedback" [expanded=false, ref=e60]
+  - heading "We verify reviewers" [level=4, ref=e28]
+    - button "We verify reviewers" [expanded=false, ref=e61]
+  - heading "We advocate against bias" [level=4, ref=e29]
+    - button "We advocate against bias" [expanded=false, ref=e62]
+  - link "Take a closer look" [ref=e30]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e63]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e64]
+    - DescriptionList
+      - term "United States" [ref=e170] clickable [cursor:pointer]
+        - button "United States" [ref=e244]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e65]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e245]
+      - listitem [level=1]
+        - link "Jobs" [ref=e246]
+      - listitem [level=1]
+        - link "Contact" [ref=e247]
+      - listitem [level=1]
+        - link "Blog" [ref=e248]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e249]
+      - listitem [level=1]
+        - link "Press" [ref=e250]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e251]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e252]
+  - generic
+    - heading "Community" [level=3, ref=e66]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e253]
+      - listitem [level=1]
+        - link "Help Center" [ref=e254]
+      - listitem [level=1]
+        - link "Log in" [ref=e255]
+      - listitem [level=1]
+        - link "Sign up" [ref=e256]
+  - generic
+    - heading "Businesses" [level=3, ref=e67]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e257]
+      - listitem [level=1]
+        - link "Products" [ref=e258]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e259]
+      - listitem [level=1]
+        - link "Business Login" [ref=e260]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e261]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e262]
+  - generic
+    - heading "Follow us on" [level=3, ref=e68]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e263]
+      - listitem [level=1]
+        - link "X" [ref=e264]
+      - listitem [level=1]
+        - link "Instagram" [ref=e265]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e266]
+      - listitem [level=1]
+        - link "Youtube" [ref=e267]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e171]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e172]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e173]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e174]
+    - listitem [level=1]
+      - link "System status" [ref=e175]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e176]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e177]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e178]

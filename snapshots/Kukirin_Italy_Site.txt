@@ -1,0 +1,810 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e48]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Vehicles & Transportation" [ref=e133]
+        - image
+      - listitem [level=1]
+        - link "Motorcycle & Powersports" [ref=e134]
+        - image
+      - listitem [level=1]
+        - link "Motor Scooter Dealer" [ref=e135]
+        - image
+      - listitem [level=1]
+        - link "Kukirin Italy" [disabled, ref=e136]
+  - navigation
+    - button "Summary" [ref=e49]
+    - button "About" [ref=e50]
+    - button "Reviews" [ref=e51]
+    - link "Visit website" [ref=e52]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e53]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile July 2025 Kukirin Italy Reviews12 • TrustScore 4.5 out of 5 4.4 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Motor Scooter Dealer Write a review Visit website" [ref=e54]
+      - image "Kukirin Italy logo"
+    - generic
+      - button "Claimed profile July 2025" [expanded=false, ref=e55]
+        - StaticText "Claimed profile"
+        - StaticText "July 2025"
+      - heading "Kukirin Italy Reviews12" [level=1, ref=e56]
+        - StaticText "Kukirin Italy"
+        - link "Reviews12" [ref=e137]
+          - StaticText "Reviews12"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 4.5 out of 5 4.4" [ref=e138]
+          - image "TrustScore 4.5 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e139]
+      - link "Motor Scooter Dealer" [ref=e140]
+      - link "Write a review" [ref=e57]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e58]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e23]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Company details" [level=2, ref=e9]
+  - list
+    - listitem [level=1]
+      - link "Motor Scooter Dealer" [ref=e59]
+    - listitem [level=1]
+      - link "Bike Accessories Store" [ref=e60]
+    - listitem [level=1]
+      - link "Motor Scooter Repair Shop" [ref=e61]
+    - listitem [level=1]
+      - link "Scooter Repair Shop" [ref=e62]
+    - listitem [level=1]
+      - link "Used Bicycle Shop" [ref=e63]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e64]
+  - generic
+    - heading "Written by the company" [level=3, ref=e24]
+    - paragraph
+      - StaticText "KuKirin Italia è il sito ufficiale dedicato al mercato italiano, specializzato in monopattini elettrici ad alte prestazioni per la mobilità urbana. Offriamo prodotti originali KuKirin con garanzia ufficiale di 1 anno e spedizione diretta dai nostri magazzini europei. 🚚 Tempi di consegna: 3–7 giorni lavorativi ✔ Nessun costo doganale aggiuntivo ✔ Prodotti si"
+      - StaticText "… "
+      - button "See more" [ref=e65]
+  - heading "Contact info" [level=2, ref=e10]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "GenerałaMikołajaBołtucia8, 05-827, GrodziskMazowiecki, Poland"
+    - listitem [level=1]
+      - link "+8617756531960" [ref=e66]
+    - listitem [level=1]
+      - link "service@kukirin-italy.com" [ref=e67]
+    - listitem [level=1]
+      - link "kukirin-italy.com" [ref=e68]
+  - generic
+    - generic [ref=e25] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "4.4"
+      - heading "Excellent" [level=3, ref=e69]
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "12 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e26]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e27]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e11]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e28]
+  - button "SCROLL BACK" [disabled, ref=e12]
+  - button "SCROLL FORWARD" [ref=e13]
+  - generic
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e70]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e141]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kukirin It logo Kukirin It kukirin-it.com TrustScore 4.5 out of 5 4.4 (19)" [ref=e71]
+      - image "Kukirin It logo"
+      - heading "Kukirin It" [level=3, ref=e142]
+      - paragraph
+        - StaticText "kukirin-it.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.4"
+      - paragraph
+        - StaticText "(19)"
+    - link "Kukirinitaly logo Kukirinitaly kukirinitaly.com TrustScore 3 out of 5 3.1 (6)" [ref=e72]
+      - image "Kukirinitaly logo"
+      - heading "Kukirinitaly" [level=3, ref=e143]
+      - paragraph
+        - StaticText "kukirinitaly.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3.1"
+      - paragraph
+        - StaticText "(6)"
+    - link "Kukirin Escooters logo Kukirin Escooters www.kukirin-escooters.com TrustScore 4.5 out of 5 4.5 (148)" [ref=e73]
+      - image "Kukirin Escooters logo"
+      - heading "Kukirin Escooters" [level=3, ref=e144]
+      - paragraph
+        - StaticText "www.kukirin-escooters.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.5"
+      - paragraph
+        - StaticText "(148)"
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e74]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e145]
+      - paragraph
+        - StaticText "kukirin-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(413)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e75]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e146]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "Ku Kirin logo Ku Kirin ku-kirin.it TrustScore 4.5 out of 5 4.6 (35)" [ref=e76]
+      - image "Ku Kirin logo"
+      - heading "Ku Kirin" [level=3, ref=e147]
+      - paragraph
+        - StaticText "ku-kirin.it"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(35)"
+    - link "Joyor Escooter logo Joyor Escooter www.joyor-escooter.com TrustScore 4.5 out of 5 4.3 (266)" [ref=e77]
+      - image "Joyor Escooter logo"
+      - heading "Joyor Escooter" [level=3, ref=e148]
+      - paragraph
+        - StaticText "www.joyor-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.3"
+      - paragraph
+        - StaticText "(266)"
+  - complementary
+    - StaticText "4.4"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e78]
+    - heading "All reviews" [level=2, ref=e79]
+    - paragraph
+      - StaticText "(12)"
+    - paragraph
+      - strong
+        - StaticText "12 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e80]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e81]
+    - LayoutTable
+      - LabelText "12 of 12 reviews" [ref=e149] clickable [cursor:pointer]
+        - checkbox "5-star 100%" [checked=false, ref=e201]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "100%"
+      - LabelText "0 of 12 reviews"
+        - checkbox "4-star 0%" [checked=false, disabled, ref=e202]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 12 reviews"
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e203]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 12 reviews"
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e204]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 12 reviews"
+        - checkbox "1-star 0%" [checked=false, disabled, ref=e205]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "0%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e82]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e83]
+  - generic
+    - generic
+      - generic [ref=e150] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e188]
+    - button "More filters" [ref=e29]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e30]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e31]
+    - checkbox "Customer service" [checked=false, ref=e32]
+      - StaticText "Customer service"
+    - checkbox "Delivery service" [checked=false, ref=e33]
+      - StaticText "Delivery service"
+  - separator
+  - generic
+    - article
+      - complementary "Info for Maci Maceni"
+        - link "Maci Maceni IT • 1 review" [ref=e151]
+          - StaticText "Maci Maceni"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 21, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "acquisto perfetto" [ref=e189]
+            - heading "acquisto perfetto" [level=2, ref=e206]
+          - paragraph
+          - StaticText "November 20, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e84]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e85]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e86]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Mar 2, 2026"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Arturo"
+        - StaticText "AR"
+        - link "Arturo IT • 1 review" [ref=e152]
+          - StaticText "Arturo"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 18, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Lo recomiendo de confianza" [ref=e190]
+            - heading "Lo recomiendo de confianza" [level=2, ref=e207]
+          - paragraph
+          - StaticText "November 8, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e87]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e88]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e89]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Mar 2, 2026"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Michele Vantaggiato"
+        - StaticText "MV"
+        - link "Michele Vantaggiato IT • 7 reviews" [ref=e153]
+          - StaticText "Michele Vantaggiato"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "7"
+          - StaticText " reviews"
+      - time
+        - StaticText "Nov 13, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Azienda Top" [ref=e191]
+            - heading "Azienda Top" [level=2, ref=e208]
+          - paragraph
+          - StaticText "November 13, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e90]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e91]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e92]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Mar 2, 2026"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Cesare Bonassisa"
+        - link "Cesare Bonassisa IT • 1 review" [ref=e154]
+          - StaticText "Cesare Bonassisa"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 11, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Kukirin j2 master." [ref=e192]
+            - heading "Kukirin j2 master." [level=2, ref=e209]
+          - paragraph
+          - StaticText "October 10, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e93]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e94]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e95]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Nov 7, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Alessandro Zarfati"
+        - StaticText "AZ"
+        - link "Alessandro Zarfati IT • 1 review" [ref=e155]
+          - StaticText "Alessandro Zarfati"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 6, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Spedizione veloce e tutto perfetto il…" [ref=e193]
+            - heading "Spedizione veloce e tutto perfetto il…" [level=2, ref=e210]
+          - paragraph
+          - StaticText "September 17, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e96]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e97]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e98]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Cordelia Toscano"
+        - link "Cordelia Toscano IT • 1 review" [ref=e156]
+          - StaticText "Cordelia Toscano"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Sep 11, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Dopo due settimane con il mio Kukirin…" [ref=e194]
+            - heading "Dopo due settimane con il mio Kukirin…" [level=2, ref=e211]
+          - paragraph
+          - StaticText "September 4, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e99]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e100]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e101]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Luca Moretti"
+        - StaticText "LM"
+        - link "Luca Moretti IT • 1 review" [ref=e157]
+          - StaticText "Luca Moretti"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 13, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Molto impressionato!" [ref=e195]
+            - heading "Molto impressionato!" [level=2, ref=e212]
+          - paragraph
+          - StaticText "August 1, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e102]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e103]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e104]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Teresio Monaldo"
+        - link "Teresio Monaldo IT • 1 review" [ref=e158]
+          - StaticText "Teresio Monaldo"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 9, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Il servizio clienti è stato molto…" [ref=e196]
+            - heading "Il servizio clienti è stato molto…" [level=2, ref=e213]
+          - paragraph
+          - StaticText "July 31, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e105]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e106]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e107]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Leila Sagese"
+        - link "Leila Sagese IT • 1 review" [ref=e159]
+          - StaticText "Leila Sagese"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 8, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "kukirin g4" [ref=e197]
+            - heading "kukirin g4" [level=2, ref=e214]
+          - paragraph
+          - StaticText "August 2, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e108]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e109]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e110]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Attilio Trentini"
+        - link "Attilio Trentini IT • 1 review" [ref=e160]
+          - StaticText "Attilio Trentini"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 7, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Ho visto che molte persone apprezzano…" [ref=e198]
+            - heading "Ho visto che molte persone apprezzano…" [level=2, ref=e215]
+          - paragraph
+          - StaticText "July 29, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e111]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e112]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e113]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - generic
+      - button "Dismiss" [ref=e114]
+      - paragraph
+        - StaticText "See if a website is trustworthy without leaving the page"
+      - link "Get Chrome extension" [ref=e161]
+        - StaticText "Get Chrome extension"
+    - article
+      - complementary "Info for Arturo Buccho"
+        - link "Arturo Buccho IT • 1 review" [ref=e162]
+          - StaticText "Arturo Buccho"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 6, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Ho avuto un piccolo problema con il mio…" [ref=e199]
+            - heading "Ho avuto un piccolo problema con il mio…" [level=2, ref=e216]
+          - paragraph
+          - StaticText "July 30, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e115]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e116]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e117]
+      - generic
+        - image
+        - image "Kukirin Italy logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Italy"
+        - time
+          - StaticText "Oct 11, 2025"
+        - paragraph
+          - StaticText "Grazie mille per la tua recensione positiva! 💫"
+          - LineBreak "\n"
+          - StaticText "Siamo lieti che ti sia piaciuto il tuo soggiorno da Kukirin. Non vediamo l'ora di rivederti su https://www.kukirin-italy.com/"
+          - LineBreak "\n"
+          - StaticText "Il tuo feedback ci stimola a continuare a migliorare! 🚀"
+    - article
+      - complementary "Info for Grazia Bergamaschi"
+        - link "Grazia Bergamaschi IT • 1 review" [ref=e163]
+          - StaticText "Grazia Bergamaschi"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Aug 5, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "M4 Max" [ref=e200]
+            - heading "M4 Max" [level=2, ref=e217]
+      - button "Useful" [ref=e118]
+      - button "Share" [expanded=false, ref=e119]
+      - button "Flag this review" [ref=e120]
+    - navigation "Pagination" [ref=e34]
+      - link "Previous page" [disabled, ref=e121]
+      - link "Page number 1" [ref=e122]
+      - link "Next page" [disabled, ref=e123]
+  - heading "The TrustpilotExperience" [level=3, ref=e14]
+  - heading "We're open to all" [level=4, ref=e15]
+    - button "We're open to all" [expanded=false, ref=e35]
+  - heading "We champion verified reviews" [level=4, ref=e16]
+    - button "We champion verified reviews" [expanded=false, ref=e36]
+  - heading "We fight fake reviews" [level=4, ref=e17]
+    - button "We fight fake reviews" [expanded=false, ref=e37]
+  - heading "We show the latest reviews" [level=4, ref=e18]
+    - button "We show the latest reviews" [expanded=false, ref=e38]
+  - heading "We encourage constructive feedback" [level=4, ref=e19]
+    - button "We encourage constructive feedback" [expanded=false, ref=e39]
+  - heading "We verify reviewers" [level=4, ref=e20]
+    - button "We verify reviewers" [expanded=false, ref=e40]
+  - heading "We advocate against bias" [level=4, ref=e21]
+    - button "We advocate against bias" [expanded=false, ref=e41]
+  - link "Take a closer look" [ref=e22]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e42]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e43]
+    - DescriptionList
+      - term "United States" [ref=e124] clickable [cursor:pointer]
+        - button "United States" [ref=e164]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e44]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e165]
+      - listitem [level=1]
+        - link "Jobs" [ref=e166]
+      - listitem [level=1]
+        - link "Contact" [ref=e167]
+      - listitem [level=1]
+        - link "Blog" [ref=e168]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e169]
+      - listitem [level=1]
+        - link "Press" [ref=e170]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e171]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e172]
+  - generic
+    - heading "Community" [level=3, ref=e45]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e173]
+      - listitem [level=1]
+        - link "Help Center" [ref=e174]
+      - listitem [level=1]
+        - link "Log in" [ref=e175]
+      - listitem [level=1]
+        - link "Sign up" [ref=e176]
+  - generic
+    - heading "Businesses" [level=3, ref=e46]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e177]
+      - listitem [level=1]
+        - link "Products" [ref=e178]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e179]
+      - listitem [level=1]
+        - link "Business Login" [ref=e180]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e181]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e182]
+  - generic
+    - heading "Follow us on" [level=3, ref=e47]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e183]
+      - listitem [level=1]
+        - link "X" [ref=e184]
+      - listitem [level=1]
+        - link "Instagram" [ref=e185]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e186]
+      - listitem [level=1]
+        - link "Youtube" [ref=e187]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e125]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e126]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e127]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e128]
+    - listitem [level=1]
+      - link "System status" [ref=e129]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e130]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e131]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e132]

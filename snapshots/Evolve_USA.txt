@@ -1,0 +1,326 @@
+- generic
+  - StaticText "🔍"
+  - textbox "粘贴 Trustpilot 品牌链接进行调研..." [ref=e5]
+  - button "展开调研队列" [ref=e6]
+    - StaticText "▶"
+  - generic [ref=e1] clickable [cursor:pointer, onclick]
+    - generic
+      - StaticText "安全告警 · "
+      - emphasis
+      - StaticText " 条匹配 · 点击展开"
+    - button "×" [ref=e7]
+  - heading "Meepo EU · Trustpilot VOC 竞品分析" [level=1, ref=e2]
+    - StaticText "Meepo EU · Trustpilot VOC 竞品分析"
+  - StaticText "2026-06-14"
+  - emphasis
+    - StaticText "深度扫描"
+  - StaticText "·"
+  - StaticText "12"
+  - StaticText "电动滑板品牌"
+  - LabelText
+    - StaticText "品类"
+  - combobox [expanded=false, ref=e8]: 电动滑板
+    - MenuListPopup
+      - option "电动滑板" [selected, ref=e10]
+      - option "电动滑板车" [ref=e11]
+  - LabelText
+    - StaticText "调研品牌"
+  - combobox [expanded=false, ref=e9]: Meepo EU (3.8/5)
+    - MenuListPopup
+      - option "Meepo EU (3.8/5)" [selected, ref=e12]
+      - option "Meepo US (3.4/5)" [ref=e13]
+      - option "Exway Global (3.2/5)" [ref=e14]
+      - option "Exway USA (3.4/5)" [ref=e15]
+      - option "Backfire Global (2.8/5)" [ref=e16]
+      - option "Backfire USA (3.7/5)" [ref=e17]
+      - option "Maxfind (3.6/5)" [ref=e18]
+      - option "Evolve AU (3.3/5)" [ref=e19]
+      - option "Evolve UK (2.9/5)" [ref=e20]
+      - option "Evolve USA (4.0/5)" [ref=e21]
+      - option "Tynee (4.8/5)" [ref=e22]
+      - option "Ownboard (2.5/5)" [ref=e23]
+  - StaticText "3.8/5"
+  - button "★ Trustpilot 购后分析" [ref=e3]
+  - button "⚭ Reddit 购前洞察" [ref=e4]
+  - StaticText "★"
+  - generic
+    - StaticText "Trustpilot 购后分析Post-Purchase VOC"
+  - generic
+    - generic
+      - StaticText "调研品牌"
+      - StaticText "3.8"
+      - StaticText "Meepo EU · 5 reviews"
+    - generic
+      - StaticText "行业均分"
+      - StaticText "3.45"
+      - StaticText "12品牌均值"
+    - generic
+      - StaticText "行业最高"
+      - StaticText "4.8"
+      - StaticText "Tynee"
+    - generic
+      - StaticText "行业最低"
+      - StaticText "2.5"
+      - StaticText "Ownboard"
+    - generic
+      - StaticText "总评论数"
+      - StaticText "397"
+      - StaticText "12品牌合计"
+  - StaticText "品牌评分排名"
+  - StaticText "🟠 Meepo EU"
+  - generic
+    - StaticText "1"
+    - StaticText "Tynee"
+    - StaticText "4.8"
+    - StaticText "2"
+    - StaticText "Evolve USA"
+    - StaticText "4.0"
+    - StaticText "3"
+    - StaticText "Meepo EU"
+    - StaticText "3.8"
+    - StaticText "4"
+    - StaticText "Backfire USA"
+    - StaticText "3.7"
+    - StaticText "5"
+    - StaticText "Maxfind"
+    - StaticText "3.6"
+    - StaticText "6"
+    - StaticText "Meepo US"
+    - StaticText "3.4"
+    - StaticText "7"
+    - StaticText "Exway USA"
+    - StaticText "3.4"
+    - StaticText "8"
+    - StaticText "Evolve AU"
+    - StaticText "3.3"
+    - StaticText "9"
+    - StaticText "Exway Global"
+    - StaticText "3.2"
+    - StaticText "10"
+    - StaticText "Evolve UK"
+    - StaticText "2.9"
+    - StaticText "11"
+    - StaticText "Backfire Global"
+    - StaticText "2.8"
+    - StaticText "12"
+    - StaticText "Ownboard"
+    - StaticText "2.5"
+  - StaticText "四维对标雷达"
+  - StaticText "Meepo EU 数据"
+  - Canvas
+  - StaticText "品牌详细对比"
+  - StaticText "点击表头排序"
+  - table
+    - rowgroup
+      - row
+        - columnheader "品牌" [ref=e168] clickable [cursor:pointer]
+        - columnheader "评分 ▾" [ref=e169] clickable [cursor:pointer]
+        - columnheader "评论" [ref=e170] clickable [cursor:pointer]
+        - columnheader "星级分布" [ref=e171] clickable [cursor:pointer]
+        - columnheader "风险" [ref=e172] clickable [cursor:pointer]
+        - columnheader "4周趋势" [ref=e173] clickable [cursor:pointer]
+        - columnheader "趋势" [ref=e174] clickable [cursor:pointer]
+        - columnheader "核心正面" [ref=e175] clickable [cursor:pointer]
+        - columnheader "核心负面" [ref=e176] clickable [cursor:pointer]
+    - row
+      - cell "Meepo EU 🛹" [ref=e24]
+      - cell "3.8" [ref=e25]
+      - cell "5" [ref=e26]
+      - cell
+      - cell "关注" [ref=e27]
+      - cell
+      - cell "→ 持平" [ref=e28]
+      - cell "骑行舒适" [ref=e29]
+      - cell "物流慢" [ref=e30]
+    - row
+      - cell "Meepo US" [ref=e31]
+      - cell "3.4" [ref=e32]
+      - cell "50" [ref=e33]
+      - cell
+      - cell "关注" [ref=e34]
+      - cell
+      - cell "↑ 上升 +0.2" [ref=e35]
+      - cell "客服响应 退款处理 用户推荐度高" [ref=e36]
+      - cell "物流丢失 产品缺陷 功能失灵" [ref=e37]
+    - row
+      - cell "Exway Global" [ref=e38]
+      - cell "3.2" [ref=e39]
+      - cell "50" [ref=e40]
+      - cell
+      - cell "关注" [ref=e41]
+      - cell
+      - cell "→ 持平" [ref=e42]
+      - cell "客服响应 品质口碑好 用户推荐度高" [ref=e43]
+      - cell "功能故障 产品故障 客服无视" [ref=e44]
+    - row
+      - cell "Exway USA" [ref=e45]
+      - cell "3.4" [ref=e46]
+      - cell "8" [ref=e47]
+      - cell
+      - cell "关注" [ref=e48]
+      - cell
+      - cell "→ 持平" [ref=e49]
+      - cell "退款处理 客服响应 品质口碑好" [ref=e50]
+      - cell "产品缺陷 功能故障" [ref=e51]
+    - row
+      - cell "Backfire Global" [ref=e52]
+      - cell "2.8" [ref=e53]
+      - cell "19" [ref=e54]
+      - cell
+      - cell "危机" [ref=e55]
+      - cell
+      - cell "→ 持平" [ref=e56]
+      - cell "品质口碑好 用户推荐度高 客服响应" [ref=e57]
+      - cell "电池安全隐患 产品故障 迟迟未到" [ref=e58]
+    - row
+      - cell "Backfire USA" [ref=e59]
+      - cell "3.7" [ref=e60]
+      - cell "19" [ref=e61]
+      - cell
+      - cell "关注" [ref=e62]
+      - cell
+      - cell "🆕 新" [ref=e63]
+      - cell "客服响应 退款处理 品质口碑好" [ref=e64]
+      - cell "电池安全隐患 做工粗糙 功能故障" [ref=e65]
+    - row
+      - cell "Maxfind" [ref=e66]
+      - cell "3.6" [ref=e67]
+      - cell "50" [ref=e68]
+      - cell
+      - cell "关注" [ref=e69]
+      - cell
+      - cell "→ 持平 -0.1" [ref=e70]
+      - cell "客服响应 品质口碑好 退款处理" [ref=e71]
+      - cell "做工粗糙 价格偏高 产品故障" [ref=e72]
+    - row
+      - cell "Evolve AU" [ref=e73]
+      - cell "3.3" [ref=e74]
+      - cell "86" [ref=e75]
+      - cell
+      - cell "关注" [ref=e76]
+      - cell
+      - cell "→ 持平" [ref=e77]
+      - cell "客服响应 品质口碑好 用户推荐度高" [ref=e78]
+      - cell "产品故障 产品缺陷 功能失灵" [ref=e79]
+    - row
+      - cell "Evolve UK" [ref=e80]
+      - cell "2.9" [ref=e81]
+      - cell "15" [ref=e82]
+      - cell
+      - cell "危机" [ref=e83]
+      - cell
+      - cell "→ 持平" [ref=e84]
+      - cell "客服响应 退款处理 客服有帮助" [ref=e85]
+      - cell "定价过高 产品故障 客服无用" [ref=e86]
+    - row
+      - cell "Evolve USA" [ref=e87]
+      - cell "4.0" [ref=e88]
+      - cell "14" [ref=e89]
+      - cell
+      - cell "健康" [ref=e90]
+      - cell
+      - cell "→ 持平" [ref=e91]
+      - cell "用户推荐度高 用户喜爱 退款处理" [ref=e92]
+      - cell "物流丢失 未收到货 产品缺陷" [ref=e93]
+    - row
+      - cell "Tynee" [ref=e94]
+      - cell "4.8" [ref=e95]
+      - cell "50" [ref=e96]
+      - cell
+      - cell "健康" [ref=e97]
+      - cell
+      - cell "→ 持平" [ref=e98]
+      - cell "客服响应 用户推荐度高 品质口碑好" [ref=e99]
+      - cell "迟迟未到 产品故障 物流延迟" [ref=e100]
+    - row
+      - cell "Ownboard" [ref=e101]
+      - cell "2.5" [ref=e102]
+      - cell "31" [ref=e103]
+      - cell
+      - cell "危机" [ref=e104]
+      - cell
+      - cell "→ 持平" [ref=e105]
+      - cell "客服响应 退款处理 品质口碑好" [ref=e106]
+      - cell "价格偏高 产品缺陷 产品故障" [ref=e107]
+  - StaticText "四维度正面率矩阵"
+  - StaticText "深=≥60 中=≥45 浅=<45"
+  - table
+    - rowgroup
+      - row
+        - columnheader "品牌" [ref=e177]
+        - columnheader "产品质量" [ref=e178]
+        - columnheader "客户服务" [ref=e179]
+        - columnheader "物流配送" [ref=e180]
+        - columnheader "性价比" [ref=e181]
+    - row
+      - cell "Meepo EU 🛹" [ref=e108]
+      - cell "1" [ref=e109]
+      - cell "—" [ref=e110]
+      - cell "1" [ref=e111]
+      - cell "—" [ref=e112]
+    - row
+      - cell "Meepo US" [ref=e113]
+      - cell "21" [ref=e114]
+      - cell "35" [ref=e115]
+      - cell "8" [ref=e116]
+      - cell "4" [ref=e117]
+    - row
+      - cell "Tynee" [ref=e118]
+      - cell "23" [ref=e119]
+      - cell "24" [ref=e120]
+      - cell "—" [ref=e121]
+      - cell "14" [ref=e122]
+    - row
+      - cell "Maxfind" [ref=e123]
+      - cell "19" [ref=e124]
+      - cell "24" [ref=e125]
+      - cell "5" [ref=e126]
+      - cell "11" [ref=e127]
+    - row
+      - cell "Evolve AU" [ref=e128]
+      - cell "22" [ref=e129]
+      - cell "23" [ref=e130]
+      - cell "10" [ref=e131]
+      - cell "—" [ref=e132]
+    - row
+      - cell "Exway Global" [ref=e133]
+      - cell "16" [ref=e134]
+      - cell "20" [ref=e135]
+      - cell "9" [ref=e136]
+      - cell "—" [ref=e137]
+    - row
+      - cell "Ownboard" [ref=e138]
+      - cell "12" [ref=e139]
+      - cell "14" [ref=e140]
+      - cell "8" [ref=e141]
+      - cell "—" [ref=e142]
+    - row
+      - cell "Backfire USA" [ref=e143]
+      - cell "5" [ref=e144]
+      - cell "10" [ref=e145]
+      - cell "—" [ref=e146]
+      - cell "5" [ref=e147]
+    - row
+      - cell "Evolve UK" [ref=e148]
+      - cell "5" [ref=e149]
+      - cell "8" [ref=e150]
+      - cell "0" [ref=e151]
+      - cell "5" [ref=e152]
+    - row
+      - cell "Backfire Global" [ref=e153]
+      - cell "3" [ref=e154]
+      - cell "7" [ref=e155]
+      - cell "6" [ref=e156]
+      - cell "1" [ref=e157]
+    - row
+      - cell "Exway USA" [ref=e158]
+      - cell "3" [ref=e159]
+      - cell "6" [ref=e160]
+      - cell "2" [ref=e161]
+      - cell "1" [ref=e162]
+    - row
+      - cell "Evolve USA" [ref=e163]
+      - cell "7" [ref=e164]
+      - cell "2" [ref=e165]
+      - cell "0" [ref=e166]
+      - cell "2" [ref=e167]

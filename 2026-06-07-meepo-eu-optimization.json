@@ -1,0 +1,36 @@
+{
+  "scan_date": "2026-06-07",
+  "brands": [
+    {
+      "name": "Meepo EU",
+      "url": "https://www.trustpilot.com/review/meepoboard-eu.com",
+      "rating": 0,
+      "total_reviews": 0,
+      "star_distribution": {
+        "5": {"count": 0, "percentage": 0},
+        "4": {"count": 0, "percentage": 0},
+        "3": {"count": 0, "percentage": 0},
+        "2": {"count": 0, "percentage": 0},
+        "1": {"count": 0, "percentage": 0}
+      },
+      "risk_label": "red",
+      "trend": "unknown",
+      "key_positive": ["域名新注册需积累信任"],
+      "key_negative": ["Scam Detector 20.9分", "无EU退货权声明", "物流不透明", "客服响应慢", "Trustpilot页面未运营"],
+      "monthly_trend": [],
+      "theme_breakdown": {},
+      "top_strengths": [],
+      "top_weaknesses": [],
+      "action_items": [
+        {"priority": "P0", "issue": "网站信任层缺失", "frequency": 0, "impact": "致命", "suggestion": "Scam Detector/ScamAdviser认领验证+首页放Trustpilot widget+Footer补全EU公司信息/VAT号/仓库地址"},
+        {"priority": "P0", "issue": "EU消费者法权未声明", "frequency": 0, "impact": "致命", "suggestion": "meepoboard-eu.com单独写EU退货政策，明确14天无理由退货权(2011/83/EU指令)"},
+        {"priority": "P0", "issue": "物流透明度极差", "frequency": 0, "impact": "80%差评根源", "suggestion": "下单后即时告知线路/天数/节点更新频率；首页实时显示EU仓库存状态；对标Tynee设仓"},
+        {"priority": "P1", "issue": "Trustpilot页面未运营", "frequency": 0, "impact": "高", "suggestion": "认领meepoboard-eu.com Trustpilot页面+上传logo/公司简介+确认收货后3天自动发邀请邮件"},
+        {"priority": "P1", "issue": "差评回复率极低", "frequency": 0, "impact": "高", "suggestion": "每条1-3星差评48h内公开回复(针对具体问题非模板)，目标回复率>80%"},
+        {"priority": "P1", "issue": "好评邀请机制缺失", "frequency": 0, "impact": "中", "suggestion": "客服确认问题解决后发Trustpilot邀请链接，6个月目标评分3.8+"},
+        {"priority": "P2", "issue": "客服SLA未公开", "frequency": 0, "impact": "中", "suggestion": "网站承诺工作日4h首次回复+24h解决方案；设EU本地客服(至少1人)；'我的板子在哪'类工单标准化模板"},
+        {"priority": "P2", "issue": "退款流程不透明", "frequency": 0, "impact": "中", "suggestion": "退款申请后自动发确认邮件含时间线(3工作日审核+5工作日到账)；拒绝也主动告知原因"}
+      ]
+    }
+  ]
+}

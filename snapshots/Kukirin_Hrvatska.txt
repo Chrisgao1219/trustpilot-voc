@@ -1,0 +1,236 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e38]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation
+    - button "Summary" [ref=e39]
+    - button "About" [ref=e40]
+    - button "Reviews" [ref=e41]
+    - link "Visit website" [ref=e42]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e43]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile July 2025 Kukirin Hrvatska Reviews0 • TrustScore 0 out of 5 0.0 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Write a review Visit website" [ref=e44]
+      - image "Kukirin Hrvatska logo"
+    - generic
+      - button "Claimed profile July 2025" [expanded=false, ref=e45]
+      - heading "Kukirin Hrvatska Reviews0" [level=1, ref=e46]
+        - link "Reviews0" [ref=e75]
+      - generic
+        - link "TrustScore 0 out of 5 0.0" [ref=e76]
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e77]
+      - link "Write a review" [ref=e47]
+      - link "Visit website" [ref=e48]
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e7]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e21]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Contact info" [level=2, ref=e8]
+  - list
+    - listitem [level=1]
+      - paragraph
+    - listitem [level=1]
+      - link "kukirin-hrvatska.com" [ref=e49]
+  - heading "People also looked at Tooltip" [level=2, ref=e9]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e22]
+  - button "SCROLL BACK" [disabled, ref=e10]
+  - button "SCROLL FORWARD" [ref=e11]
+  - generic
+    - link "Ku Kirin logo Ku Kirin ku-kirin.it TrustScore 4.5 out of 5 4.6 (35)" [ref=e50]
+      - image "Ku Kirin logo"
+      - heading "Ku Kirin" [level=3, ref=e78]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+    - link "Todimart logo Todimart todimart.com TrustScore 4 out of 5 3.8 (89)" [ref=e51]
+      - image "Todimart logo"
+      - heading "Todimart" [level=3, ref=e79]
+      - paragraph
+      - image "TrustScore 4 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kukirin Escooters logo Kukirin Escooters www.kukirin-escooters.com TrustScore 4.5 out of 5 4.5 (148)" [ref=e52]
+      - image "Kukirin Escooters logo"
+      - heading "Kukirin Escooters" [level=3, ref=e80]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e53]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e81]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+    - link "Kukirin logo Kukirin kukirin.es TrustScore 3 out of 5 3 (77)" [ref=e54]
+      - image "Kukirin logo"
+      - heading "Kukirin" [level=3, ref=e82]
+      - paragraph
+      - image "TrustScore 3 out of 5"
+      - paragraph
+      - paragraph
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e55]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e83]
+      - paragraph
+      - image "TrustScore 3 out of 5"
+      - paragraph
+      - paragraph
+    - link "Joyor Escooter logo Joyor Escooter www.joyor-escooter.com TrustScore 4.5 out of 5 4.3 (266)" [ref=e56]
+      - image "Joyor Escooter logo"
+      - heading "Joyor Escooter" [level=3, ref=e84]
+      - paragraph
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+      - paragraph
+  - complementary
+    - StaticText "0.0"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e57]
+    - heading "All reviews" [level=2, ref=e58]
+    - paragraph
+      - StaticText "(0)"
+    - paragraph
+      - strong
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e59]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e60]
+    - LayoutTable
+      - LabelText
+        - checkbox "5-star 0%" [checked=false, disabled, ref=e109]
+      - LabelText
+        - checkbox "4-star 0%" [checked=false, disabled, ref=e110]
+      - LabelText
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e111]
+      - LabelText
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e112]
+      - LabelText
+        - checkbox "1-star 0%" [checked=false, disabled, ref=e113]
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e61]
+  - generic
+    - generic
+      - link "Read more" [ref=e62]
+  - generic
+    - heading "No reviews" [level=3, ref=e23]
+    - paragraph
+    - navigation "Pagination" [ref=e24]
+      - link "Previous page" [disabled, ref=e63]
+      - link "Page number 1" [ref=e64]
+      - link "Next page" [disabled, ref=e65]
+  - heading "The TrustpilotExperience" [level=3, ref=e12]
+  - heading "We're open to all" [level=4, ref=e13]
+    - button "We're open to all" [expanded=false, ref=e25]
+  - heading "We champion verified reviews" [level=4, ref=e14]
+    - button "We champion verified reviews" [expanded=false, ref=e26]
+  - heading "We fight fake reviews" [level=4, ref=e15]
+    - button "We fight fake reviews" [expanded=false, ref=e27]
+  - heading "We show the latest reviews" [level=4, ref=e16]
+    - button "We show the latest reviews" [expanded=false, ref=e28]
+  - heading "We encourage constructive feedback" [level=4, ref=e17]
+    - button "We encourage constructive feedback" [expanded=false, ref=e29]
+  - heading "We verify reviewers" [level=4, ref=e18]
+    - button "We verify reviewers" [expanded=false, ref=e30]
+  - heading "We advocate against bias" [level=4, ref=e19]
+    - button "We advocate against bias" [expanded=false, ref=e31]
+  - link "Take a closer look" [ref=e20]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e32]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e33]
+    - DescriptionList
+      - term "United States" [ref=e66] clickable [cursor:pointer]
+        - button "United States" [ref=e85]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e34]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e86]
+      - listitem [level=1]
+        - link "Jobs" [ref=e87]
+      - listitem [level=1]
+        - link "Contact" [ref=e88]
+      - listitem [level=1]
+        - link "Blog" [ref=e89]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e90]
+      - listitem [level=1]
+        - link "Press" [ref=e91]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e92]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e93]
+  - generic
+    - heading "Community" [level=3, ref=e35]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e94]
+      - listitem [level=1]
+        - link "Help Center" [ref=e95]
+      - listitem [level=1]
+        - link "Log in" [ref=e96]
+      - listitem [level=1]
+        - link "Sign up" [ref=e97]
+  - generic
+    - heading "Businesses" [level=3, ref=e36]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e98]
+      - listitem [level=1]
+        - link "Products" [ref=e99]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e100]
+      - listitem [level=1]
+        - link "Business Login" [ref=e101]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e102]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e103]
+  - generic
+    - heading "Follow us on" [level=3, ref=e37]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e104]
+      - listitem [level=1]
+        - link "X" [ref=e105]
+      - listitem [level=1]
+        - link "Instagram" [ref=e106]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e107]
+      - listitem [level=1]
+        - link "Youtube" [ref=e108]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e67]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e68]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e69]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e70]
+    - listitem [level=1]
+      - link "System status" [ref=e71]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e72]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e73]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e74]

@@ -1,0 +1,429 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e46]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Vehicles & Transportation" [ref=e97]
+        - image
+      - listitem [level=1]
+        - link "Bicycles" [ref=e98]
+        - image
+      - listitem [level=1]
+        - link "Bicycle Store" [ref=e99]
+        - image
+      - listitem [level=1]
+        - link "Kugoofrance" [disabled, ref=e100]
+  - navigation
+    - button "Summary" [ref=e47]
+    - button "About" [ref=e48]
+    - button "Reviews" [ref=e49]
+    - link "Visit website" [ref=e50]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e51]
+      - StaticText "Write a review"
+  - generic
+    - link "Unclaimed profile Kugoofrance Reviews3 • TrustScore 4 out of 5 3.8 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Bicycle Store Write a review Visit website" [ref=e52]
+      - image "Kugoofrance logo"
+    - generic
+      - button "Unclaimed profile" [expanded=false, ref=e53]
+        - StaticText "Unclaimed profile"
+      - heading "Kugoofrance Reviews3" [level=1, ref=e54]
+        - StaticText "Kugoofrance"
+        - link "Reviews3" [ref=e101]
+          - StaticText "Reviews3"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 4 out of 5 3.8" [ref=e102]
+          - image "TrustScore 4 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e103]
+      - link "Bicycle Store" [ref=e104]
+      - link "Write a review" [ref=e55]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e56]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e23]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Company details" [level=2, ref=e9]
+  - list
+    - listitem [level=1]
+      - link "Bicycle Store" [ref=e57]
+    - listitem [level=1]
+      - link "Bike Accessories Store" [ref=e58]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e59]
+  - heading "Contact info" [level=2, ref=e10]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "United States"
+    - listitem [level=1]
+      - link "kugoofrance.com" [ref=e60]
+  - generic
+    - generic [ref=e24] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "3.8"
+      - heading "Great" [level=3, ref=e61]
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e25]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e26]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e11]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e27]
+  - button "SCROLL BACK" [disabled, ref=e12]
+  - button "SCROLL FORWARD" [ref=e13]
+  - generic
+    - link "Leonx logo Leonx leonx.com TrustScore 5 out of 5 4.8 (138)" [ref=e62]
+      - image "Leonx logo"
+      - heading "Leonx" [level=3, ref=e105]
+      - paragraph
+        - StaticText "leonx.com"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(138)"
+    - link "Eclio Bike logo Eclio Bike ecliogo.com TrustScore 4 out of 5 4.2 (8)" [ref=e63]
+      - image "Eclio Bike logo"
+      - heading "Eclio Bike" [level=3, ref=e106]
+      - paragraph
+        - StaticText "ecliogo.com"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "4.2"
+      - paragraph
+        - StaticText "(8)"
+    - link "Gocio Electric Bike logo Gocio Electric Bike gocioebike.com TrustScore 4 out of 5 3.8 (12)" [ref=e64]
+      - image "Gocio Electric Bike logo"
+      - heading "Gocio Electric Bike" [level=3, ref=e107]
+      - paragraph
+        - StaticText "gocioebike.com"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3.8"
+      - paragraph
+        - StaticText "(12)"
+    - link "Eilleobike logo Eilleobike eilleobike.com TrustScore 4.5 out of 5 4.3 (16)" [ref=e65]
+      - image "Eilleobike logo"
+      - heading "Eilleobike" [level=3, ref=e108]
+      - paragraph
+        - StaticText "eilleobike.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.3"
+      - paragraph
+        - StaticText "(16)"
+    - link "Wheelease logo Wheelease wheelease.com TrustScore 4.5 out of 5 4.3 (9)" [ref=e66]
+      - image "Wheelease logo"
+      - heading "Wheelease" [level=3, ref=e109]
+      - paragraph
+        - StaticText "wheelease.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.3"
+      - paragraph
+        - StaticText "(9)"
+    - link "Comparativa logo Comparativa comparativa.eu TrustScore 4 out of 5 3.8 (2)" [ref=e67]
+      - image "Comparativa logo"
+      - heading "Comparativa" [level=3, ref=e110]
+      - paragraph
+        - StaticText "comparativa.eu"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3.8"
+      - paragraph
+        - StaticText "(2)"
+    - link "Meet One Trike logo Meet One Trike meetonetrike.com TrustScore 4.5 out of 5 4.5 (135)" [ref=e68]
+      - image "Meet One Trike logo"
+      - heading "Meet One Trike" [level=3, ref=e111]
+      - paragraph
+        - StaticText "meetonetrike.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.5"
+      - paragraph
+        - StaticText "(135)"
+    - link "Roll Road logo Roll Road roll-road.com TrustScore 5 out of 5 4.8 (64)" [ref=e69]
+      - image "Roll Road logo"
+      - heading "Roll Road" [level=3, ref=e112]
+      - paragraph
+        - StaticText "roll-road.com"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(64)"
+  - complementary
+    - StaticText "3.8"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e70]
+    - heading "All reviews" [level=2, ref=e71]
+    - paragraph
+      - StaticText "(3)"
+    - paragraph
+      - strong
+        - StaticText "0 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e72]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e73]
+    - LayoutTable
+      - LabelText "1 of 3 reviews" [ref=e113] clickable [cursor:pointer]
+        - checkbox "5-star 33%" [checked=false, ref=e148]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "33%"
+      - LabelText "1 of 3 reviews" [ref=e114] clickable [cursor:pointer]
+        - checkbox "4-star 33%" [checked=false, ref=e149]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "33%"
+      - LabelText "0 of 3 reviews"
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e150]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 3 reviews"
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e151]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "1 of 3 reviews" [ref=e115] clickable [cursor:pointer]
+        - checkbox "1-star 34%" [checked=false, ref=e152]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "34%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e74]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e75]
+  - generic
+    - generic
+      - generic [ref=e116] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e144]
+    - button "More filters" [ref=e28]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e29]
+      - paragraph
+        - StaticText "Most recent"
+  - separator
+  - generic
+    - article
+      - complementary "Info for miss watts"
+        - link "miss watts FR • 1 review" [ref=e117]
+          - StaticText "miss watts"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "May 16, 2024"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Contact client très professionnel" [ref=e145]
+            - heading "Contact client très professionnel" [level=2, ref=e153]
+          - paragraph
+          - StaticText "May 15, 2024"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e76]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e77]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e78]
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for fabrice dulin"
+        - StaticText "FD"
+        - link "fabrice dulin FR • 14 reviews" [ref=e118]
+          - StaticText "fabrice dulin"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "14"
+          - StaticText " reviews"
+      - time
+        - StaticText "Oct 12, 2022"
+      - generic
+        - image "Rated 4 out of 5 stars"
+        - generic
+          - link "Mon expérience avec kugoo France dans…" [ref=e146]
+            - heading "Mon expérience avec kugoo France dans…" [level=2, ref=e154]
+          - paragraph
+          - StaticText "October 11, 2022"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e79]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e80]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e81]
+    - article
+      - complementary "Info for Kwam Kama"
+        - StaticText "KK"
+        - link "Kwam Kama FR • 4 reviews" [ref=e119]
+          - StaticText "Kwam Kama"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "4"
+          - StaticText " reviews"
+      - time
+        - StaticText "Oct 8, 2022"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Déplorable !" [ref=e147]
+            - heading "Déplorable !" [level=2, ref=e155]
+      - button "Useful" [ref=e82]
+      - button "Share" [expanded=false, ref=e83]
+      - button "Flag this review" [ref=e84]
+    - navigation "Pagination" [ref=e30]
+      - link "Previous page" [disabled, ref=e85]
+      - link "Page number 1" [ref=e86]
+      - link "Next page" [disabled, ref=e87]
+  - generic
+    - heading "Is this your company?" [level=3, ref=e31]
+    - link "Get free account" [ref=e32]
+  - heading "The TrustpilotExperience" [level=3, ref=e14]
+  - heading "We're open to all" [level=4, ref=e15]
+    - button "We're open to all" [expanded=false, ref=e33]
+  - heading "We champion verified reviews" [level=4, ref=e16]
+    - button "We champion verified reviews" [expanded=false, ref=e34]
+  - heading "We fight fake reviews" [level=4, ref=e17]
+    - button "We fight fake reviews" [expanded=false, ref=e35]
+  - heading "We show the latest reviews" [level=4, ref=e18]
+    - button "We show the latest reviews" [expanded=false, ref=e36]
+  - heading "We encourage constructive feedback" [level=4, ref=e19]
+    - button "We encourage constructive feedback" [expanded=false, ref=e37]
+  - heading "We verify reviewers" [level=4, ref=e20]
+    - button "We verify reviewers" [expanded=false, ref=e38]
+  - heading "We advocate against bias" [level=4, ref=e21]
+    - button "We advocate against bias" [expanded=false, ref=e39]
+  - link "Take a closer look" [ref=e22]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e40]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e41]
+    - DescriptionList
+      - term "United States" [ref=e88] clickable [cursor:pointer]
+        - button "United States" [ref=e120]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e42]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e121]
+      - listitem [level=1]
+        - link "Jobs" [ref=e122]
+      - listitem [level=1]
+        - link "Contact" [ref=e123]
+      - listitem [level=1]
+        - link "Blog" [ref=e124]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e125]
+      - listitem [level=1]
+        - link "Press" [ref=e126]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e127]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e128]
+  - generic
+    - heading "Community" [level=3, ref=e43]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e129]
+      - listitem [level=1]
+        - link "Help Center" [ref=e130]
+      - listitem [level=1]
+        - link "Log in" [ref=e131]
+      - listitem [level=1]
+        - link "Sign up" [ref=e132]
+  - generic
+    - heading "Businesses" [level=3, ref=e44]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e133]
+      - listitem [level=1]
+        - link "Products" [ref=e134]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e135]
+      - listitem [level=1]
+        - link "Business Login" [ref=e136]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e137]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e138]
+  - generic
+    - heading "Follow us on" [level=3, ref=e45]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e139]
+      - listitem [level=1]
+        - link "X" [ref=e140]
+      - listitem [level=1]
+        - link "Instagram" [ref=e141]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e142]
+      - listitem [level=1]
+        - link "Youtube" [ref=e143]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e89]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e90]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e91]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e92]
+    - listitem [level=1]
+      - link "System status" [ref=e93]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e94]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e95]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e96]

@@ -1,0 +1,465 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e53]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Business Services" [ref=e105]
+        - image
+      - listitem [level=1]
+        - link "Import & Export" [ref=e106]
+        - image
+      - listitem [level=1]
+        - link "Importer" [ref=e107]
+        - image
+      - listitem [level=1]
+        - link "Kukirin Danmark ApS" [disabled, ref=e108]
+  - navigation
+    - button "Summary" [ref=e54]
+    - button "About" [ref=e55]
+    - button "Reviews" [ref=e56]
+    - link "Visit website" [ref=e57]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e58]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile January 2025 Kukirin Danmark ApS Reviews75 • TrustScore 5 out of 5 4.8 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Importer Write a review Visit website" [ref=e59]
+      - image "Kukirin Danmark ApS logo"
+    - generic
+      - button "Claimed profile January 2025" [expanded=false, ref=e60]
+        - StaticText "Claimed profile"
+        - StaticText "January 2025"
+      - heading "Kukirin Danmark ApS Reviews75" [level=1, ref=e61]
+        - StaticText "Kukirin Danmark ApS"
+        - link "Reviews75" [ref=e109]
+          - StaticText "Reviews75"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 5 out of 5 4.8" [ref=e110]
+          - image "TrustScore 5 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e111]
+      - link "Importer" [ref=e112]
+      - link "Write a review" [ref=e62]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e63]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e23]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Company details" [level=2, ref=e9]
+  - list
+    - listitem [level=1]
+      - link "Importer" [ref=e64]
+    - listitem [level=1]
+      - link "Bicycle Store" [ref=e65]
+    - listitem [level=1]
+      - link "e-Commerce Service" [ref=e66]
+    - listitem [level=1]
+      - link "Motor Scooter Dealer" [ref=e67]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e68]
+  - generic
+    - heading "Written by the company" [level=3, ref=e24]
+    - paragraph
+      - StaticText "Din eneste Danske KuKirin El-løbehjuls forhandler, med egen butik, lager, værksted og webshop | Find os på www.KuKirinRacing.dk | www.KuKirin.nu"
+  - heading "Contact info" [level=2, ref=e10]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "Hadsundvej 381C, 9260, Gistrup, Denmark"
+    - listitem [level=1]
+      - link "93940567" [ref=e69]
+    - listitem [level=1]
+      - link "info@KukirinRacing.dk" [ref=e70]
+    - listitem [level=1]
+      - link "spelling.dk" [ref=e71]
+  - generic
+    - generic [ref=e25] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "4.8"
+      - heading "Excellent" [level=3, ref=e72]
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "75 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e26]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "Asks customers to review"
+    - paragraph
+      - StaticText "This company invites their customers to review, whether positive or negative"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e27]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e11]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e28]
+  - button "SCROLL BACK" [disabled, ref=e12]
+  - button "SCROLL FORWARD" [ref=e13]
+  - generic
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e73]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e113]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e74]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e114]
+      - paragraph
+        - StaticText "kukirin-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(413)"
+    - link "CDON Danmark - Nordens største markedsplads! logo CDON Danmark - Nordens største markedsplads! cdon.dk TrustScore 1.5 out of 5 1.6 (24K)" [ref=e75]
+      - image "CDON Danmark - Nordens største markedsplads! logo"
+      - heading "CDON Danmark - Nordens største markedsplads!" [level=3, ref=e115]
+      - paragraph
+        - StaticText "cdon.dk"
+      - image "TrustScore 1.5 out of 5"
+      - paragraph
+        - StaticText "1.6"
+      - paragraph
+        - StaticText "(24K)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e76]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e116]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "Kukirin Escooters logo Kukirin Escooters www.kukirin-escooters.com TrustScore 4.5 out of 5 4.5 (148)" [ref=e77]
+      - image "Kukirin Escooters logo"
+      - heading "Kukirin Escooters" [level=3, ref=e117]
+      - paragraph
+        - StaticText "www.kukirin-escooters.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.5"
+      - paragraph
+        - StaticText "(148)"
+    - link "Custombike logo Custombike custombike.dk TrustScore 3.5 out of 5 3.4 (227)" [ref=e78]
+      - image "Custombike logo"
+      - heading "Custombike" [level=3, ref=e118]
+      - paragraph
+        - StaticText "custombike.dk"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.4"
+      - paragraph
+        - StaticText "(227)"
+    - link "Wheelriders logo Wheelriders wheelriders.dk TrustScore 5 out of 5 4.8 (222)" [ref=e79]
+      - image "Wheelriders logo"
+      - heading "Wheelriders" [level=3, ref=e119]
+      - paragraph
+        - StaticText "wheelriders.dk"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(222)"
+    - link "Kugoo logo Kugoo kugoo.eu TrustScore 3.5 out of 5 3.5 (78)" [ref=e80]
+      - image "Kugoo logo"
+      - heading "Kugoo" [level=3, ref=e120]
+      - paragraph
+        - StaticText "kugoo.eu"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.5"
+      - paragraph
+        - StaticText "(78)"
+  - complementary
+    - StaticText "4.8"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e81]
+    - heading "All reviews" [level=2, ref=e82]
+    - paragraph
+      - StaticText "(75)"
+    - paragraph
+      - strong
+        - StaticText "40 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e83]
+      - StaticText "Write a review"
+    - paragraph
+      - StaticText "We perform checks on reviews"
+    - button "Information about trustworthy reviews" [expanded=false, ref=e84]
+    - LayoutTable
+      - LabelText "70 of 75 reviews" [ref=e121] clickable [cursor:pointer]
+        - checkbox "5-star 94%" [checked=false, ref=e155]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "94%"
+      - LabelText "4 of 75 reviews" [ref=e122] clickable [cursor:pointer]
+        - checkbox "4-star 5%" [checked=false, ref=e156]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "5%"
+      - LabelText "0 of 75 reviews"
+        - checkbox "3-star 0%" [checked=false, disabled, ref=e157]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "0 of 75 reviews"
+        - checkbox "2-star 0%" [checked=false, disabled, ref=e158]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "0%"
+      - LabelText "1 of 75 reviews" [ref=e123] clickable [cursor:pointer]
+        - checkbox "1-star 1%" [checked=false, ref=e159]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "1%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e85]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e86]
+  - generic
+    - generic
+      - generic [ref=e124] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e151]
+    - button "More filters" [ref=e29]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e30]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e31]
+    - checkbox "Service" [checked=false, ref=e32]
+      - StaticText "Service"
+    - checkbox "Recommendation" [checked=false, ref=e33]
+      - StaticText "Recommendation"
+    - checkbox "Product" [checked=false, ref=e34]
+      - StaticText "Product"
+    - checkbox "Delivery service" [checked=false, ref=e35]
+      - StaticText "Delivery service"
+    - checkbox "Quality" [checked=false, ref=e36]
+      - StaticText "Quality"
+    - checkbox "Value for money" [checked=false, ref=e37]
+      - StaticText "Value for money"
+  - separator
+  - generic
+    - article
+      - complementary "Info for dumb"
+        - StaticText "DU"
+        - link "dumb SG • 1 review" [ref=e125]
+          - StaticText "dumb"
+          - StaticText "SG"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Feb 19, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "you are dumb" [ref=e152]
+            - heading "you are dumb" [level=2, ref=e160]
+          - paragraph
+          - StaticText "February 18, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e87]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e88]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e89]
+      - generic
+        - image
+        - image "Kukirin Danmark ApS logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Danmark ApS"
+        - time
+          - StaticText "Feb 19, 2025"
+        - paragraph
+          - StaticText "Dear Mr. Dumb"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I’m very sorry to read your ‘extensive’ review it’s obvious that you had a very bad experience, somewhere."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "But I’m very pleased to let you know that your bad experience isn’t in anyway related to my business 😅👌"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I’ve flagged your review for being false and for removal."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Should you disagree in anything, then please follow the request you’ve already received, to provide your name, address and a legit order reference or evidence of a real experience tied to this business."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Please keep in mind that Trustpilot is build on consumer trust and honesty. If trust and honesty stops being the driver when making reviews, then the value of ratings are being compromised and that will punish every honest consumer as well as business fighting for keeping Trustpilot a believable trustworthy everyday tool for assessment before interacting or buying with a vendor."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Trolling or bullying businesses and individuals for fun via Trustpilot is very distasteful and will lead the quality that Trustpilot constantly is trying to provide, to slowly be eroded by distrust."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Kindly Regards"
+          - LineBreak "\n"
+          - StaticText "Spelling.dk"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for kunde"
+        - StaticText "KU"
+        - link "kunde DK • 2 reviews" [ref=e126]
+          - StaticText "kunde"
+          - StaticText "DK"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Jan 20, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e153]
+          - StaticText "Verified"
+        - generic
+          - link "It is perfect el scooter" [ref=e154]
+            - heading "It is perfect el scooter" [level=2, ref=e161]
+      - button "Useful" [ref=e90]
+      - button "Share" [expanded=false, ref=e91]
+      - button "Flag this review" [ref=e92]
+    - link "Show reviews in all languages. (75 reviews)" [ref=e38]
+    - navigation "Pagination" [ref=e39]
+      - link "Previous page" [disabled, ref=e93]
+      - link "Page number 1" [ref=e94]
+      - link "Next page" [disabled, ref=e95]
+  - heading "The TrustpilotExperience" [level=3, ref=e14]
+  - heading "We're open to all" [level=4, ref=e15]
+    - button "We're open to all" [expanded=false, ref=e40]
+  - heading "We champion verified reviews" [level=4, ref=e16]
+    - button "We champion verified reviews" [expanded=false, ref=e41]
+  - heading "We fight fake reviews" [level=4, ref=e17]
+    - button "We fight fake reviews" [expanded=false, ref=e42]
+  - heading "We show the latest reviews" [level=4, ref=e18]
+    - button "We show the latest reviews" [expanded=false, ref=e43]
+  - heading "We encourage constructive feedback" [level=4, ref=e19]
+    - button "We encourage constructive feedback" [expanded=false, ref=e44]
+  - heading "We verify reviewers" [level=4, ref=e20]
+    - button "We verify reviewers" [expanded=false, ref=e45]
+  - heading "We advocate against bias" [level=4, ref=e21]
+    - button "We advocate against bias" [expanded=false, ref=e46]
+  - link "Take a closer look" [ref=e22]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e47]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e48]
+    - DescriptionList
+      - term "United States" [ref=e96] clickable [cursor:pointer]
+        - button "United States" [ref=e127]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e49]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e128]
+      - listitem [level=1]
+        - link "Jobs" [ref=e129]
+      - listitem [level=1]
+        - link "Contact" [ref=e130]
+      - listitem [level=1]
+        - link "Blog" [ref=e131]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e132]
+      - listitem [level=1]
+        - link "Press" [ref=e133]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e134]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e135]
+  - generic
+    - heading "Community" [level=3, ref=e50]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e136]
+      - listitem [level=1]
+        - link "Help Center" [ref=e137]
+      - listitem [level=1]
+        - link "Log in" [ref=e138]
+      - listitem [level=1]
+        - link "Sign up" [ref=e139]
+  - generic
+    - heading "Businesses" [level=3, ref=e51]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e140]
+      - listitem [level=1]
+        - link "Products" [ref=e141]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e142]
+      - listitem [level=1]
+        - link "Business Login" [ref=e143]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e144]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e145]
+  - generic
+    - heading "Follow us on" [level=3, ref=e52]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e146]
+      - listitem [level=1]
+        - link "X" [ref=e147]
+      - listitem [level=1]
+        - link "Instagram" [ref=e148]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e149]
+      - listitem [level=1]
+        - link "Youtube" [ref=e150]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e97]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e98]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e99]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e100]
+    - listitem [level=1]
+      - link "System status" [ref=e101]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e102]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e103]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e104]

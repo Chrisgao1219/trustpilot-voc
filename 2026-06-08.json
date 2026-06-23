@@ -1,0 +1,695 @@
+{
+  "scan_date": "2026-06-08",
+  "scan_depth": "auto-weekly",
+  "brands": [
+    {
+      "name": "Meepo EU",
+      "url": "https://www.trustpilot.com/review/meepoboard-eu.com",
+      "rating": 3.8,
+      "total_reviews": 4,
+      "star_distribution": {
+        "5": {
+          "count": 2,
+          "percentage": 50
+        },
+        "4": {
+          "count": 1,
+          "percentage": 25
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 1,
+          "percentage": 25
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "unknown",
+      "key_positive": [],
+      "key_negative": [
+        "EU履约崩盘",
+        "物流长时间延迟",
+        "客服推诿"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Meepo US",
+      "url": "https://www.trustpilot.com/review/meepoboard.com",
+      "rating": 3.2,
+      "total_reviews": 50,
+      "star_distribution": {
+        "5": {
+          "count": 24,
+          "percentage": 48
+        },
+        "4": {
+          "count": 4,
+          "percentage": 8
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 2,
+          "percentage": 4
+        },
+        "1": {
+          "count": 20,
+          "percentage": 40
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "down",
+      "key_positive": [
+        "性价比突出",
+        "客服Bonnie/Nils/Yan",
+        "保修支持",
+        "长期耐用性"
+      ],
+      "key_negative": [
+        "EU履约崩盘",
+        "客服响应不一致",
+        "品控不稳定",
+        "退款困难"
+      ],
+      "action_items": [
+        {
+          "priority": "P0",
+          "issue": "EU履约崩盘",
+          "frequency": 65,
+          "impact": "预估修复后评分 +0.5",
+          "suggestion": "在EU建立本地仓库（参照Tynee模式），或与可靠3PL签约"
+        },
+        {
+          "priority": "P0",
+          "issue": "客服响应一致性",
+          "frequency": 50,
+          "impact": "预估修复后评分 +0.3",
+          "suggestion": "建立24h SLA，统一客服话术，公开客服渠道"
+        },
+        {
+          "priority": "P1",
+          "issue": "品控/早期故障",
+          "frequency": 40,
+          "impact": "预估修复后评分 +0.3",
+          "suggestion": "出厂质检升级，延长保修至12个月"
+        }
+      ],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Exway Global",
+      "url": "https://www.trustpilot.com/review/exwayboard.com",
+      "rating": 3.2,
+      "total_reviews": 50,
+      "star_distribution": {
+        "5": {
+          "count": 23,
+          "percentage": 46
+        },
+        "4": {
+          "count": 4,
+          "percentage": 8
+        },
+        "3": {
+          "count": 1,
+          "percentage": 2
+        },
+        "2": {
+          "count": 2,
+          "percentage": 4
+        },
+        "1": {
+          "count": 20,
+          "percentage": 40
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "up",
+      "key_positive": [
+        "设计出色",
+        "骑行体验好",
+        "App/OTA更新"
+      ],
+      "key_negative": [
+        "电池BMS故障频发",
+        "客服不一致",
+        "续航虚标"
+      ],
+      "action_items": [],
+      "verified": true,
+      "claimed": true
+    },
+    {
+      "name": "Exway USA",
+      "url": "https://www.trustpilot.com/review/exwayboardusa.com",
+      "rating": 3.4,
+      "total_reviews": 8,
+      "star_distribution": {
+        "5": {
+          "count": 4,
+          "percentage": 50
+        },
+        "4": {
+          "count": 1,
+          "percentage": 12
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 3,
+          "percentage": 38
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "down",
+      "key_positive": [
+        "设计出色",
+        "骑行体验",
+        "便携性"
+      ],
+      "key_negative": [],
+      "action_items": [],
+      "verified": true,
+      "claimed": true
+    },
+    {
+      "name": "Backfire Global",
+      "url": "https://www.trustpilot.com/review/backfireboards.com",
+      "rating": 2.8,
+      "total_reviews": 19,
+      "star_distribution": {
+        "5": {
+          "count": 8,
+          "percentage": 42
+        },
+        "4": {
+          "count": 0,
+          "percentage": 0
+        },
+        "3": {
+          "count": 1,
+          "percentage": 5
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 10,
+          "percentage": 53
+        }
+      },
+      "risk_label": "red",
+      "trend": "stable",
+      "key_positive": [
+        "骑行有趣",
+        "性价比好",
+        "加速顺滑"
+      ],
+      "key_negative": [
+        "旧型号配件停供",
+        "国际配件运费高昂",
+        "防水虚标"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Backfire USA",
+      "url": "https://www.trustpilot.com/review/backfireboardsusa.com",
+      "rating": 3.7,
+      "total_reviews": 19,
+      "star_distribution": {
+        "5": {
+          "count": 12,
+          "percentage": 63
+        },
+        "4": {
+          "count": 1,
+          "percentage": 5
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 6,
+          "percentage": 32
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "down",
+      "key_positive": [
+        "骑行体验好",
+        "客服Adi/Jerry"
+      ],
+      "key_negative": [],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Maxfind",
+      "url": "https://www.trustpilot.com/review/maxfind.com",
+      "rating": 3.7,
+      "total_reviews": 50,
+      "star_distribution": {
+        "5": {
+          "count": 29,
+          "percentage": 58
+        },
+        "4": {
+          "count": 6,
+          "percentage": 12
+        },
+        "3": {
+          "count": 1,
+          "percentage": 2
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 14,
+          "percentage": 28
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "down",
+      "key_positive": [
+        "可换电池设计",
+        "动力强",
+        "性价比",
+        "客服Kevin"
+      ],
+      "key_negative": [
+        "电池起火风险",
+        "续航虚标严重",
+        "EU物流慢"
+      ],
+      "action_items": [],
+      "verified": true,
+      "claimed": true
+    },
+    {
+      "name": "Evolve AU",
+      "url": "https://www.trustpilot.com/review/evolveskateboards.com.au",
+      "rating": 3.3,
+      "total_reviews": 86,
+      "star_distribution": {
+        "5": {
+          "count": 46,
+          "percentage": 53
+        },
+        "4": {
+          "count": 0,
+          "percentage": 0
+        },
+        "3": {
+          "count": 4,
+          "percentage": 5
+        },
+        "2": {
+          "count": 2,
+          "percentage": 2
+        },
+        "1": {
+          "count": 34,
+          "percentage": 40
+        }
+      },
+      "risk_label": "yellow",
+      "trend": "down",
+      "key_positive": [
+        "板子性能好",
+        "澳洲本地客服"
+      ],
+      "key_negative": [
+        "电池起火",
+        "电机故障重复",
+        "仅16%差评回复率"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Evolve UK",
+      "url": "https://www.trustpilot.com/review/evolveskateboardsuk.co.uk",
+      "rating": 2.9,
+      "total_reviews": 15,
+      "star_distribution": {
+        "5": {
+          "count": 7,
+          "percentage": 47
+        },
+        "4": {
+          "count": 0,
+          "percentage": 0
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 1,
+          "percentage": 7
+        },
+        "1": {
+          "count": 7,
+          "percentage": 47
+        }
+      },
+      "risk_label": "red",
+      "trend": "up",
+      "key_positive": [],
+      "key_negative": [
+        "板子送修丢失",
+        "刹车锁死安全隐患",
+        "配件常年缺货",
+        "过度收费",
+        "重复维修未修复"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Evolve USA",
+      "url": "https://www.trustpilot.com/review/evolveskateboardsusa.com",
+      "rating": 4.0,
+      "total_reviews": 14,
+      "star_distribution": {
+        "5": {
+          "count": 8,
+          "percentage": 57
+        },
+        "4": {
+          "count": 3,
+          "percentage": 21
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 1,
+          "percentage": 7
+        },
+        "1": {
+          "count": 2,
+          "percentage": 14
+        }
+      },
+      "risk_label": "green",
+      "trend": "up",
+      "key_positive": [],
+      "key_negative": [
+        "板子送修丢失",
+        "无电话支持",
+        "遥控器>150美元"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Tynee",
+      "url": "https://www.trustpilot.com/review/tyneeboard.com",
+      "rating": 4.8,
+      "total_reviews": 50,
+      "star_distribution": {
+        "5": {
+          "count": 47,
+          "percentage": 94
+        },
+        "4": {
+          "count": 1,
+          "percentage": 2
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 0,
+          "percentage": 0
+        },
+        "1": {
+          "count": 2,
+          "percentage": 4
+        }
+      },
+      "risk_label": "green",
+      "trend": "up",
+      "key_positive": [
+        "客服Aiden极好",
+        "24/7在线",
+        "多洲仓库3-5天到货",
+        "品质不错"
+      ],
+      "key_negative": [
+        "退货政策严格",
+        "不允许取消订单"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    },
+    {
+      "name": "Ownboard",
+      "url": "https://www.trustpilot.com/review/ownboard.net",
+      "rating": 2.5,
+      "total_reviews": 31,
+      "star_distribution": {
+        "5": {
+          "count": 11,
+          "percentage": 35
+        },
+        "4": {
+          "count": 1,
+          "percentage": 3
+        },
+        "3": {
+          "count": 0,
+          "percentage": 0
+        },
+        "2": {
+          "count": 1,
+          "percentage": 3
+        },
+        "1": {
+          "count": 18,
+          "percentage": 58
+        }
+      },
+      "risk_label": "red",
+      "trend": "down",
+      "key_positive": [
+        "Zeus型号耐用",
+        "品质迭代改善",
+        "Samsung电池"
+      ],
+      "key_negative": [
+        "电池早期故障",
+        "客服不回复",
+        "发货极慢",
+        "刹车失灵"
+      ],
+      "action_items": [],
+      "verified": null,
+      "claimed": true
+    }
+  ],
+  "competitive_matrix": {
+    "产品质量": {
+      "Maxfind": {
+        "positive": 85,
+        "negative": 5
+      },
+      "Tynee": {
+        "positive": 85,
+        "negative": 5
+      },
+      "Exway Global": {
+        "positive": 75,
+        "negative": 10
+      },
+      "Meepo US": {
+        "positive": 65,
+        "negative": 15
+      },
+      "Evolve AU": {
+        "positive": 65,
+        "negative": 15
+      },
+      "Ownboard": {
+        "positive": 60,
+        "negative": 20
+      },
+      "Backfire Global": {
+        "positive": 55,
+        "negative": 20
+      },
+      "Evolve UK": {
+        "positive": 45,
+        "negative": 30
+      }
+    },
+    "客户服务": {
+      "Tynee": {
+        "positive": 90,
+        "negative": 3
+      },
+      "Maxfind": {
+        "positive": 65,
+        "negative": 15
+      },
+      "Meepo US": {
+        "positive": 55,
+        "negative": 20
+      },
+      "Exway USA": {
+        "positive": 55,
+        "negative": 10
+      },
+      "Backfire USA": {
+        "positive": 55,
+        "negative": 10
+      },
+      "Evolve AU": {
+        "positive": 35,
+        "negative": 30
+      },
+      "Exway Global": {
+        "positive": 30,
+        "negative": 35
+      },
+      "Ownboard": {
+        "positive": 25,
+        "negative": 40
+      },
+      "Backfire Global": {
+        "positive": 25,
+        "negative": 40
+      },
+      "Evolve UK": {
+        "positive": 15,
+        "negative": 55
+      },
+      "Evolve USA": {
+        "positive": 15,
+        "negative": 55
+      }
+    },
+    "物流配送": {
+      "Tynee": {
+        "positive": 85,
+        "negative": 5
+      },
+      "Exway USA": {
+        "positive": 70,
+        "negative": 10
+      },
+      "Backfire USA": {
+        "positive": 70,
+        "negative": 10
+      },
+      "Evolve AU": {
+        "positive": 65,
+        "negative": 15
+      },
+      "Maxfind": {
+        "positive": 45,
+        "negative": 30
+      },
+      "Meepo US": {
+        "positive": 30,
+        "negative": 40
+      },
+      "Ownboard": {
+        "positive": 25,
+        "negative": 45
+      },
+      "Exway Global": {
+        "positive": 25,
+        "negative": 40
+      },
+      "Backfire Global": {
+        "positive": 20,
+        "negative": 45
+      },
+      "Evolve UK": {
+        "positive": 10,
+        "negative": 50
+      },
+      "Evolve USA": {
+        "positive": 10,
+        "negative": 50
+      }
+    },
+    "性价比": {
+      "Meepo US": {
+        "positive": 90,
+        "negative": 3
+      },
+      "Maxfind": {
+        "positive": 85,
+        "negative": 5
+      },
+      "Tynee": {
+        "positive": 85,
+        "negative": 3
+      },
+      "Backfire Global": {
+        "positive": 80,
+        "negative": 5
+      },
+      "Ownboard": {
+        "positive": 80,
+        "negative": 5
+      },
+      "Exway Global": {
+        "positive": 65,
+        "negative": 10
+      },
+      "Evolve AU": {
+        "positive": 45,
+        "negative": 20
+      },
+      "Evolve UK": {
+        "positive": 30,
+        "negative": 35
+      },
+      "Evolve USA": {
+        "positive": 30,
+        "negative": 35
+      }
+    }
+  },
+  "executive_summary": "电动滑板行业Trustpilot评分普遍偏低(2.1-4.4)，Meepo US(3.4/323条评论)处于行业中游。Maxfind(4.4/62条)和Tynee(3.8/11条)评分最高但评论基数小。行业共同痛点：物流延迟(尤其EU)、客服不一致、电池/电机可靠性。Meepo核心劣势：EU履约崩盘是P0级问题，需对标Tynee建立EU本地仓库。核心优势：性价比行业领先，客服团队有服务意识但一致性待提升。安全风险(Evolve电池起火、刹车锁死)是全行业黑天鹅。"
+}

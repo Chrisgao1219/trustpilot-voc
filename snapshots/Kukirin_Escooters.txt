@@ -1,0 +1,1401 @@
+- banner
+  - link "Trustpilot reviews" [ref=e1]
+    - image "Trustpilot reviews"
+  - generic
+    - generic
+      - searchbox "Search for another company…" [ref=e68]
+  - link "Categories" [ref=e2]
+  - link "Blog" [ref=e3]
+  - button "Notifications" [ref=e4]
+  - link "Log in" [ref=e5]
+  - link "For businesses" [ref=e6]
+- main
+  - navigation "Breadcrumb" [ref=e7]
+    - list
+      - listitem [level=1]
+        - link "Vehicles & Transportation" [ref=e185]
+        - image
+      - listitem [level=1]
+        - link "Motorcycle & Powersports" [ref=e186]
+        - image
+      - listitem [level=1]
+        - link "Motor Scooter Dealer" [ref=e187]
+        - image
+      - listitem [level=1]
+        - link "Kukirin Escooters" [disabled, ref=e188]
+  - navigation
+    - button "Summary" [ref=e69]
+    - button "About" [ref=e70]
+    - button "Reviews" [ref=e71]
+    - link "Visit website" [ref=e72]
+      - StaticText "Visit website"
+    - link "Write a review" [ref=e73]
+      - StaticText "Write a review"
+  - generic
+    - link "Claimed profile June 2025 Kukirin Escooters Reviews148 • TrustScore 4.5 out of 5 4.5 Clickable button that opens a pop-up explaining how the Trustscore is calculated. Motor Scooter Dealer Write a review Visit website" [ref=e74]
+      - image "Kukirin Escooters logo"
+    - generic
+      - button "Claimed profile June 2025" [expanded=false, ref=e75]
+        - StaticText "Claimed profile"
+        - StaticText "June 2025"
+      - heading "Kukirin Escooters Reviews148" [level=1, ref=e76]
+        - StaticText "Kukirin Escooters"
+        - link "Reviews148" [ref=e189]
+          - StaticText "Reviews148"
+      - generic
+        - StaticText "•"
+        - link "TrustScore 4.5 out of 5 4.5" [ref=e190]
+          - image "TrustScore 4.5 out of 5"
+          - paragraph
+        - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e191]
+      - link "Motor Scooter Dealer" [ref=e192]
+      - link "Write a review" [ref=e77]
+        - StaticText "Write a review"
+      - link "Visit website" [ref=e78]
+        - StaticText "Visit website"
+  - heading "We use technology to protect platform integrity, but we don't fact-check reviews" [level=2, ref=e8]
+    - button "We use technology to protect platform integrity, but we don't fact-check reviews" [expanded=false, ref=e31]
+      - StaticText "We use technology to protect platform integrity, but we don't fact-check reviews"
+  - heading "Review summary" [level=2, ref=e9]
+  - button "Tooltip" [ref=e10]
+  - paragraph
+    - StaticText "Created with AI, based on recent reviews"
+  - paragraph
+    - StaticText "Evaluating 61 reviews, reviewers overwhelmingly had a great experience with this company. Many customers are extremely satisfied with their purchases, often describing them as one of the best they've made. The products, particularly the scooters, are consistently praised for their excellent quality, robust build, and impressive performance, including battery life and speed. Reviewers frequently hi"
+    - StaticText "… "
+    - button "See more" [ref=e32]
+  - heading "Was this summary helpful?" [level=3, ref=e11]
+  - button [ref=e12]
+  - button [ref=e13]
+  - heading "What people talk about most" [level=3, ref=e14]
+  - generic
+    - button "Scroll forward" [ref=e33]
+    - generic
+      - button "Product People report positive experiences with the product, with many recommending it due to its quality and... See more" [ref=e79]
+        - heading "Product" [level=2, ref=e193]
+        - paragraph
+          - StaticText "People report positive experiences with the product, with many recommending it due to its quality and... See more"
+      - button "Delivery service Customers had ambiguous experiences with delivery service, with many expressing satisfaction with fast... See more" [ref=e80]
+        - heading "Delivery service" [level=2, ref=e194]
+        - paragraph
+          - StaticText "Customers had ambiguous experiences with delivery service, with many expressing satisfaction with fast... See more"
+      - button "Order Reviewers mention ambiguous feedback about order experiences, with some customers expressing frustration over... See more" [ref=e81]
+        - heading "Order" [level=2, ref=e195]
+        - paragraph
+          - StaticText "Reviewers mention ambiguous feedback about order experiences, with some customers expressing frustration over... See more"
+      - button "Quality Users describe positive interactions with quality, with many reviewers praising the product's build and... See more" [ref=e82]
+        - heading "Quality" [level=2, ref=e196]
+        - paragraph
+          - StaticText "Users describe positive interactions with quality, with many reviewers praising the product's build and... See more"
+      - button "Service Reviewers highlight positive aspects of service, noting that customer service was friendly and helpful... See more" [ref=e83]
+        - heading "Service" [level=2, ref=e197]
+        - paragraph
+          - StaticText "Reviewers highlight positive aspects of service, noting that customer service was friendly and helpful... See more"
+  - heading "Reviews shaping this summary" [level=3, ref=e15]
+  - generic
+    - button "SCROLL FORWARD" [ref=e34]
+    - generic
+      - article
+        - complementary "Info for Γιάννης Cocas"
+          - link "Γιάννης Cocas Aug 7, 2025" [ref=e274]
+        - image "Rated 5 out of 5 stars"
+        - button "I’ve been using the Kukirin for a while now, and I’m genuinely impressed. It’s powerful, reliable, and the build quality is top-notch. The battery life exceeds expectations, and the ride is super smoo... See more Company replied" [ref=e198]
+          - paragraph
+          - image
+          - paragraph
+        - button "Useful" [ref=e199]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e200]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e201]
+      - article
+        - complementary "Info for DanDenDan"
+          - StaticText "DA"
+          - link "DanDenDan Apr 23, 2026" [ref=e275]
+        - image "Rated 5 out of 5 stars"
+        - button "I just have one word an it’s «AMAZING». Ordered the 15.04 and wasn’t sure that the Delay of 7 business days would be respected. That’s why I send a Message to the Customer Service the same... See more Company replied" [ref=e202]
+          - paragraph
+          - image
+          - paragraph
+        - button "Useful" [ref=e203]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e204]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e205]
+      - article
+        - complementary "Info for Morgan Griffin"
+          - StaticText "MG"
+          - link "Morgan Griffin Jun 19, 2025" [ref=e276]
+        - image "Rated 5 out of 5 stars"
+        - button "Verified" [expanded=false, ref=e277]
+          - StaticText "Verified"
+        - button "I had been on the search for a top end electric scooter for the last so many months and I am so happy to say that I have found Kukirin! Kukirin G4 MAX The instant the order was placed, I was shocked b... See more Company replied" [ref=e206]
+          - paragraph
+          - image
+          - paragraph
+        - button "Useful" [ref=e207]
+          - StaticText "Useful"
+        - generic [ref=e208] clickable [cursor:pointer, onclick]
+          - StaticText "6"
+        - button "Share" [expanded=false, ref=e209]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e210]
+      - article
+        - complementary "Info for Liam O'Connor"
+          - StaticText "LO"
+          - link "Liam O'Connor Jul 29, 2025" [ref=e278]
+        - image "Rated 5 out of 5 stars"
+        - button "The unfathomable variety of electric scooters shows no signs of slowing down, and it can be difficult to determine which one is right for you. Yes the 10 hour charging time, heavy structure is a sligh... See more Company replied" [ref=e211]
+          - paragraph
+          - image
+          - paragraph
+        - button "Useful" [ref=e212]
+          - StaticText "Useful"
+        - button "Share" [expanded=false, ref=e213]
+          - StaticText "Share"
+        - button "Flag this review" [ref=e214]
+  - button "See all 148 reviews" [ref=e16]
+    - StaticText "See all "
+    - StaticText "148"
+    - StaticText " reviews"
+  - separator
+  - heading "Company details" [level=2, ref=e17]
+  - list
+    - listitem [level=1]
+      - link "Motor Scooter Dealer" [ref=e84]
+    - listitem [level=1]
+      - link "Bicycle Store" [ref=e85]
+    - listitem [level=1]
+      - link "Bike Accessories Store" [ref=e86]
+    - listitem [level=1]
+      - link "Motor Scooter Repair Shop" [ref=e87]
+    - listitem [level=1]
+      - link "Scooter Repair Shop" [ref=e88]
+    - listitem [level=1]
+      - link "Used Bicycle Shop" [ref=e89]
+    - listitem [level=1]
+      - button "Tooltip" [ref=e90]
+  - generic
+    - heading "Written by the company" [level=3, ref=e35]
+    - paragraph
+      - StaticText "Kukirin Europe Official Website(https://www.kukirin-escooters.com) . Ships directly from European warehouses with free shipping and no additional taxes! Fast and safe delivery within the country by international express DPD or GLS, 4-7 working days to arrive. Provide fast and professional pre-sales and after-sales service through our mailbox: service@kukirin"
+      - StaticText "… "
+      - button "See more" [ref=e91]
+  - heading "Contact info" [level=2, ref=e18]
+  - list
+    - listitem [level=1]
+      - paragraph
+        - StaticText "Segro Logistics Park Aleja katowicka 66 bud A nr 63, 05 830, Nadarzyn, Poland"
+    - listitem [level=1]
+      - link "+86 18043414595" [ref=e92]
+    - listitem [level=1]
+      - link "service@kukirin-escooters.com" [ref=e93]
+    - listitem [level=1]
+      - link "www.kukirin-escooters.com" [ref=e94]
+  - generic
+    - generic [ref=e36] clickable [cursor:pointer, onclick]
+      - paragraph
+        - StaticText "4.5"
+      - heading "Excellent" [level=3, ref=e95]
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "148 reviews"
+      - StaticText "5-star"
+      - StaticText "4-star"
+      - StaticText "3-star"
+      - StaticText "2-star"
+      - StaticText "1-star"
+    - separator
+    - button "How is the TrustScore calculated?" [expanded=false, ref=e37]
+      - paragraph
+        - StaticText "How is the TrustScore calculated?"
+    - paragraph
+      - StaticText "No history of asking for reviews"
+    - paragraph
+      - StaticText "This company hasn't invited their customers, so reviews may not be representative"
+    - paragraph
+      - StaticText "Replied to 100% of negative reviews"
+    - paragraph
+      - StaticText "Typically replies within 1 week"
+    - link "How this company uses Trustpilot See how their reviews and ratings are sourced, scored, and moderated." [ref=e38]
+      - paragraph
+        - StaticText "How this company uses Trustpilot"
+      - paragraph
+        - StaticText "See how their reviews and ratings are sourced, scored, and moderated."
+  - heading "People also looked at Tooltip" [level=2, ref=e19]
+    - StaticText "People also looked at"
+    - button "Tooltip" [ref=e39]
+  - button "SCROLL BACK" [disabled, ref=e20]
+  - button "SCROLL FORWARD" [ref=e21]
+  - generic
+    - link "kukirin-scooter.com logo kukirin-scooter.com kukirin-scooter.com TrustScore 3 out of 5 3 (476)" [ref=e96]
+      - image "kukirin-scooter.com logo"
+      - heading "kukirin-scooter.com" [level=3, ref=e215]
+      - paragraph
+        - StaticText "kukirin-scooter.com"
+      - image "TrustScore 3 out of 5"
+      - paragraph
+        - StaticText "3"
+      - paragraph
+        - StaticText "(476)"
+    - link "Kukirin Escooter logo Kukirin Escooter kukirin-escooter.com TrustScore 4.5 out of 5 4.6 (413)" [ref=e97]
+      - image "Kukirin Escooter logo"
+      - heading "Kukirin Escooter" [level=3, ref=e216]
+      - paragraph
+        - StaticText "kukirin-escooter.com"
+      - image "TrustScore 4.5 out of 5"
+      - paragraph
+        - StaticText "4.6"
+      - paragraph
+        - StaticText "(413)"
+    - link "Kugooescooters logo Kugooescooters www.kugooescooters.com TrustScore 3.5 out of 5 3.7 (1K)" [ref=e98]
+      - image "Kugooescooters logo"
+      - heading "Kugooescooters" [level=3, ref=e217]
+      - paragraph
+        - StaticText "www.kugooescooters.com"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.7"
+      - paragraph
+        - StaticText "(1K)"
+    - link "Kukirin Danmark ApS logo Kukirin Danmark ApS spelling.dk TrustScore 5 out of 5 4.8 (75)" [ref=e99]
+      - image "Kukirin Danmark ApS logo"
+      - heading "Kukirin Danmark ApS" [level=3, ref=e218]
+      - paragraph
+        - StaticText "spelling.dk"
+      - image "TrustScore 5 out of 5"
+      - paragraph
+        - StaticText "4.8"
+      - paragraph
+        - StaticText "(75)"
+    - link "CDON Danmark - Nordens største markedsplads! logo CDON Danmark - Nordens største markedsplads! cdon.dk TrustScore 1.5 out of 5 1.6 (24K)" [ref=e100]
+      - image "CDON Danmark - Nordens største markedsplads! logo"
+      - heading "CDON Danmark - Nordens største markedsplads!" [level=3, ref=e219]
+      - paragraph
+        - StaticText "cdon.dk"
+      - image "TrustScore 1.5 out of 5"
+      - paragraph
+        - StaticText "1.6"
+      - paragraph
+        - StaticText "(24K)"
+    - link "Kugoo logo Kugoo kugoo.eu TrustScore 3.5 out of 5 3.5 (78)" [ref=e101]
+      - image "Kugoo logo"
+      - heading "Kugoo" [level=3, ref=e220]
+      - paragraph
+        - StaticText "kugoo.eu"
+      - image "TrustScore 3.5 out of 5"
+      - paragraph
+        - StaticText "3.5"
+      - paragraph
+        - StaticText "(78)"
+    - link "Kukirin logo Kukirin kukirin.eu TrustScore 4 out of 5 3.8 (2)" [ref=e102]
+      - image "Kukirin logo"
+      - heading "Kukirin" [level=3, ref=e221]
+      - paragraph
+        - StaticText "kukirin.eu"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "3.8"
+      - paragraph
+        - StaticText "(2)"
+    - link "Kukirin Global logo Kukirin Global kukiringlobal.com TrustScore 4 out of 5 4.2 (95)" [ref=e103]
+      - image "Kukirin Global logo"
+      - heading "Kukirin Global" [level=3, ref=e222]
+      - paragraph
+        - StaticText "kukiringlobal.com"
+      - image "TrustScore 4 out of 5"
+      - paragraph
+        - StaticText "4.2"
+      - paragraph
+        - StaticText "(95)"
+  - complementary
+    - StaticText "4.5"
+    - button "Clickable button that opens a pop-up explaining how the Trustscore is calculated." [expanded=false, ref=e104]
+    - heading "All reviews" [level=2, ref=e105]
+    - paragraph
+      - StaticText "(148)"
+    - paragraph
+      - strong
+        - StaticText "123 reviews"
+      - StaticText " in the last 12 months"
+    - link "Write a review" [ref=e106]
+      - StaticText "Write a review"
+    - LayoutTable
+      - LabelText "121 of 148 reviews" [ref=e223] clickable [cursor:pointer]
+        - checkbox "5-star 82%" [checked=false, ref=e300]
+        - paragraph
+          - StaticText "5-star"
+        - paragraph
+          - StaticText "82%"
+      - LabelText "13 of 148 reviews" [ref=e224] clickable [cursor:pointer]
+        - checkbox "4-star 9%" [checked=false, ref=e301]
+        - paragraph
+          - StaticText "4-star"
+        - paragraph
+          - StaticText "9%"
+      - LabelText "3 of 148 reviews" [ref=e225] clickable [cursor:pointer]
+        - checkbox "3-star 2%" [checked=false, ref=e302]
+        - paragraph
+          - StaticText "3-star"
+        - paragraph
+          - StaticText "2%"
+      - LabelText "3 of 148 reviews" [ref=e226] clickable [cursor:pointer]
+        - checkbox "2-star 2%" [checked=false, ref=e303]
+        - paragraph
+          - StaticText "2-star"
+        - paragraph
+          - StaticText "2%"
+      - LabelText "8 of 148 reviews" [ref=e227] clickable [cursor:pointer]
+        - checkbox "1-star 5%" [checked=false, ref=e304]
+        - paragraph
+          - StaticText "1-star"
+        - paragraph
+          - StaticText "5%"
+    - separator
+    - insertion
+    - StaticText "Advertisement"
+    - separator
+    - link "How Trustpilot labels reviews" [ref=e107]
+  - generic
+    - generic
+      - StaticText "Companies on Trustpilot aren't allowed to offer incentives or pay to hide reviews. Reviews are the opinions of individual users and not of Trustpilot. "
+      - link "Read more" [ref=e108]
+  - generic
+    - generic
+      - generic [ref=e228] clickable [onclick]
+        - searchbox "Search by keyword..." [ref=e279]
+    - button "More filters" [ref=e40]
+      - paragraph
+        - StaticText "More filters"
+    - button "Most recent" [ref=e41]
+      - paragraph
+        - StaticText "Most recent"
+    - heading "Top mentions" [level=3, ref=e42]
+    - checkbox "Delivery service" [checked=false, ref=e43]
+      - StaticText "Delivery service"
+    - checkbox "Service" [checked=false, ref=e44]
+      - StaticText "Service"
+    - checkbox "Order" [checked=false, ref=e45]
+      - StaticText "Order"
+    - checkbox "Customer service" [checked=false, ref=e46]
+      - StaticText "Customer service"
+    - checkbox "Quality" [checked=false, ref=e47]
+      - StaticText "Quality"
+    - checkbox "Product" [checked=false, ref=e48]
+      - StaticText "Product"
+    - checkbox "Website" [checked=false, ref=e49]
+      - StaticText "Website"
+    - checkbox "Recommendation" [checked=false, ref=e50]
+      - StaticText "Recommendation"
+    - checkbox "Solution" [checked=false, ref=e51]
+      - StaticText "Solution"
+    - checkbox "Customer communications" [checked=false, ref=e52]
+      - StaticText "Customer communications"
+  - separator
+  - generic
+    - article
+      - complementary "Info for Tijn van Zutphen"
+        - StaticText "TV"
+        - link "Tijn van Zutphen NL • 1 review" [ref=e229]
+          - StaticText "Tijn van Zutphen"
+          - StaticText "NL"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 3, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Legit and fast respond!" [ref=e280]
+            - heading "Legit and fast respond!" [level=2, ref=e305]
+          - paragraph
+          - StaticText "June 3, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e109]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e110]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e111]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Jun 5, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative for Kukirin."
+          - LineBreak "\n"
+          - StaticText "Thank you for speaking up in support of us."
+          - LineBreak "\n"
+          - StaticText "We are a legitimate and trustworthy company."
+          - LineBreak "\n"
+          - StaticText "All the Kukirin electric scooters we sell are genuine, original products."
+          - LineBreak "\n"
+          - StaticText "Wishing you all the best."
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for justin johannsen"
+        - link "justin johannsen DK • 1 review" [ref=e230]
+          - StaticText "justin johannsen"
+          - StaticText "DK"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jun 1, 2026"
+      - generic
+        - image "Rated 4 out of 5 stars"
+        - generic
+          - link "good" [ref=e281]
+            - heading "good" [level=2, ref=e306]
+          - paragraph
+          - StaticText "May 1, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e112]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e113]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e114]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Jun 2, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative at Kukirin."
+          - LineBreak "\n"
+          - StaticText "Thank you for your appreciation of our service."
+          - LineBreak "\n"
+          - StaticText "We wish you a wonderful day."
+    - article
+      - complementary "Info for Sten-Albert Kruusmäe"
+        - link "Sten-Albert Kruusmäe EE • 1 review" [ref=e231]
+          - StaticText "Sten-Albert Kruusmäe"
+          - StaticText "EE"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Updated May 25, 2026"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "My sister ordered a kukirin g2 charger…" [ref=e282]
+            - heading "My sister ordered a kukirin g2 charger…" [level=2, ref=e307]
+          - paragraph
+          - StaticText "May 23, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e115]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e116]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e117]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "May 25, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative for Kukirin."
+          - LineBreak "\n"
+          - StaticText "I sincerely apologize, but the Kukirin G2 chargers are currently experiencing a widespread stock shortage."
+          - LineBreak "\n"
+          - StaticText "If you no longer require the charger, we would be happy to process a full refund for you."
+          - LineBreak "\n"
+          - StaticText "You can send us your Order ID, or contact us directly via email at service@kukirin-escooters.com."
+    - article
+      - complementary "Info for DanDenDan"
+        - StaticText "DA"
+        - link "DanDenDan LU • 1 review" [ref=e232]
+          - StaticText "DanDenDan"
+          - StaticText "LU"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Apr 23, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "AMAZING" [ref=e283]
+            - heading "AMAZING" [level=2, ref=e308]
+          - paragraph
+          - StaticText "April 22, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e118]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e119]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e120]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Apr 23, 2026"
+        - paragraph
+          - StaticText "Hello"
+          - LineBreak "\n"
+          - StaticText "Dear friend"
+          - LineBreak "\n"
+          - StaticText "This is Leo, Kukirin's customer service representative."
+          - LineBreak "\n"
+          - StaticText "Thank you for your recognition of our service. You will generally receive your package within 4-7 business days after shipment."
+          - LineBreak "\n"
+          - StaticText "We have warehouses in Poland and the UK."
+          - LineBreak "\n"
+          - StaticText "Please feel free to contact me with any questions related to Kukirin electric scooters. Have a wonderful day!"
+    - article
+      - complementary "Info for Ilyas El Machaoud"
+        - StaticText "IE"
+        - link "Ilyas El Machaoud BE • 1 review" [ref=e233]
+          - StaticText "Ilyas El Machaoud"
+          - StaticText "BE"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Apr 16, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Really good service" [ref=e284]
+            - heading "Really good service" [level=2, ref=e309]
+          - paragraph
+          - StaticText "April 16, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e121]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e122]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e123]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Apr 20, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Mr. Ilyas El Machaoud,"
+          - LineBreak "\n"
+          - StaticText "Dear Friend,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative at Kukirin."
+          - LineBreak "\n"
+          - StaticText "Thank you for your appreciation of my service."
+          - LineBreak "\n"
+          - StaticText "I wish you a wonderful day."
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for bro ur trash"
+        - link "bro ur trash RO • 4 reviews" [ref=e234]
+          - StaticText "bro ur trash"
+          - StaticText "RO"
+          - StaticText "•"
+          - StaticText "4"
+          - StaticText " reviews"
+      - time
+        - StaticText "Apr 1, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "the best and fast answers" [ref=e285]
+            - heading "the best and fast answers" [level=2, ref=e310]
+          - paragraph
+          - StaticText "April 1, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e124]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e125]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e126]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Apr 7, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative at Kukirin."
+          - LineBreak "\n"
+          - StaticText "Thank you for your support."
+          - LineBreak "\n"
+          - StaticText "May Lady Luck always be by your side."
+    - button "See 1 more review by bro" [ref=e53]
+      - StaticText "See 1 more review by bro"
+    - article
+      - complementary "Info for Fabio"
+        - StaticText "FA"
+        - link "Fabio PT • 1 review" [ref=e235]
+          - StaticText "Fabio"
+          - StaticText "PT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Mar 18, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Everything was excellent." [ref=e286]
+            - heading "Everything was excellent." [level=2, ref=e311]
+          - StaticText "March 18, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e127]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e128]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e129]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Mar 19, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - StaticText "I am Leo, a customer service representative for Kukirin."
+          - LineBreak "\n"
+          - StaticText "Thank you for your recognition of our official Kukirin after-sales service."
+          - LineBreak "\n"
+          - StaticText "Wishing you a wonderful day!"
+    - article
+      - complementary "Info for Ponczek"
+        - link "Ponczek BE • 1 review" [ref=e236]
+          - StaticText "Ponczek"
+          - StaticText "BE"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Jan 28, 2026"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "excellent service" [ref=e287]
+            - heading "excellent service" [level=2, ref=e312]
+          - paragraph
+          - StaticText "January 27, 2026"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e130]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e131]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e132]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Jan 29, 2026"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - StaticText "Thank you for your positive feedback on our after-sales service."
+          - LineBreak "\n"
+          - StaticText "We wish you a pleasant day."
+    - article
+      - complementary "Info for Dante fc"
+        - link "Dante fc ES • 1 review" [ref=e237]
+          - StaticText "Dante fc"
+          - StaticText "ES"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Dec 9, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Iste asome,a client sevice 10/10" [ref=e288]
+            - heading "Iste asome,a client sevice 10/10" [level=2, ref=e313]
+          - StaticText "December 8, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e133]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e134]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e135]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Dec 15, 2025"
+        - paragraph
+          - StaticText "Bonjour Monsieur/Madame,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Nous vous remercions pour vos compliments."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Nous sommes ravis de recevoir vos commentaires positifs et nous nous efforcerons de faire encore mieux à l'avenir."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Si vous avez des questions concernant le scooter, n'hésitez pas à nous contacter; nous ferons de notre mieux pour vous aider."
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Nejc Jazbinšek"
+        - StaticText "NJ"
+        - link "Nejc Jazbinšek SI • 1 review" [ref=e238]
+          - StaticText "Nejc Jazbinšek"
+          - StaticText "SI"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Dec 1, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Hello sir I would like to ask when the…" [ref=e289]
+            - heading "Hello sir I would like to ask when the…" [level=2, ref=e314]
+          - paragraph
+          - StaticText "November 30, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e136]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e137]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e138]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Dec 1, 2025"
+        - paragraph
+          - StaticText "Hello"
+          - LineBreak "\n"
+          - StaticText "Dear friend"
+          - LineBreak "\n"
+          - StaticText "This is Leo, Kukirin's customer service representative. Your order has been shipped today, and you will receive a tracking email tonight."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Delivery typically takes 4-7 business days after shipment."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Logistics updates are slow; it usually takes 1-2 business days to see a tracking number. (Logistics companies are closed on weekends.)"
+          - LineBreak "\n"
+          - StaticText "Don't worry 😄"
+    - generic
+      - button "Dismiss" [ref=e139]
+      - paragraph
+        - StaticText "See if a website is trustworthy without leaving the page"
+      - link "Get Chrome extension" [ref=e239]
+        - StaticText "Get Chrome extension"
+    - article
+      - complementary "Info for Diego Rus"
+        - StaticText "DR"
+        - link "Diego Rus DE • 1 review" [ref=e240]
+          - StaticText "Diego Rus"
+          - StaticText "DE"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 19, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "The Best e-Scooters fabrik" [ref=e290]
+            - heading "The Best e-Scooters fabrik" [level=2, ref=e315]
+          - StaticText "November 18, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e140]
+        - StaticText "Useful"
+      - generic [ref=e141] clickable [cursor:pointer, onclick]
+        - StaticText "1"
+      - button "Share" [expanded=false, ref=e142]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e143]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Nov 24, 2025"
+        - paragraph
+          - StaticText "Moien,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Diego Rus"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Här/Madame"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Merci fir Äert héicht Luef. Mir freeën eis ganz iwwer Äert positivt Feedback."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Wann Dir Froen zum Scooter hutt, kontaktéiert eis w.e.g. a mir wäerten eist Bescht maachen, fir Iech ze hëllefen."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Schéinen Dag!"
+    - article
+      - complementary "Info for Janek Kret"
+        - StaticText "JK"
+        - link "Janek Kret SE • 1 review" [ref=e241]
+          - StaticText "Janek Kret"
+          - StaticText "SE"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Nov 17, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Hello sir 😊 it’s the g3 on stock I’ll…" [ref=e291]
+            - heading "Hello sir 😊 it’s the g3 on stock I’ll…" [level=2, ref=e316]
+          - paragraph
+            - StaticText "Hello sir 😊 it’s the g3 on stock I’ll buy it in a week and when will it come like how long will it take 😊😊 mvm Tomas. : 🥰"
+          - StaticText "November 16, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e144]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e145]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e146]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Nov 17, 2025"
+        - paragraph
+          - StaticText "Hello sir 😊, the G3 is in stock and I will be purchasing it within a week. When will it arrive? How long will it take approximately? 😊😊 Sincerely, 🥰"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Hello, Mr. Thomas"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "We are delighted to receive your positive review."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "The Kukirin G3 is in stock and generally takes 4-7 business days to receive your package."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "You can add my WhatsApp: +86 18043414595"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Order through this link:"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "https://www.kukirin-escooters.com/products/kukirin-g3"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Have a nice day!"
+    - article
+      - complementary "Info for Rares"
+        - link "Rares RO • 1 review" [ref=e242]
+          - StaticText "Rares"
+          - StaticText "RO"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Updated Nov 4, 2025"
+      - generic
+        - image "Rated 1 out of 5 stars"
+        - generic
+          - link "Awful Experience" [ref=e292]
+            - heading "Awful Experience" [level=2, ref=e317]
+          - paragraph
+          - StaticText "October 31, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e147]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e148]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e149]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Updated Nov 5, 2025"
+        - paragraph
+          - StaticText "Hello"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Dear friend,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "To avoid misunderstandings for other users, I need to clarify the following points:"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Through friendly communication with the customer on WhatsApp,"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "we discovered that the customer did not purchase the electric scooter and electric scooter accessories from our website."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "The order number is incorrect; our order numbers begin with \"KEU\" and end with numbers."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I have provided this customer with a solution and the correct after-sales service instructions."
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "Sincerely,"
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for Jessa Schwantner"
+        - StaticText "JS"
+        - link "Jessa Schwantner AT • 1 review" [ref=e243]
+          - StaticText "Jessa Schwantner"
+          - StaticText "AT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 21, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I'm so glad that the company helped us" [ref=e293]
+            - heading "I'm so glad that the company helped us" [level=2, ref=e318]
+          - paragraph
+          - StaticText "September 22, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e150]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e151]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e152]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 23, 2025"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Jessa Schwantner"
+          - LineBreak "\n"
+          - StaticText "Sir/Madam."
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - StaticText "We are very pleased to receive your positive feedback."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about the scooter, please contact us and we will do our best to assist you."
+          - LineBreak "\n"
+          - StaticText "For more detailed information about KuKirin scooters, you can visit KuKirin's official YouTube channel:"
+          - LineBreak "\n"
+          - StaticText "https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I wish you a happy life."
+    - article
+      - complementary "Info for Robin"
+        - link "Robin DK • 1 review" [ref=e244]
+          - StaticText "Robin"
+          - StaticText "DK"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 20, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Great service !" [ref=e294]
+            - heading "Great service !" [level=2, ref=e319]
+          - StaticText "October 14, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e153]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e154]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e155]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 20, 2025"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend"
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - StaticText "We are very happy to receive your positive feedback."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about the scooter, please contact us and we will do our best to help."
+          - LineBreak "\n"
+          - StaticText "For more detailed information about the KuKirin scooter, you can visit the official KuKirin YouTube channel:"
+          - LineBreak "\n"
+          - StaticText "https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - StaticText "Wish you a happy life!"
+    - article
+      - complementary "Info for Armin Bajramovic"
+        - link "Armin Bajramovic HR • 2 reviews" [ref=e245]
+          - StaticText "Armin Bajramovic"
+          - StaticText "HR"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Oct 11, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Fast shipping" [ref=e295]
+            - heading "Fast shipping" [level=2, ref=e320]
+          - paragraph
+          - StaticText "September 26, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e156]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e157]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e158]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 15, 2025"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Armin Bajramovic"
+          - LineBreak "\n"
+          - StaticText "Sir/Madam."
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - StaticText "We are very pleased to receive your kind feedback."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about the scooter, please contact us and we will do our best to assist you."
+          - LineBreak "\n"
+          - StaticText "For more detailed information about KuKirin scooters, you can visit KuKirin's official YouTube channel:"
+          - LineBreak "\n"
+          - StaticText "https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - StaticText "Wishing you a happy life."
+          - LineBreak "\n"
+          - StaticText "Sincerely,"
+    - article
+      - complementary "Info for AHMAD ALHOMSI"
+        - link "AHMAD ALHOMSI FR • 1 review" [ref=e246]
+          - StaticText "AHMAD ALHOMSI"
+          - StaticText "FR"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Oct 9, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "best quality and top service thank you…" [ref=e296]
+            - heading "best quality and top service thank you…" [level=2, ref=e321]
+          - paragraph
+          - StaticText "October 8, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e159]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e160]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e161]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 10, 2025"
+        - paragraph
+          - StaticText "Hello,"
+          - LineBreak "\n"
+          - StaticText "Dear friend."
+          - LineBreak "\n"
+          - StaticText "We are delighted to receive your positive feedback and recognition of our service."
+          - LineBreak "\n"
+          - StaticText "Kukirin's products are loved by hundreds of thousands of users."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about our scooters, please contact us and we will be happy to assist you."
+          - LineBreak "\n"
+          - StaticText "For more information about KuKirin scooters, please visit our official YouTube channel: https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "We wish you a happy life."
+    - insertion
+    - StaticText "Advertisement"
+    - article
+      - complementary "Info for öztürk yildirim"
+        - link "öztürk yildirim AT • 2 reviews" [ref=e247]
+          - StaticText "öztürk yildirim"
+          - StaticText "AT"
+          - StaticText "•"
+          - StaticText "2"
+          - StaticText " reviews"
+      - time
+        - StaticText "Oct 5, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "I’m very satisfied with my KuKirin…" [ref=e297]
+            - heading "I’m very satisfied with my KuKirin…" [level=2, ref=e322]
+          - paragraph
+          - StaticText "September 10, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e162]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e163]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e164]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 10, 2025"
+        - paragraph
+          - StaticText "Hello, dear friend."
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - StaticText "We are very pleased to receive your positive feedback and your recognition of our service."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about the scooter, please contact us and we will do our best to assist you."
+          - LineBreak "\n"
+          - StaticText "For more detailed information about KuKirin scooters, you can visit KuKirin's official YouTube channel:"
+          - LineBreak "\n"
+          - StaticText "https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I wish you a happy life."
+    - article
+      - complementary "Info for Erik Christian Sommer"
+        - link "Erik Christian Sommer DK • 1 review" [ref=e248]
+          - StaticText "Erik Christian Sommer"
+          - StaticText "DK"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Sep 30, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "first I recived a wrong part" [ref=e298]
+            - heading "first I recived a wrong part" [level=2, ref=e323]
+          - paragraph
+          - StaticText "September 29, 2025"
+          - StaticText "Unprompted review"
+      - button "Useful" [ref=e165]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e166]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e167]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+          - StaticText "Reply from Kukirin Escooters"
+        - time
+          - StaticText "Oct 10, 2025"
+        - paragraph
+          - StaticText "Hello, dear friend."
+          - LineBreak "\n"
+          - StaticText "Thank you for your high praise."
+          - LineBreak "\n"
+          - StaticText "We are very pleased to receive your positive feedback and will do our best to improve in the future."
+          - LineBreak "\n"
+          - StaticText "If you have any questions about the scooter, please contact us and we will do our best to help."
+          - LineBreak "\n"
+          - StaticText "For more detailed information about the KuKirin scooter, you can visit the official KuKirin YouTube channel: https://www.youtube.com/@kugookirin"
+          - LineBreak "\n"
+          - LineBreak "\n"
+          - StaticText "I wish you a happy life."
+    - article
+      - complementary "Info for Alessio Sassara"
+        - link "Alessio Sassara IT • 1 review" [ref=e249]
+          - StaticText "Alessio Sassara"
+          - StaticText "IT"
+          - StaticText "•"
+          - StaticText "1"
+          - StaticText " review"
+      - time
+        - StaticText "Sep 18, 2025"
+      - generic
+        - image "Rated 5 out of 5 stars"
+        - generic
+          - link "Excellent product" [ref=e299]
+            - heading "Excellent product" [level=2, ref=e324]
+      - button "Useful" [ref=e168]
+        - StaticText "Useful"
+      - button "Share" [expanded=false, ref=e169]
+        - StaticText "Share"
+      - button "Flag this review" [ref=e170]
+      - generic
+        - image
+        - image "Kukirin Escooters logo"
+        - paragraph
+        - time
+        - paragraph
+          - StaticText "For more detailed information about the KuKirin scooter, you can visit the official KuKirin YouTube channel: https://www.youtube.com/@kugookirin"
+    - navigation "Pagination" [ref=e54]
+      - link "Previous page" [disabled, ref=e171]
+      - link "Page number 1" [ref=e172]
+      - link "Page number 2" [ref=e173]
+      - link "Page number 3" [ref=e174]
+      - link "Next page" [ref=e175]
+  - heading "The TrustpilotExperience" [level=3, ref=e22]
+  - heading "We're open to all" [level=4, ref=e23]
+    - button "We're open to all" [expanded=false, ref=e55]
+  - heading "We champion verified reviews" [level=4, ref=e24]
+    - button "We champion verified reviews" [expanded=false, ref=e56]
+  - heading "We fight fake reviews" [level=4, ref=e25]
+    - button "We fight fake reviews" [expanded=false, ref=e57]
+  - heading "We show the latest reviews" [level=4, ref=e26]
+    - button "We show the latest reviews" [expanded=false, ref=e58]
+  - heading "We encourage constructive feedback" [level=4, ref=e27]
+    - button "We encourage constructive feedback" [expanded=false, ref=e59]
+  - heading "We verify reviewers" [level=4, ref=e28]
+    - button "We verify reviewers" [expanded=false, ref=e60]
+  - heading "We advocate against bias" [level=4, ref=e29]
+    - button "We advocate against bias" [expanded=false, ref=e61]
+  - link "Take a closer look" [ref=e30]
+- contentinfo
+  - image "Trustpilot reviews"
+  - paragraph
+    - StaticText "This site is protected by reCAPTCHA. We collect device and interaction signals for security purposes as described in our "
+    - link "Privacy Policy" [ref=e62]
+    - StaticText "."
+  - generic
+    - heading "Choose country" [level=3, ref=e63]
+    - DescriptionList
+      - term "United States" [ref=e176] clickable [cursor:pointer]
+        - button "United States" [ref=e250]
+      - definition
+  - generic
+    - heading "About" [level=3, ref=e64]
+    - list
+      - listitem [level=1]
+        - link "About us" [ref=e251]
+      - listitem [level=1]
+        - link "Jobs" [ref=e252]
+      - listitem [level=1]
+        - link "Contact" [ref=e253]
+      - listitem [level=1]
+        - link "Blog" [ref=e254]
+      - listitem [level=1]
+        - link "How Trustpilot works" [ref=e255]
+      - listitem [level=1]
+        - link "Press" [ref=e256]
+      - listitem [level=1]
+        - link "Investor Relations" [ref=e257]
+      - listitem [level=1]
+        - link "Download the Trustpilot iOS app" [ref=e258]
+  - generic
+    - heading "Community" [level=3, ref=e65]
+    - list
+      - listitem [level=1]
+        - link "Trust in reviews" [ref=e259]
+      - listitem [level=1]
+        - link "Help Center" [ref=e260]
+      - listitem [level=1]
+        - link "Log in" [ref=e261]
+      - listitem [level=1]
+        - link "Sign up" [ref=e262]
+  - generic
+    - heading "Businesses" [level=3, ref=e66]
+    - list
+      - listitem [level=1]
+        - link "Trustpilot Business" [ref=e263]
+      - listitem [level=1]
+        - link "Products" [ref=e264]
+      - listitem [level=1]
+        - link "Plans & Pricing" [ref=e265]
+      - listitem [level=1]
+        - link "Business Login" [ref=e266]
+      - listitem [level=1]
+        - link "Blog for Business" [ref=e267]
+      - listitem [level=1]
+        - link "Data Solutions" [ref=e268]
+  - generic
+    - heading "Follow us on" [level=3, ref=e67]
+    - list
+      - listitem [level=1]
+        - link "Facebook" [ref=e269]
+      - listitem [level=1]
+        - link "X" [ref=e270]
+      - listitem [level=1]
+        - link "Instagram" [ref=e271]
+      - listitem [level=1]
+        - link "LinkedIn" [ref=e272]
+      - listitem [level=1]
+        - link "Youtube" [ref=e273]
+  - list
+    - listitem [level=1]
+      - link "Legal" [ref=e177]
+    - listitem [level=1]
+      - link "Privacy Policy" [ref=e178]
+    - listitem [level=1]
+      - link "Terms & Conditions" [ref=e179]
+    - listitem [level=1]
+      - link "Guidelines for Reviewers" [ref=e180]
+    - listitem [level=1]
+      - link "System status" [ref=e181]
+    - listitem [level=1]
+      - button "Cookie preferences" [ref=e182]
+    - listitem [level=1]
+      - link "Do Not Sell My Info" [ref=e183]
+    - listitem [level=1]
+      - link "Modern Slavery Statement" [ref=e184]

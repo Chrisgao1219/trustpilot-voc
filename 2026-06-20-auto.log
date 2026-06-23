@@ -1,0 +1,624 @@
+[01:28:10] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[01:28:10] Focus: meepoboard-eu.com, 59 brands across 59 URLs
+[01:28:10] [1/4] Direct browser scraping...
+[01:28:10] Launching browser (undetected-chromedriver)...
+[02:51:01] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[02:51:01] Focus: meepoboard.com, 48 brands across 48 URLs
+[02:51:01] [1/4] Direct browser scraping...
+[02:51:01] Launching browser (undetected-chromedriver)...
+[02:51:13]   [1/48] meepoboard-eu.com...
+[02:51:54]     3.7/5, 6 reviews, 4 scraped
+[02:51:56]   [2/48] meepoboard.com...
+[02:52:01]     3.6/5, 368 reviews, 20 scraped
+[02:52:03]   [3/48] exwayboard.com...
+[02:52:08]     2.6/5, 79 reviews, 20 scraped
+[02:52:10]   [4/48] exwayboardusa.com...
+[02:52:15]     2.6/5, 9 reviews, 8 scraped
+[02:52:17]   [5/48] backfireboards.com...
+[02:52:23]     3.2/5, 19 reviews, 17 scraped
+[02:52:25]   [6/48] backfireboardsusa.com...
+[02:52:30]     4.2/5, 19 reviews, 17 scraped
+[02:52:32]   [7/48] maxfind.com...
+[02:52:38]     3.9/5, 136 reviews, 20 scraped
+[02:52:40]   [8/48] evolveskateboards.com.au...
+[02:52:49]     2.6/5, 156 reviews, 20 scraped
+[02:52:51]   [9/48] evolveskateboardsuk.co.uk...
+[02:52:57]     2.2/5, 15 reviews, 15 scraped
+[02:52:59]   [10/48] evolveskateboardsusa.com...
+[02:53:04]     2.1/5, 14 reviews, 13 scraped
+[02:53:06]   [11/48] tyneeboard.com...
+[02:53:11]     4.8/5, 127 reviews, 20 scraped
+[02:53:13]   [12/48] ownboard.net...
+[02:53:19]     4.4/5, 32 reviews, 20 scraped
+[02:53:21]   [13/48] kukiringlobal.com...
+[02:53:30]     4.2/5, 95 reviews, 20 scraped
+[02:53:32]   [14/48] kukirin-scooter.com...
+[02:53:39]     2.9/5, 481 reviews, 20 scraped
+[02:53:41]   [15/48] kukirin.es...
+[02:53:46]     3.1/5, 78 reviews, 2 scraped
+[02:53:48]   [16/48] kukirin-scooter.pl...
+[02:53:54]     4.8/5, 50 reviews, 20 scraped
+[02:53:56]   [17/48] spelling.dk...
+[02:54:01]     4.8/5, 76 reviews, 2 scraped
+[02:54:03]   [18/48] kukirin-escooter.com...
+[02:54:09]     4.6/5, 419 reviews, 20 scraped
+[02:54:11]   [19/48] ku-kirin.it...
+[02:54:17]     4.6/5, 35 reviews, 20 scraped
+[02:54:19]   [20/48] kukirin-escooters.com...
+[02:54:24]     4.5/5, 149 reviews, 20 scraped
+[02:54:26]   [21/48] kukirin-it.com...
+[02:54:31]     4.4/5, 19 reviews, 3 scraped
+[02:54:33]   [22/48] kukirin-officiel.com...
+[02:54:38]     3.7/5, 22 reviews, 1 scraped
+[02:54:40]   [23/48] kugooescooters.com...
+[02:54:46]     3.7/5, 1290 reviews, 20 scraped
+[02:54:48]   [24/48] kugoo-spain.com...
+[02:54:53]     1.7/5, 304 reviews, 6 scraped
+[02:54:55]   [25/48] kugoo-scooter.com...
+[02:55:01]     1.4/5, 190 reviews, 20 scraped
+[02:55:03]   [26/48] kugoo.eu...
+[02:55:09]     3.6/5, 79 reviews, 20 scraped
+[02:55:11]   [27/48] officialkugookukirin.co.uk...
+[02:55:16]     4.0/5, 26 reviews, 20 scraped
+[02:55:18]   [28/48] kugooscooter.uk...
+[02:55:23]     1.8/5, 19 reviews, 19 scraped
+[02:55:26]   [29/48] kugookirineu.com...
+[02:55:31]     2.7/5, 15 reviews, 7 scraped
+[02:55:33]   [30/48] kugoo-escooter.com...
+[02:55:38]     3.9/5, 14 reviews, 13 scraped
+[02:55:40]   [31/48] kukirin-escooter.eu...
+[02:55:45]     4.3/5, 7 reviews, 3 scraped
+[02:55:47]   [32/48] kukirintrottinette.com...
+[02:55:53]     4.0/5, 4 reviews, 4 scraped
+[02:55:55]   [33/48] kukirinescooter.co.uk...
+[02:56:00]     4.0/5, 4 reviews, 4 scraped
+[02:56:02]   [34/48] kukirin.se...
+[02:56:07]     3.6/5, 3 reviews, 3 scraped
+[02:56:09]   [35/48] kukirin.eu...
+[02:56:14]     3.8/5, 2 reviews, 2 scraped
+[02:56:16]   [36/48] kukirin.pt...
+[02:56:22]     2.9/5, 2 reviews, 2 scraped
+[02:56:24]   [37/48] kukirin.ca...
+[02:56:30]     3.7/5, 1 reviews, 1 scraped
+[02:56:32]   [38/48] kukirin.com...
+[02:56:37]     3.2/5, 1 reviews, 1 scraped
+[02:56:39]   [39/48] kukirin-eu.com...
+[02:56:44]     3.6/5, 1 reviews, 1 scraped
+[02:56:46]   [40/48] kukirinscooter.eu...
+[02:56:51]     3.2/5, 1 reviews, 1 scraped
+[02:56:53]   [41/48] kukirin-italy.com...
+[02:56:59]     4.5/5, 13 reviews, 13 scraped
+[02:57:01]   [42/48] kugooescooter.com...
+[02:57:07]     3.5/5, 11 reviews, 4 scraped
+[02:57:09]   [43/48] kugoofrance.com...
+[02:57:14]     3.8/5, 3 reviews, 3 scraped
+[02:57:16]   [44/48] kugoo-officiel.com...
+[02:57:22]     2.9/5, 2 reviews, 2 scraped
+[02:57:24]   [45/48] kugoo-ireland.com...
+[02:57:29]     3.2/5, 1 reviews, 1 scraped
+[02:57:31]   [46/48] kugoousa.com...
+[02:57:37]     3.2/5, 1 reviews, 1 scraped
+[02:57:39]   [47/48] kugooscooter-uk.com...
+[02:57:44]     3.7/5, 1 reviews, 1 scraped
+[02:57:46]   [48/48] kukirinscooter-uk.com...
+[02:57:52]     2.3/5, 43 reviews, 20 scraped
+[02:57:54] Scrape done: 514 reviews total, 48 brands, 0 failed
+[02:57:54] [2/4] Fetching complete.
+[02:57:54] [3/4] Aggregating brand stats...
+[02:57:54]   meepoboard-eu.com: 3.7/5 (6 reviews) [yellow] | themes: +4/-1
+[02:57:54]   meepoboard.com: 3.6/5 (368 reviews) [yellow] | themes: +4/-4
+[02:57:54]   exwayboard.com: 2.6/5 (79 reviews) [red] | themes: +4/-4
+[02:57:54]   exwayboardusa.com: 2.6/5 (9 reviews) [red] | themes: +4/-2
+[02:57:54]   backfireboards.com: 3.2/5 (19 reviews) [yellow] | themes: +4/-4
+[02:57:54]   backfireboardsusa.com: 4.2/5 (19 reviews) [green] | themes: +4/-4
+[02:57:54]   maxfind.com: 3.9/5 (136 reviews) [yellow] | themes: +4/-4
+[02:57:54]   evolveskateboards.com.au: 2.6/5 (156 reviews) [red] | themes: +4/-4
+[02:57:54]   evolveskateboardsuk.co.uk: 2.2/5 (15 reviews) [red] | themes: +4/-4
+[02:57:54]   evolveskateboardsusa.com: 2.1/5 (14 reviews) [red] | themes: +4/-4
+[02:57:54]   tyneeboard.com: 4.8/5 (127 reviews) [green] | themes: +4/-2
+[02:57:54]   ownboard.net: 4.4/5 (32 reviews) [green] | themes: +4/-4
+[02:57:54]   kukiringlobal.com: 4.2/5 (95 reviews) [green] | themes: +4/-2
+[02:57:54]   kukirin-scooter.com: 2.9/5 (481 reviews) [red] | themes: +4/-3
+[02:57:54]   kukirin.es: 3.1/5 (78 reviews) [yellow] | themes: +0/-0
+[02:57:54]   kukirin-scooter.pl: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[02:57:54]   spelling.dk: 4.8/5 (76 reviews) [green] | themes: +1/-0
+[02:57:54]   kukirin-escooter.com: 4.6/5 (419 reviews) [green] | themes: +4/-2
+[02:57:54]   ku-kirin.it: 4.6/5 (35 reviews) [green] | themes: +0/-0
+[02:57:54]   kukirin-escooters.com: 4.5/5 (149 reviews) [green] | themes: +4/-1
+[02:57:54]   kukirin-it.com: 4.4/5 (19 reviews) [green] | themes: +1/-0
+[02:57:54]   kukirin-officiel.com: 3.7/5 (22 reviews) [yellow] | themes: +0/-0
+[02:57:54]   kugooescooters.com: 3.7/5 (1290 reviews) [yellow] | themes: +4/-1
+[02:57:54]   kugoo-spain.com: 1.7/5 (304 reviews) [red] | themes: +4/-1
+[02:57:54]   kugoo-scooter.com: 1.4/5 (190 reviews) [red] | themes: +4/-4
+[02:57:55]   kugoo.eu: 3.6/5 (79 reviews) [yellow] | themes: +4/-3
+[02:57:55]   officialkugookukirin.co.uk: 4.0/5 (26 reviews) [green] | themes: +4/-1
+[02:57:55]   kugooscooter.uk: 1.8/5 (19 reviews) [red] | themes: +4/-3
+[02:57:55]   kugookirineu.com: 2.7/5 (15 reviews) [red] | themes: +2/-0
+[02:57:55]   kugoo-escooter.com: 3.9/5 (14 reviews) [yellow] | themes: +4/-3
+[02:57:55]   kukirin-escooter.eu: 4.3/5 (7 reviews) [green] | themes: +1/-0
+[02:57:55]   kukirintrottinette.com: 4.0/5 (4 reviews) [green] | themes: +1/-0
+[02:57:55]   kukirinescooter.co.uk: 4.0/5 (4 reviews) [green] | themes: +4/-0
+[02:57:55]   kukirin.se: 3.6/5 (3 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kukirin.eu: 3.8/5 (2 reviews) [yellow] | themes: +4/-0
+[02:57:55]   kukirin.pt: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[02:57:55]   kukirin.ca: 3.7/5 (1 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kukirin.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kukirin-eu.com: 3.6/5 (1 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kukirinscooter.eu: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kukirin-italy.com: 4.5/5 (13 reviews) [green] | themes: +1/-0
+[02:57:55]   kugooescooter.com: 3.5/5 (11 reviews) [yellow] | themes: +2/-2
+[02:57:55]   kugoofrance.com: 3.8/5 (3 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kugoo-officiel.com: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[02:57:55]   kugoo-ireland.com: 3.2/5 (1 reviews) [yellow] | themes: +4/-1
+[02:57:55]   kugoousa.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[02:57:55]   kugooscooter-uk.com: 3.7/5 (1 reviews) [yellow] | themes: +1/-0
+[02:57:55]   kukirinscooter-uk.com: 2.3/5 (43 reviews) [red] | themes: +4/-3
+[02:57:55] Aggregated 48/48 brands
+[02:57:55] Saved 514 review samples to 2026-06-20-reviews.json
+[02:57:55] [4/4] Merging & deploying...
+[02:57:55] Merged deep analysis from: 2026-06-19.json
+[02:58:20] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[02:58:20] Focus: meepoboard.com, 48 brands across 48 URLs
+[02:58:20] [1/4] Direct browser scraping...
+[02:58:20] Launching browser (undetected-chromedriver)...
+[02:58:32]   [1/48] meepoboard-eu.com...
+[02:58:45]     3.7/5, 6 reviews, 4 scraped
+[02:58:47]   [2/48] meepoboard.com...
+[02:58:52]     3.6/5, 368 reviews, 20 scraped
+[02:58:54]   [3/48] exwayboard.com...
+[02:59:00]     2.6/5, 79 reviews, 20 scraped
+[02:59:02]   [4/48] exwayboardusa.com...
+[02:59:07]     2.6/5, 9 reviews, 8 scraped
+[02:59:09]   [5/48] backfireboards.com...
+[02:59:14]     3.2/5, 19 reviews, 17 scraped
+[02:59:16]   [6/48] backfireboardsusa.com...
+[02:59:21]     4.2/5, 19 reviews, 17 scraped
+[02:59:23]   [7/48] maxfind.com...
+[02:59:28]     3.9/5, 136 reviews, 20 scraped
+[02:59:30]   [8/48] evolveskateboards.com.au...
+[02:59:35]     2.6/5, 156 reviews, 20 scraped
+[02:59:37]   [9/48] evolveskateboardsuk.co.uk...
+[02:59:43]     2.2/5, 15 reviews, 15 scraped
+[02:59:45]   [10/48] evolveskateboardsusa.com...
+[02:59:50]     2.1/5, 14 reviews, 13 scraped
+[02:59:52]   [11/48] tyneeboard.com...
+[02:59:57]     4.8/5, 127 reviews, 20 scraped
+[02:59:59]   [12/48] ownboard.net...
+[03:00:04]     4.4/5, 32 reviews, 20 scraped
+[03:00:06]   [13/48] kukiringlobal.com...
+[03:00:11]     4.2/5, 95 reviews, 20 scraped
+[03:00:13]   [14/48] kukirin-scooter.com...
+[03:00:19]     2.9/5, 481 reviews, 20 scraped
+[03:00:21]   [15/48] kukirin.es...
+[03:00:26]     3.1/5, 78 reviews, 2 scraped
+[03:00:28]   [16/48] kukirin-scooter.pl...
+[03:00:34]     4.8/5, 50 reviews, 20 scraped
+[03:00:36]   [17/48] spelling.dk...
+[03:00:42]     4.8/5, 76 reviews, 2 scraped
+[03:00:44]   [18/48] kukirin-escooter.com...
+[03:00:48]     4.6/5, 419 reviews, 20 scraped
+[03:00:50]   [19/48] ku-kirin.it...
+[03:00:56]     4.6/5, 35 reviews, 20 scraped
+[03:00:58]   [20/48] kukirin-escooters.com...
+[03:01:02]     4.5/5, 149 reviews, 20 scraped
+[03:01:04]   [21/48] kukirin-it.com...
+[03:01:10]     4.4/5, 19 reviews, 3 scraped
+[03:01:12]   [22/48] kukirin-officiel.com...
+[03:01:17]     3.7/5, 22 reviews, 1 scraped
+[03:01:19]   [23/48] kugooescooters.com...
+[03:01:24]     3.7/5, 1290 reviews, 20 scraped
+[03:01:26]   [24/48] kugoo-spain.com...
+[03:01:31]     1.7/5, 304 reviews, 6 scraped
+[03:01:33]   [25/48] kugoo-scooter.com...
+[03:01:37]     1.4/5, 190 reviews, 20 scraped
+[03:01:39]   [26/48] kugoo.eu...
+[03:01:45]     3.6/5, 79 reviews, 20 scraped
+[03:01:47]   [27/48] officialkugookukirin.co.uk...
+[03:01:52]     4.0/5, 26 reviews, 20 scraped
+[03:01:54]   [28/48] kugooscooter.uk...
+[03:01:59]     1.8/5, 19 reviews, 19 scraped
+[03:02:01]   [29/48] kugookirineu.com...
+[03:02:06]     2.7/5, 15 reviews, 7 scraped
+[03:02:08]   [30/48] kugoo-escooter.com...
+[03:02:14]     3.9/5, 14 reviews, 13 scraped
+[03:02:16]   [31/48] kukirin-escooter.eu...
+[03:02:21]     4.3/5, 7 reviews, 3 scraped
+[03:02:23]   [32/48] kukirintrottinette.com...
+[03:02:28]     4.0/5, 4 reviews, 4 scraped
+[03:02:30]   [33/48] kukirinescooter.co.uk...
+[03:02:35]     4.0/5, 4 reviews, 4 scraped
+[03:02:37]   [34/48] kukirin.se...
+[03:02:42]     3.6/5, 3 reviews, 3 scraped
+[03:02:44]   [35/48] kukirin.eu...
+[03:02:49]     3.8/5, 2 reviews, 2 scraped
+[03:02:51]   [36/48] kukirin.pt...
+[03:02:56]     2.9/5, 2 reviews, 2 scraped
+[03:02:58]   [37/48] kukirin.ca...
+[03:03:03]     3.7/5, 1 reviews, 1 scraped
+[03:03:05]   [38/48] kukirin.com...
+[03:03:10]     3.2/5, 1 reviews, 1 scraped
+[03:03:12]   [39/48] kukirin-eu.com...
+[03:03:17]     3.6/5, 1 reviews, 1 scraped
+[03:03:19]   [40/48] kukirinscooter.eu...
+[03:03:24]     3.2/5, 1 reviews, 1 scraped
+[03:03:26]   [41/48] kukirin-italy.com...
+[03:03:30]     4.5/5, 13 reviews, 13 scraped
+[03:03:32]   [42/48] kugooescooter.com...
+[03:03:37]     3.5/5, 11 reviews, 4 scraped
+[03:03:39]   [43/48] kugoofrance.com...
+[03:03:44]     3.8/5, 3 reviews, 3 scraped
+[03:03:46]   [44/48] kugoo-officiel.com...
+[03:03:52]     2.9/5, 2 reviews, 2 scraped
+[03:03:54]   [45/48] kugoo-ireland.com...
+[03:03:59]     3.2/5, 1 reviews, 1 scraped
+[03:04:01]   [46/48] kugoousa.com...
+[03:04:06]     3.2/5, 1 reviews, 1 scraped
+[03:04:08]   [47/48] kugooscooter-uk.com...
+[03:04:13]     3.7/5, 1 reviews, 1 scraped
+[03:04:15]   [48/48] kukirinscooter-uk.com...
+[03:04:21]     2.3/5, 43 reviews, 20 scraped
+[03:04:23] Scrape done: 514 reviews total, 48 brands, 0 failed
+[03:04:23] [2/4] Fetching complete.
+[03:04:23] [3/4] Aggregating brand stats...
+[03:04:23]   meepoboard-eu.com: 3.7/5 (6 reviews) [yellow] | themes: +4/-1
+[03:04:23]   meepoboard.com: 3.6/5 (368 reviews) [yellow] | themes: +4/-4
+[03:04:23]   exwayboard.com: 2.6/5 (79 reviews) [red] | themes: +4/-4
+[03:04:23]   exwayboardusa.com: 2.6/5 (9 reviews) [red] | themes: +4/-2
+[03:04:23]   backfireboards.com: 3.2/5 (19 reviews) [yellow] | themes: +4/-4
+[03:04:23]   backfireboardsusa.com: 4.2/5 (19 reviews) [green] | themes: +4/-4
+[03:04:23]   maxfind.com: 3.9/5 (136 reviews) [yellow] | themes: +4/-4
+[03:04:23]   evolveskateboards.com.au: 2.6/5 (156 reviews) [red] | themes: +4/-4
+[03:04:23]   evolveskateboardsuk.co.uk: 2.2/5 (15 reviews) [red] | themes: +4/-4
+[03:04:23]   evolveskateboardsusa.com: 2.1/5 (14 reviews) [red] | themes: +4/-4
+[03:04:23]   tyneeboard.com: 4.8/5 (127 reviews) [green] | themes: +4/-2
+[03:04:23]   ownboard.net: 4.4/5 (32 reviews) [green] | themes: +4/-4
+[03:04:23]   kukiringlobal.com: 4.2/5 (95 reviews) [green] | themes: +4/-2
+[03:04:23]   kukirin-scooter.com: 2.9/5 (481 reviews) [red] | themes: +4/-3
+[03:04:23]   kukirin.es: 3.1/5 (78 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirin-scooter.pl: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[03:04:23]   spelling.dk: 4.8/5 (76 reviews) [green] | themes: +1/-0
+[03:04:23]   kukirin-escooter.com: 4.6/5 (419 reviews) [green] | themes: +4/-2
+[03:04:23]   ku-kirin.it: 4.6/5 (35 reviews) [green] | themes: +0/-0
+[03:04:23]   kukirin-escooters.com: 4.5/5 (149 reviews) [green] | themes: +4/-1
+[03:04:23]   kukirin-it.com: 4.4/5 (19 reviews) [green] | themes: +1/-0
+[03:04:23]   kukirin-officiel.com: 3.7/5 (22 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kugooescooters.com: 3.7/5 (1290 reviews) [yellow] | themes: +4/-1
+[03:04:23]   kugoo-spain.com: 1.7/5 (304 reviews) [red] | themes: +4/-1
+[03:04:23]   kugoo-scooter.com: 1.4/5 (190 reviews) [red] | themes: +4/-4
+[03:04:23]   kugoo.eu: 3.6/5 (79 reviews) [yellow] | themes: +4/-3
+[03:04:23]   officialkugookukirin.co.uk: 4.0/5 (26 reviews) [green] | themes: +4/-1
+[03:04:23]   kugooscooter.uk: 1.8/5 (19 reviews) [red] | themes: +4/-3
+[03:04:23]   kugookirineu.com: 2.7/5 (15 reviews) [red] | themes: +2/-0
+[03:04:23]   kugoo-escooter.com: 3.9/5 (14 reviews) [yellow] | themes: +4/-3
+[03:04:23]   kukirin-escooter.eu: 4.3/5 (7 reviews) [green] | themes: +1/-0
+[03:04:23]   kukirintrottinette.com: 4.0/5 (4 reviews) [green] | themes: +1/-0
+[03:04:23]   kukirinescooter.co.uk: 4.0/5 (4 reviews) [green] | themes: +4/-0
+[03:04:23]   kukirin.se: 3.6/5 (3 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirin.eu: 3.8/5 (2 reviews) [yellow] | themes: +4/-0
+[03:04:23]   kukirin.pt: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[03:04:23]   kukirin.ca: 3.7/5 (1 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirin.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirin-eu.com: 3.6/5 (1 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirinscooter.eu: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kukirin-italy.com: 4.5/5 (13 reviews) [green] | themes: +1/-0
+[03:04:23]   kugooescooter.com: 3.5/5 (11 reviews) [yellow] | themes: +2/-2
+[03:04:23]   kugoofrance.com: 3.8/5 (3 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kugoo-officiel.com: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[03:04:23]   kugoo-ireland.com: 3.2/5 (1 reviews) [yellow] | themes: +4/-1
+[03:04:23]   kugoousa.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[03:04:23]   kugooscooter-uk.com: 3.7/5 (1 reviews) [yellow] | themes: +1/-0
+[03:04:23]   kukirinscooter-uk.com: 2.3/5 (43 reviews) [red] | themes: +4/-3
+[03:04:23] Aggregated 48/48 brands
+[03:04:23] Saved 514 review samples to 2026-06-20-reviews.json
+[03:04:23] [4/4] Merging & deploying...
+[03:04:23] Merged deep analysis from: 2026-06-19.json
+[03:04:23] Upgrade recommended: 评论总量4442条 > 500条阈值，建议全量分析; 风险品牌评分在2.0-3.5区间: exwayboard.com(2.6), exwayboardusa.com(2.6), backfireboards.com(3.2); 10个品牌评论≥100条，竞品密度适合深度对比
+[03:04:23] JSON: D:\Ai\projects\trustpilot\trustpilot-voc\2026-06-20.json
+[03:04:23]   Preserved from previous run: kukirin-geneve.ch
+[03:04:23]   Preserved from previous run: kukirin-hrvatska.com
+[03:04:23]   Preserved from previous run: kukirinpl.com
+[03:04:23]   Preserved from previous run: kukirinro.com
+[03:04:23]   Preserved from previous run: kukirinescootereu.com (owned)
+[03:04:23]   Preserved from previous run: kukirinprime.com
+[03:04:23]   Preserved from previous run: kukirinscooter-eu.com
+[03:04:23]   Preserved from previous run: kukirinofficial.com
+[03:04:23]   Preserved from previous run: kugooitaly.com
+[03:04:23]   Preserved from previous run: kugookukirin.com
+[03:04:23]   Preserved from previous run: kukirin-fr.com (owned)
+[03:04:23] Injected fresh data into index.html
+[03:04:23] Reddit data: 2026-06-20-reddit.json → reddit.json
+[03:04:24] Vercel CLI: 54.7.1
+[03:04:24] Deploying to Vercel...
+[03:04:40] "url": "https://trustpilot-n5f9qdybj-email-marketing.vercel.app",
+[03:04:40] "message": "Deployment trustpilot-n5f9qdybj-email-marketing.vercel.app ready.",
+[03:04:40] "command": "vercel inspect trustpilot-n5f9qdybj-email-marketing.vercel.app",
+[03:04:40] Vercel deploy complete.
+[03:04:40] === Done ===
+[03:04:40] URL: https://trustpilot-voc.vercel.app
+[13:11:35] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[13:11:35] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[13:11:35] [1/4] Direct browser scraping...
+[13:11:35] Launching 4 parallel browsers (undetected-chromedriver)...
+[13:13:34] Parallel scraping failed ([WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'), falling back to serial...
+[13:19:10] Scrape done: 514 reviews total, 48 brands, 2 failed
+[13:19:10] [2/4] Fetching complete.
+[13:19:10] [3/4] Aggregating brand stats...
+[13:19:10]   meepoboard-eu.com: 3.8/5 (7 reviews) [yellow] | themes: +4/-0
+[13:19:10]   meepoboard.com: 3.6/5 (368 reviews) [yellow] | themes: +4/-4
+[13:19:10]   exwayboard.com: 2.6/5 (79 reviews) [red] | themes: +4/-4
+[13:19:10]   exwayboardusa.com: 2.6/5 (9 reviews) [red] | themes: +4/-2
+[13:19:10]   backfireboards.com: 3.2/5 (19 reviews) [yellow] | themes: +4/-4
+[13:19:10]   backfireboardsusa.com: 4.2/5 (19 reviews) [green] | themes: +4/-4
+[13:19:10]   maxfind.com: 3.9/5 (136 reviews) [yellow] | themes: +4/-4
+[13:19:10]   evolveskateboards.com.au: 2.6/5 (156 reviews) [red] | themes: +4/-4
+[13:19:10]   evolveskateboardsuk.co.uk: 2.2/5 (15 reviews) [red] | themes: +4/-4
+[13:19:10]   evolveskateboardsusa.com: 2.1/5 (14 reviews) [red] | themes: +4/-3
+[13:19:10]   tyneeboard.com: 4.8/5 (128 reviews) [green] | themes: +4/-1
+[13:19:10]   ownboard.net: 4.4/5 (32 reviews) [green] | themes: +4/-4
+[13:19:10]   kukiringlobal.com: 4.2/5 (95 reviews) [green] | themes: +4/-1
+[13:19:10]   kukirin-scooter.com: 2.9/5 (484 reviews) [red] | themes: +4/-4
+[13:19:10]   kukirin.es: 3.1/5 (78 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirin-scooter.pl: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[13:19:10]   spelling.dk: 4.8/5 (76 reviews) [green] | themes: +1/-0
+[13:19:10]   kukirin-escooter.com: 4.6/5 (419 reviews) [green] | themes: +4/-2
+[13:19:10]   ku-kirin.it: 4.6/5 (35 reviews) [green] | themes: +0/-0
+[13:19:10]   kukirin-escooters.com: 4.5/5 (150 reviews) [green] | themes: +4/-0
+[13:19:10]   kukirin-it.com: 4.4/5 (19 reviews) [green] | themes: +1/-0
+[13:19:10]   kukirin-officiel.com: 3.7/5 (22 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kugooescooters.com: 3.7/5 (1295 reviews) [yellow] | themes: +4/-4
+[13:19:10]   kugoo-spain.com: 1.7/5 (304 reviews) [red] | themes: +1/-1
+[13:19:10]   kugoo-scooter.com: 1.4/5 (190 reviews) [red] | themes: +0/-4
+[13:19:10]   kugoo.eu: 3.6/5 (79 reviews) [yellow] | themes: +4/-3
+[13:19:10]   officialkugookukirin.co.uk: 4.0/5 (26 reviews) [green] | themes: +4/-1
+[13:19:10]   kugooscooter.uk: 1.8/5 (19 reviews) [red] | themes: +3/-3
+[13:19:10]   kugookirineu.com: 2.7/5 (15 reviews) [red] | themes: +2/-0
+[13:19:10]   kugoo-escooter.com: 3.9/5 (14 reviews) [yellow] | themes: +4/-3
+[13:19:10]   kukirin-escooter.eu: 4.3/5 (7 reviews) [green] | themes: +1/-0
+[13:19:10]   kukirintrottinette.com: 4.0/5 (4 reviews) [green] | themes: +1/-0
+[13:19:10]   kukirinescooter.co.uk: 4.0/5 (4 reviews) [green] | themes: +4/-0
+[13:19:10]   kukirin.se: 3.6/5 (3 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirin.eu: 4.0/5 (3 reviews) [green] | themes: +4/-0
+[13:19:10]   kukirin.pt: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[13:19:10]   kukirin.ca: 3.7/5 (1 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirin.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirin-eu.com: 3.6/5 (1 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirinscooter.eu: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kukirin-italy.com: 4.5/5 (13 reviews) [green] | themes: +1/-0
+[13:19:10]   kugooescooter.com: 3.5/5 (11 reviews) [yellow] | themes: +2/-0
+[13:19:10]   kugoofrance.com: 3.8/5 (3 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kugoo-officiel.com: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[13:19:10]   kugoo-ireland.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-1
+[13:19:10]   kugoousa.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:19:10]   kugooscooter-uk.com: 3.7/5 (1 reviews) [yellow] | themes: +1/-0
+[13:19:10]   kukirinscooter-uk.com: 2.4/5 (44 reviews) [red] | themes: +3/-3
+[13:19:10]   kukirin-fr.com: skipped (no data)
+[13:19:10]   kukirinescootereu.com: skipped (no data)
+[13:19:10] Aggregated 48/50 brands
+[13:19:10] Missing this run: kukirin-fr.com, kukirinescootereu.com
+[13:19:10] Saved 514 review samples to 2026-06-20-reviews.json
+[13:19:10] [4/4] Merging & deploying...
+[13:19:10] Merged deep analysis from: 2026-06-19.json
+[13:19:10] Preserved 2 stale brands from historical data
+[13:19:10] Upgrade recommended: 评论总量4455条 > 500条阈值，建议全量分析; 风险品牌评分在2.0-3.5区间: exwayboard.com(2.6), exwayboardusa.com(2.6), backfireboards.com(3.2); 10个品牌评论≥100条，竞品密度适合深度对比
+[13:19:10] JSON: D:\Ai\projects\trustpilot\trustpilot-voc\2026-06-20.json
+[13:19:10] Skipping inject (--no-inject, pipeline will handle)
+[13:19:10] Reddit data: 2026-06-20-reddit.json → reddit.json
+[13:19:10] Skipping deploy (--no-inject, pipeline will handle)
+[13:19:10] === Done ===
+[13:19:10] URL: https://trustpilot-voc.vercel.app
+[13:22:41] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[13:22:41] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[13:22:41] [1/4] Direct browser scraping...
+[13:22:41] Launching 4 parallel browsers (undetected-chromedriver)...
+[13:24:29] Parallel scraping failed ([WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'), falling back to serial...
+[13:29:46] Scrape done: 514 reviews total, 48 brands, 2 failed
+[13:29:46] [2/4] Fetching complete.
+[13:29:46] [3/4] Aggregating brand stats...
+[13:29:46]   meepoboard-eu.com: 3.8/5 (7 reviews) [yellow] | themes: +4/-0
+[13:29:46]   meepoboard.com: 3.6/5 (368 reviews) [yellow] | themes: +4/-4
+[13:29:46]   exwayboard.com: 2.6/5 (79 reviews) [red] | themes: +4/-4
+[13:29:46]   exwayboardusa.com: 2.6/5 (9 reviews) [red] | themes: +4/-2
+[13:29:46]   backfireboards.com: 3.2/5 (19 reviews) [yellow] | themes: +4/-4
+[13:29:46]   backfireboardsusa.com: 4.2/5 (19 reviews) [green] | themes: +4/-4
+[13:29:46]   maxfind.com: 3.9/5 (136 reviews) [yellow] | themes: +4/-4
+[13:29:46]   evolveskateboards.com.au: 2.6/5 (156 reviews) [red] | themes: +4/-4
+[13:29:46]   evolveskateboardsuk.co.uk: 2.2/5 (15 reviews) [red] | themes: +4/-4
+[13:29:46]   evolveskateboardsusa.com: 2.1/5 (14 reviews) [red] | themes: +4/-3
+[13:29:46]   tyneeboard.com: 4.8/5 (128 reviews) [green] | themes: +4/-1
+[13:29:46]   ownboard.net: 4.4/5 (32 reviews) [green] | themes: +4/-4
+[13:29:46]   kukiringlobal.com: 4.2/5 (95 reviews) [green] | themes: +4/-1
+[13:29:46]   kukirin-scooter.com: 2.9/5 (484 reviews) [red] | themes: +4/-4
+[13:29:46]   kukirin.es: 3.1/5 (78 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirin-scooter.pl: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[13:29:46]   spelling.dk: 4.8/5 (76 reviews) [green] | themes: +1/-0
+[13:29:46]   kukirin-escooter.com: 4.6/5 (419 reviews) [green] | themes: +4/-2
+[13:29:46]   ku-kirin.it: 4.6/5 (35 reviews) [green] | themes: +0/-0
+[13:29:46]   kukirin-escooters.com: 4.5/5 (150 reviews) [green] | themes: +4/-0
+[13:29:46]   kukirin-it.com: 4.4/5 (19 reviews) [green] | themes: +1/-0
+[13:29:46]   kukirin-officiel.com: 3.7/5 (22 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kugooescooters.com: 3.7/5 (1295 reviews) [yellow] | themes: +4/-4
+[13:29:46]   kugoo-spain.com: 1.7/5 (304 reviews) [red] | themes: +1/-1
+[13:29:46]   kugoo-scooter.com: 1.4/5 (190 reviews) [red] | themes: +0/-4
+[13:29:46]   kugoo.eu: 3.6/5 (79 reviews) [yellow] | themes: +4/-3
+[13:29:46]   officialkugookukirin.co.uk: 4.0/5 (26 reviews) [green] | themes: +4/-1
+[13:29:46]   kugooscooter.uk: 1.8/5 (19 reviews) [red] | themes: +3/-3
+[13:29:46]   kugookirineu.com: 2.7/5 (15 reviews) [red] | themes: +2/-0
+[13:29:46]   kugoo-escooter.com: 3.9/5 (14 reviews) [yellow] | themes: +4/-3
+[13:29:46]   kukirin-escooter.eu: 4.3/5 (7 reviews) [green] | themes: +1/-0
+[13:29:46]   kukirintrottinette.com: 4.0/5 (4 reviews) [green] | themes: +1/-0
+[13:29:46]   kukirinescooter.co.uk: 4.0/5 (4 reviews) [green] | themes: +4/-0
+[13:29:46]   kukirin.se: 3.6/5 (3 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirin.eu: 4.0/5 (3 reviews) [green] | themes: +4/-0
+[13:29:46]   kukirin.pt: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[13:29:46]   kukirin.ca: 3.7/5 (1 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirin.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirin-eu.com: 3.6/5 (1 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirinscooter.eu: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kukirin-italy.com: 4.5/5 (13 reviews) [green] | themes: +1/-0
+[13:29:46]   kugooescooter.com: 3.5/5 (11 reviews) [yellow] | themes: +2/-0
+[13:29:46]   kugoofrance.com: 3.8/5 (3 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kugoo-officiel.com: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[13:29:46]   kugoo-ireland.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-1
+[13:29:46]   kugoousa.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[13:29:46]   kugooscooter-uk.com: 3.7/5 (1 reviews) [yellow] | themes: +1/-0
+[13:29:46]   kukirinscooter-uk.com: 2.4/5 (44 reviews) [red] | themes: +3/-3
+[13:29:46]   kukirin-fr.com: skipped (no data)
+[13:29:46]   kukirinescootereu.com: skipped (no data)
+[13:29:46] Aggregated 48/50 brands
+[13:29:46] Missing this run: kukirin-fr.com, kukirinescootereu.com
+[13:29:46] Saved 514 review samples to 2026-06-20-reviews.json
+[13:29:46] [4/4] Merging & deploying...
+[13:29:46] Merged deep analysis from: 2026-06-19.json
+[13:29:46] Preserved 2 stale brands from historical data
+[13:29:46] Upgrade recommended: 评论总量4455条 > 500条阈值，建议全量分析; 风险品牌评分在2.0-3.5区间: exwayboard.com(2.6), exwayboardusa.com(2.6), backfireboards.com(3.2); 10个品牌评论≥100条，竞品密度适合深度对比
+[13:29:46] JSON: D:\Ai\projects\trustpilot\trustpilot-voc\2026-06-20.json
+[13:29:46] Injected fresh data into index.html
+[13:29:46] Reddit data: 2026-06-20-reddit.json → reddit.json
+[13:29:46] Vercel CLI: 54.7.1
+[13:29:46] Deploying to Vercel...
+[13:30:02] "url": "https://trustpilot-f5rbd3qz2-email-marketing.vercel.app",
+[13:30:02] "message": "Deployment trustpilot-f5rbd3qz2-email-marketing.vercel.app ready.",
+[13:30:02] "command": "vercel inspect trustpilot-f5rbd3qz2-email-marketing.vercel.app",
+[13:30:02] Vercel deploy complete.
+[13:30:02] === Done ===
+[13:30:02] URL: https://trustpilot-voc.vercel.app
+[14:02:05] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[14:02:05] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[14:02:05] [1/4] Direct browser scraping...
+[14:02:05] Launching 4 parallel browsers (undetected-chromedriver)...
+[14:04:23] Parallel scraping failed ([WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'), falling back to serial...
+[14:37:03] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[14:37:03] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[14:37:03] [1/4] Direct browser scraping...
+[14:37:03] Launching 4 parallel browsers (undetected-chromedriver)...
+[14:38:56] Parallel scraping failed ([WinError 183] 当文件已存在时，无法创建该文件。: 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'), falling back to serial...
+[14:39:50] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[14:39:50] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[14:39:50] [1/4] Direct browser scraping...
+[14:39:50] Launching 4 parallel browsers (undetected-chromedriver)...
+[14:39:50] Parallel scraping failed ([WinError 5] 拒绝访问。: 'C:\\Users\\chris\\appdata\\roaming\\undetected_chromedriver\\undetected_chromedriver.exe'), falling back to serial...
+[14:54:18] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[14:54:18] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[14:54:18] [1/4] Direct browser scraping...
+[14:54:18] Launching 4 parallel browsers (undetected-chromedriver)...
+[14:55:57]     meepoboard-eu.com: 3.8/5, 7 reviews
+[14:55:57]     backfireboards.com: 3.2/5, 19 reviews
+[14:55:57]     evolveskateboardsuk.co.uk: 2.2/5, 15 reviews
+[14:55:57]     kukiringlobal.com: 4.2/5, 95 reviews
+[14:55:57]     spelling.dk: 4.8/5, 76 reviews
+[14:55:57]     kukirin-it.com: 4.4/5, 19 reviews
+[14:55:57]     kugoo-scooter.com: 1.4/5, 190 reviews
+[14:55:57]     kugookirineu.com: 2.7/5, 15 reviews
+[14:55:57]     kukirinescooter.co.uk: 4.0/5, 4 reviews
+[14:55:57]     kukirin.ca: 3.7/5, 1 reviews
+[14:55:57]     kukirin-italy.com: 4.5/5, 13 reviews
+[14:55:57]     kugoo-ireland.com: 3.2/5, 1 reviews
+[14:55:57]     meepoboard.com: 3.6/5, 368 reviews
+[14:55:57]     backfireboardsusa.com: 4.2/5, 19 reviews
+[14:55:57]     evolveskateboardsusa.com: 2.1/5, 14 reviews
+[14:55:57]     kukirin-scooter.com: 2.9/5, 484 reviews
+[14:55:57]     kukirin-escooter.com: 4.6/5, 419 reviews
+[14:55:57]     kukirin-officiel.com: 3.7/5, 22 reviews
+[14:55:57]     kugoo.eu: 3.6/5, 79 reviews
+[14:55:57]     kugoo-escooter.com: 3.9/5, 14 reviews
+[14:55:57]     kukirin.se: 3.6/5, 3 reviews
+[14:55:57]     kukirin.com: 3.2/5, 1 reviews
+[14:55:57]     kugooescooter.com: 3.5/5, 11 reviews
+[14:55:57]     kugoousa.com: 3.2/5, 1 reviews
+[14:55:57]     exwayboard.com: 2.6/5, 79 reviews
+[14:55:57]     maxfind.com: 3.9/5, 136 reviews
+[14:55:57]     tyneeboard.com: 4.8/5, 128 reviews
+[14:55:57]     kukirin.es: 3.1/5, 78 reviews
+[14:55:57]     ku-kirin.it: 4.6/5, 35 reviews
+[14:55:57]     kugooescooters.com: 3.7/5, 1295 reviews
+[14:55:57]     officialkugookukirin.co.uk: 4.0/5, 26 reviews
+[14:55:57]     kukirin-escooter.eu: 4.3/5, 7 reviews
+[14:55:57]     kukirin.eu: 4.0/5, 3 reviews
+[14:55:57]     kukirin-eu.com: 3.6/5, 1 reviews
+[14:55:57]     kugoofrance.com: 3.8/5, 3 reviews
+[14:55:57]     kugooscooter-uk.com: 3.7/5, 1 reviews
+[14:55:57]     exwayboardusa.com: 2.6/5, 9 reviews
+[14:55:57]     evolveskateboards.com.au: 2.6/5, 156 reviews
+[14:55:57]     ownboard.net: 4.4/5, 32 reviews
+[14:55:57]     kukirin-scooter.pl: 4.8/5, 50 reviews
+[14:55:57]     kukirin-escooters.com: 4.5/5, 150 reviews
+[14:55:57]     kugoo-spain.com: 1.7/5, 304 reviews
+[14:55:57]     kugooscooter.uk: 1.8/5, 19 reviews
+[14:55:57]     kukirintrottinette.com: 4.0/5, 4 reviews
+[14:55:57]     kukirin.pt: 2.9/5, 2 reviews
+[14:55:57]     kukirinscooter.eu: 3.2/5, 1 reviews
+[14:55:57]     kugoo-officiel.com: 2.9/5, 2 reviews
+[14:55:57]     kukirinscooter-uk.com: 2.4/5, 44 reviews
+[14:55:57] Scrape done: 514 reviews total, 48 brands, 2 failed
+[14:55:58] Scrape done: 514 reviews total, 48 brands, 2 failed
+[14:55:58] [2/4] Fetching complete.
+[14:55:58] [3/4] Aggregating brand stats...
+[14:55:58]   meepoboard-eu.com: 3.8/5 (7 reviews) [yellow] | themes: +4/-0
+[14:55:58]   meepoboard.com: 3.6/5 (368 reviews) [yellow] | themes: +4/-4
+[14:55:58]   exwayboard.com: 2.6/5 (79 reviews) [red] | themes: +4/-4
+[14:55:58]   exwayboardusa.com: 2.6/5 (9 reviews) [red] | themes: +4/-2
+[14:55:58]   backfireboards.com: 3.2/5 (19 reviews) [yellow] | themes: +4/-4
+[14:55:58]   backfireboardsusa.com: 4.2/5 (19 reviews) [green] | themes: +4/-4
+[14:55:58]   maxfind.com: 3.9/5 (136 reviews) [yellow] | themes: +4/-4
+[14:55:58]   evolveskateboards.com.au: 2.6/5 (156 reviews) [red] | themes: +4/-4
+[14:55:58]   evolveskateboardsuk.co.uk: 2.2/5 (15 reviews) [red] | themes: +4/-4
+[14:55:58]   evolveskateboardsusa.com: 2.1/5 (14 reviews) [red] | themes: +4/-3
+[14:55:58]   tyneeboard.com: 4.8/5 (128 reviews) [green] | themes: +4/-1
+[14:55:58]   ownboard.net: 4.4/5 (32 reviews) [green] | themes: +4/-4
+[14:55:58]   kukiringlobal.com: 4.2/5 (95 reviews) [green] | themes: +4/-1
+[14:55:58]   kukirin-scooter.com: 2.9/5 (484 reviews) [red] | themes: +4/-4
+[14:55:58]   kukirin.es: 3.1/5 (78 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirin-scooter.pl: 4.8/5 (50 reviews) [green] | themes: +0/-0
+[14:55:58]   spelling.dk: 4.8/5 (76 reviews) [green] | themes: +1/-0
+[14:55:58]   kukirin-escooter.com: 4.6/5 (419 reviews) [green] | themes: +4/-2
+[14:55:58]   ku-kirin.it: 4.6/5 (35 reviews) [green] | themes: +0/-0
+[14:55:58]   kukirin-escooters.com: 4.5/5 (150 reviews) [green] | themes: +4/-0
+[14:55:58]   kukirin-it.com: 4.4/5 (19 reviews) [green] | themes: +1/-0
+[14:55:58]   kukirin-officiel.com: 3.7/5 (22 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kugooescooters.com: 3.7/5 (1295 reviews) [yellow] | themes: +4/-4
+[14:55:58]   kugoo-spain.com: 1.7/5 (304 reviews) [red] | themes: +1/-1
+[14:55:58]   kugoo-scooter.com: 1.4/5 (190 reviews) [red] | themes: +0/-4
+[14:55:58]   kugoo.eu: 3.6/5 (79 reviews) [yellow] | themes: +4/-3
+[14:55:58]   officialkugookukirin.co.uk: 4.0/5 (26 reviews) [green] | themes: +4/-1
+[14:55:58]   kugooscooter.uk: 1.8/5 (19 reviews) [red] | themes: +3/-3
+[14:55:58]   kugookirineu.com: 2.7/5 (15 reviews) [red] | themes: +2/-0
+[14:55:58]   kugoo-escooter.com: 3.9/5 (14 reviews) [yellow] | themes: +4/-3
+[14:55:58]   kukirin-escooter.eu: 4.3/5 (7 reviews) [green] | themes: +1/-0
+[14:55:58]   kukirintrottinette.com: 4.0/5 (4 reviews) [green] | themes: +1/-0
+[14:55:58]   kukirinescooter.co.uk: 4.0/5 (4 reviews) [green] | themes: +4/-0
+[14:55:58]   kukirin.se: 3.6/5 (3 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirin.eu: 4.0/5 (3 reviews) [green] | themes: +4/-0
+[14:55:58]   kukirin.pt: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[14:55:58]   kukirin.ca: 3.7/5 (1 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirin.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirin-eu.com: 3.6/5 (1 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirinscooter.eu: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kukirin-italy.com: 4.5/5 (13 reviews) [green] | themes: +1/-0
+[14:55:58]   kugooescooter.com: 3.5/5 (11 reviews) [yellow] | themes: +2/-0
+[14:55:58]   kugoofrance.com: 3.8/5 (3 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kugoo-officiel.com: 2.9/5 (2 reviews) [red] | themes: +0/-0
+[14:55:58]   kugoo-ireland.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-1
+[14:55:58]   kugoousa.com: 3.2/5 (1 reviews) [yellow] | themes: +0/-0
+[14:55:58]   kugooscooter-uk.com: 3.7/5 (1 reviews) [yellow] | themes: +1/-0
+[14:55:58]   kukirinscooter-uk.com: 2.4/5 (44 reviews) [red] | themes: +3/-3
+[14:55:58]   kukirin-fr.com: skipped (no data)
+[14:55:58]   kukirinescootereu.com: skipped (no data)
+[14:55:58] Aggregated 48/50 brands
+[14:55:58] Missing this run: kukirin-fr.com, kukirinescootereu.com
+[14:55:58] Saved 514 review samples to 2026-06-20-reviews.json
+[14:55:58] [4/4] Merging & deploying...
+[14:55:58] Merged deep analysis from: 2026-06-20.json
+[14:55:58] Preserved 2 stale brands from historical data
+[14:55:58] Upgrade recommended: 评论总量4455条 > 500条阈值，建议全量分析; 风险品牌评分在2.0-3.5区间: kugooescooter.com(3.5), backfireboards.com(3.2), kukirin.es(3.1); 10个品牌评论≥100条，竞品密度适合深度对比
+[14:55:58] JSON: D:\Ai\projects\trustpilot\trustpilot-voc\2026-06-20.json
+[14:55:58] Injected fresh data into index.html
+[14:55:58] Reddit data: 2026-06-20-reddit.json → reddit.json
+[14:55:58] Skipping deploy (--no-deploy or --no-inject)
+[14:55:58] === Done ===
+[14:55:58] URL: https://trustpilot-voc.vercel.app
+[17:10:11] === Trustpilot VOC Auto-Scan 2026-06-20 ===
+[17:10:11] Focus: meepoboard-eu.com, 50 brands across 50 URLs
+[17:10:11] [1/4] Direct browser scraping...
+[17:10:11] Launching 4 parallel browsers (undetected-chromedriver)...
+[17:10:18] Parallel scraping failed (Message: Service Unavailable
+), falling back to serial...

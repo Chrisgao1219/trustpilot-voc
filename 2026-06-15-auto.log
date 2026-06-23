@@ -1,0 +1,1273 @@
+[09:11:08] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[09:11:08] Focus: meepoboard-eu.com, 57 brands across 57 URLs
+[09:11:08] [1/4] Apify per-URL scraping...
+[09:11:08]   [1/57] meepoboard-eu.com...
+[09:11:33]     ERROR: Exit 1 [Apify call meepoboard-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:11:33]   [2/57] meepoboard.com...
+[09:11:48]     ERROR: Exit 1 [Apify call meepoboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:11:48]   [3/57] exwayboard.com...
+[09:12:00]     ERROR: Exit 1 [Apify call exwayboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:12:00]   [4/57] exwayboardusa.com...
+[09:12:12]     ERROR: Exit 1 [Apify call exwayboardusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:12:12]   [5/57] backfireboards.com...
+[09:12:25]     ERROR: Exit 1 [Apify call backfireboards.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:12:25]   [6/57] backfireboardsusa.com...
+[09:12:38]     ERROR: Exit 1 [Apify call backfireboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:12:38]   [7/57] maxfind.com...
+[09:12:51]     ERROR: Exit 1 [Apify call maxfind.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:12:51]   [8/57] evolveskateboards.com.au...
+[09:13:04]     ERROR: Exit 1 [Apify call evolveskateboards.com.au]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[09:13:04]   [9/57] evolveskateboardsuk.co.uk...
+[09:13:16]     ERROR: Exit 1 [Apify call evolveskateboardsuk.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Err
+[09:13:16]   [10/57] evolveskateboardsusa.com...
+[09:13:28]     ERROR: Exit 1 [Apify call evolveskateboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[09:13:28]   [11/57] tyneeboard.com...
+[09:13:41]     ERROR: Exit 1 [Apify call tyneeboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:13:41]   [12/57] ownboard.net...
+[09:13:54]     ERROR: Exit 1 [Apify call ownboard.net]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[09:13:54]   [13/57] kukiringlobal.com...
+[09:14:08]     ERROR: Exit 1 [Apify call kukiringlobal.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:14:08]   [14/57] kukirin-scooter.com...
+[09:14:21]     ERROR: Exit 1 [Apify call kukirin-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:14:21]   [15/57] kukirin.es...
+[09:14:33]     ERROR: Exit 1 [Apify call kukirin.es]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:14:33]   [16/57] kukirin-scooter.pl...
+[09:14:45]     ERROR: Exit 1 [Apify call kukirin-scooter.pl]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:14:45]   [17/57] spelling.dk...
+[09:14:58]     ERROR: Exit 1 [Apify call spelling.dk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:14:58]   [18/57] kukirin-escooter.com...
+[09:15:11]     ERROR: Exit 1 [Apify call kukirin-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:15:11]   [19/57] ku-kirin.it...
+[09:15:23]     ERROR: Exit 1 [Apify call ku-kirin.it]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:15:23]   [20/57] kukirin-escooters.com...
+[09:15:36]     ERROR: Exit 1 [Apify call kukirin-escooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:15:36]   [21/57] kukirin-it.com...
+[09:15:49]     ERROR: Exit 1 [Apify call kukirin-it.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:15:49]   [22/57] kukirin-officiel.com...
+[09:16:01]     ERROR: Exit 1 [Apify call kukirin-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:16:01]   [23/57] kugooescooters.com...
+[09:16:13]     ERROR: Exit 1 [Apify call kugooescooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:16:13]   [24/57] kugoo-spain.com...
+[09:16:26]     ERROR: Exit 1 [Apify call kugoo-spain.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:16:26]   [25/57] kugoo-scooter.com...
+[09:16:38]     ERROR: Exit 1 [Apify call kugoo-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:16:38]   [26/57] kugoo.eu...
+[09:16:50]     ERROR: Exit 1 [Apify call kugoo.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[09:16:50]   [27/57] officialkugookukirin.co.uk...
+[09:17:02]     ERROR: Exit 1 [Apify call officialkugookukirin.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Er
+[09:17:02]   [28/57] kugooscooter.uk...
+[09:17:14]     ERROR: Exit 1 [Apify call kugooscooter.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:17:14]   [29/57] kugookirineu.com...
+[09:17:26]     ERROR: Exit 1 [Apify call kugookirineu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:17:26]   [30/57] kugoo-escooter.com...
+[09:17:39]     ERROR: Exit 1 [Apify call kugoo-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:17:39]   [31/57] kukirin-escooter.eu...
+[09:17:51]     ERROR: Exit 1 [Apify call kukirin-escooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:17:51]   [32/57] kukirintrottinette.com...
+[09:18:03]     ERROR: Exit 1 [Apify call kukirintrottinette.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error:
+[09:18:03]   [33/57] kukirinescooter.co.uk...
+[09:18:15]     ERROR: Exit 1 [Apify call kukirinescooter.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:18:15]   [34/57] kukirin.se...
+[09:18:27]     ERROR: Exit 1 [Apify call kukirin.se]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:18:27]   [35/57] kukirin.eu...
+[09:18:39]     ERROR: Exit 1 [Apify call kukirin.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:18:39]   [36/57] kukirin.pt...
+[09:18:51]     ERROR: Exit 1 [Apify call kukirin.pt]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:18:51]   [37/57] kukirin.ca...
+[09:19:04]     ERROR: Exit 1 [Apify call kukirin.ca]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:19:04]   [38/57] kukirin.com...
+[09:19:16]     ERROR: Exit 1 [Apify call kukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:19:16]   [39/57] kukirin-eu.com...
+[09:19:28]     ERROR: Exit 1 [Apify call kukirin-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:19:28]   [40/57] kukirinscooter.eu...
+[09:19:40]     ERROR: Exit 1 [Apify call kukirinscooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:19:40]   [41/57] kukirin-italy.com...
+[09:19:52]     ERROR: Exit 1 [Apify call kukirin-italy.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:19:52]   [42/57] kukirin-geneve.ch...
+[09:20:04]     ERROR: Exit 1 [Apify call kukirin-geneve.ch]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:20:04]   [43/57] kukirin-hrvatska.com...
+[09:20:17]     ERROR: Exit 1 [Apify call kukirin-hrvatska.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:20:17]   [44/57] kukirinpl.com...
+[09:20:29]     ERROR: Exit 1 [Apify call kukirinpl.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[09:20:29]   [45/57] kukirinro.com...
+[09:20:41]     ERROR: Exit 1 [Apify call kukirinro.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[09:20:41]   [46/57] kukirinescootereu.com...
+[09:20:53]     ERROR: Exit 1 [Apify call kukirinescootereu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:20:53]   [47/57] kukirinprime.com...
+[09:21:05]     ERROR: Exit 1 [Apify call kukirinprime.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:21:05]   [48/57] kukirinscooter-eu.com...
+[09:21:17]     ERROR: Exit 1 [Apify call kukirinscooter-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:21:17]   [49/57] kukirinofficial.com...
+[09:21:30]     ERROR: Exit 1 [Apify call kukirinofficial.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:21:30]   [50/57] kugooescooter.com...
+[09:21:42]     ERROR: Exit 1 [Apify call kugooescooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:21:42]   [51/57] kugoofrance.com...
+[09:21:54]     ERROR: Exit 1 [Apify call kugoofrance.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:21:54]   [52/57] kugoo-officiel.com...
+[09:22:06]     ERROR: Exit 1 [Apify call kugoo-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:22:06]   [53/57] kugoo-ireland.com...
+[09:22:15] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[09:22:15] Focus: meepoboard-eu.com, 57 brands across 57 URLs
+[09:22:15] [1/4] Apify per-URL scraping...
+[09:22:15]   [1/57] meepoboard-eu.com...
+[09:22:18]     ERROR: Exit 1 [Apify call kugoo-ireland.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:22:18]   [54/57] kugoousa.com...
+[09:22:27]     ERROR: Exit 1 [Apify call meepoboard-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:22:27]   [2/57] meepoboard.com...
+[09:22:30]     ERROR: Exit 1 [Apify call kugoousa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[09:22:30]   [55/57] kugooscooter-uk.com...
+[09:22:39]     ERROR: Exit 1 [Apify call meepoboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:22:39]   [3/57] exwayboard.com...
+[09:22:42]     ERROR: Exit 1 [Apify call kugooscooter-uk.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:22:42]   [56/57] kugooitaly.com...
+[09:22:51]     ERROR: Exit 1 [Apify call exwayboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:22:51]   [4/57] exwayboardusa.com...
+[09:22:55]     ERROR: Exit 1 [Apify call kugooitaly.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:22:55]   [57/57] kugookukirin.com...
+[09:23:03]     ERROR: Exit 1 [Apify call exwayboardusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:23:03]   [5/57] backfireboards.com...
+[09:23:07]     ERROR: Exit 1 [Apify call kugookukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:23:07] Scrape done: 0 reviews total, $0.000 cost, 57 failed
+[09:23:07] [2/4] Fetching complete.
+[09:23:07] FATAL: No reviews collected
+[09:23:15]     ERROR: Exit 1 [Apify call backfireboards.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:23:15]   [6/57] backfireboardsusa.com...
+[09:23:28]     ERROR: Exit 1 [Apify call backfireboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:23:28]   [7/57] maxfind.com...
+[09:23:40]     ERROR: Exit 1 [Apify call maxfind.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:23:40]   [8/57] evolveskateboards.com.au...
+[09:23:52]     ERROR: Exit 1 [Apify call evolveskateboards.com.au]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[09:23:52]   [9/57] evolveskateboardsuk.co.uk...
+[09:24:04]     ERROR: Exit 1 [Apify call evolveskateboardsuk.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Err
+[09:24:04]   [10/57] evolveskateboardsusa.com...
+[09:24:16]     ERROR: Exit 1 [Apify call evolveskateboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[09:24:16]   [11/57] tyneeboard.com...
+[09:24:28]     ERROR: Exit 1 [Apify call tyneeboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:24:28]   [12/57] ownboard.net...
+[09:24:40]     ERROR: Exit 1 [Apify call ownboard.net]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[09:24:40]   [13/57] kukiringlobal.com...
+[09:24:52]     ERROR: Exit 1 [Apify call kukiringlobal.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:24:52]   [14/57] kukirin-scooter.com...
+[09:25:04]     ERROR: Exit 1 [Apify call kukirin-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:25:04]   [15/57] kukirin.es...
+[09:25:17]     ERROR: Exit 1 [Apify call kukirin.es]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:25:17]   [16/57] kukirin-scooter.pl...
+[09:25:29]     ERROR: Exit 1 [Apify call kukirin-scooter.pl]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:25:29]   [17/57] spelling.dk...
+[09:25:41]     ERROR: Exit 1 [Apify call spelling.dk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:25:41]   [18/57] kukirin-escooter.com...
+[09:25:53]     ERROR: Exit 1 [Apify call kukirin-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:25:53]   [19/57] ku-kirin.it...
+[09:26:05]     ERROR: Exit 1 [Apify call ku-kirin.it]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:26:05]   [20/57] kukirin-escooters.com...
+[09:26:17]     ERROR: Exit 1 [Apify call kukirin-escooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:26:17]   [21/57] kukirin-it.com...
+[09:26:29]     ERROR: Exit 1 [Apify call kukirin-it.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:26:29]   [22/57] kukirin-officiel.com...
+[09:26:41]     ERROR: Exit 1 [Apify call kukirin-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:26:41]   [23/57] kugooescooters.com...
+[09:26:54]     ERROR: Exit 1 [Apify call kugooescooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:26:54]   [24/57] kugoo-spain.com...
+[09:27:06]     ERROR: Exit 1 [Apify call kugoo-spain.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:27:06]   [25/57] kugoo-scooter.com...
+[09:27:18]     ERROR: Exit 1 [Apify call kugoo-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:27:18]   [26/57] kugoo.eu...
+[09:27:30]     ERROR: Exit 1 [Apify call kugoo.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[09:27:30]   [27/57] officialkugookukirin.co.uk...
+[09:27:42]     ERROR: Exit 1 [Apify call officialkugookukirin.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Er
+[09:27:42]   [28/57] kugooscooter.uk...
+[09:27:54]     ERROR: Exit 1 [Apify call kugooscooter.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:27:54]   [29/57] kugookirineu.com...
+[09:28:06]     ERROR: Exit 1 [Apify call kugookirineu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:28:06]   [30/57] kugoo-escooter.com...
+[09:28:18]     ERROR: Exit 1 [Apify call kugoo-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:28:18]   [31/57] kukirin-escooter.eu...
+[09:28:30]     ERROR: Exit 1 [Apify call kukirin-escooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:28:30]   [32/57] kukirintrottinette.com...
+[09:28:43]     ERROR: Exit 1 [Apify call kukirintrottinette.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error:
+[09:28:43]   [33/57] kukirinescooter.co.uk...
+[09:28:55]     ERROR: Exit 1 [Apify call kukirinescooter.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:28:55]   [34/57] kukirin.se...
+[09:29:07]     ERROR: Exit 1 [Apify call kukirin.se]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:29:07]   [35/57] kukirin.eu...
+[09:29:19]     ERROR: Exit 1 [Apify call kukirin.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:29:19]   [36/57] kukirin.pt...
+[09:29:31]     ERROR: Exit 1 [Apify call kukirin.pt]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:29:31]   [37/57] kukirin.ca...
+[09:29:43]     ERROR: Exit 1 [Apify call kukirin.ca]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[09:29:43]   [38/57] kukirin.com...
+[09:29:55]     ERROR: Exit 1 [Apify call kukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[09:29:55]   [39/57] kukirin-eu.com...
+[09:30:07]     ERROR: Exit 1 [Apify call kukirin-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:30:07]   [40/57] kukirinscooter.eu...
+[09:30:19]     ERROR: Exit 1 [Apify call kukirinscooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:30:19]   [41/57] kukirin-italy.com...
+[09:30:31]     ERROR: Exit 1 [Apify call kukirin-italy.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:30:31]   [42/57] kukirin-geneve.ch...
+[09:30:43]     ERROR: Exit 1 [Apify call kukirin-geneve.ch]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:30:43]   [43/57] kukirin-hrvatska.com...
+[09:30:55]     ERROR: Exit 1 [Apify call kukirin-hrvatska.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[09:30:55]   [44/57] kukirinpl.com...
+[09:31:07]     ERROR: Exit 1 [Apify call kukirinpl.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[09:31:07]   [45/57] kukirinro.com...
+[09:31:20]     ERROR: Exit 1 [Apify call kukirinro.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[09:31:20]   [46/57] kukirinescootereu.com...
+[09:31:32]     ERROR: Exit 1 [Apify call kukirinescootereu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:31:32]   [47/57] kukirinprime.com...
+[09:31:44]     ERROR: Exit 1 [Apify call kukirinprime.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:31:44]   [48/57] kukirinscooter-eu.com...
+[09:31:56]     ERROR: Exit 1 [Apify call kukirinscooter-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[09:31:56]   [49/57] kukirinofficial.com...
+[09:32:08]     ERROR: Exit 1 [Apify call kukirinofficial.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:32:08]   [50/57] kugooescooter.com...
+[09:32:20]     ERROR: Exit 1 [Apify call kugooescooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:32:20]   [51/57] kugoofrance.com...
+[09:32:33]     ERROR: Exit 1 [Apify call kugoofrance.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[09:32:33]   [52/57] kugoo-officiel.com...
+[09:32:45]     ERROR: Exit 1 [Apify call kugoo-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[09:32:45]   [53/57] kugoo-ireland.com...
+[09:32:57]     ERROR: Exit 1 [Apify call kugoo-ireland.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[09:32:57]   [54/57] kugoousa.com...
+[09:33:09]     ERROR: Exit 1 [Apify call kugoousa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[09:33:09]   [55/57] kugooscooter-uk.com...
+[09:33:21]     ERROR: Exit 1 [Apify call kugooscooter-uk.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[09:33:21]   [56/57] kugooitaly.com...
+[09:33:33]     ERROR: Exit 1 [Apify call kugooitaly.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[09:33:33]   [57/57] kugookukirin.com...
+[09:33:45]     ERROR: Exit 1 [Apify call kugookukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[09:33:45] Scrape done: 0 reviews total, $0.000 cost, 57 failed
+[09:33:45] [2/4] Fetching complete.
+[09:33:45] FATAL: No reviews collected
+[15:45:41] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[15:45:41] Focus: meepoboard-eu.com, 57 brands across 57 URLs
+[15:45:41] [1/4] Apify per-URL scraping...
+[15:45:41]   [1/57] meepoboard-eu.com...
+[15:45:53]     ERROR: Exit 1 [Apify call meepoboard-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:45:53]   [2/57] meepoboard.com...
+[15:46:05]     ERROR: Exit 1 [Apify call meepoboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:46:05]   [3/57] exwayboard.com...
+[15:46:18]     ERROR: Exit 1 [Apify call exwayboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:46:18]   [4/57] exwayboardusa.com...
+[15:46:30]     ERROR: Exit 1 [Apify call exwayboardusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:46:30]   [5/57] backfireboards.com...
+[15:46:42]     ERROR: Exit 1 [Apify call backfireboards.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[15:46:42]   [6/57] backfireboardsusa.com...
+[15:46:54]     ERROR: Exit 1 [Apify call backfireboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[15:46:54]   [7/57] maxfind.com...
+[15:47:06]     ERROR: Exit 1 [Apify call maxfind.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[15:47:06]   [8/57] evolveskateboards.com.au...
+[15:47:19]     ERROR: Exit 1 [Apify call evolveskateboards.com.au]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[15:47:19]   [9/57] evolveskateboardsuk.co.uk...
+[15:47:31]     ERROR: Exit 1 [Apify call evolveskateboardsuk.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Err
+[15:47:31]   [10/57] evolveskateboardsusa.com...
+[15:47:43]     ERROR: Exit 1 [Apify call evolveskateboardsusa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Erro
+[15:47:43]   [11/57] tyneeboard.com...
+[15:47:55]     ERROR: Exit 1 [Apify call tyneeboard.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:47:55]   [12/57] ownboard.net...
+[15:48:07]     ERROR: Exit 1 [Apify call ownboard.net]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[15:48:07]   [13/57] kukiringlobal.com...
+[15:48:20]     ERROR: Exit 1 [Apify call kukiringlobal.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:48:20]   [14/57] kukirin-scooter.com...
+[15:48:32]     ERROR: Exit 1 [Apify call kukirin-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[15:48:32]   [15/57] kukirin.es...
+[15:48:44]     ERROR: Exit 1 [Apify call kukirin.es]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[15:48:44]   [16/57] kukirin-scooter.pl...
+[15:48:57]     ERROR: Exit 1 [Apify call kukirin-scooter.pl]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[15:48:57]   [17/57] spelling.dk...
+[15:49:09]     ERROR: Exit 1 [Apify call spelling.dk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[15:49:09]   [18/57] kukirin-escooter.com...
+[15:49:21]     ERROR: Exit 1 [Apify call kukirin-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[15:49:21]   [19/57] ku-kirin.it...
+[15:49:33]     ERROR: Exit 1 [Apify call ku-kirin.it]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[15:49:33]   [20/57] kukirin-escooters.com...
+[15:49:45]     ERROR: Exit 1 [Apify call kukirin-escooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[15:49:45]   [21/57] kukirin-it.com...
+[15:49:57]     ERROR: Exit 1 [Apify call kukirin-it.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:49:57]   [22/57] kukirin-officiel.com...
+[15:50:10]     ERROR: Exit 1 [Apify call kukirin-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[15:50:10]   [23/57] kugooescooters.com...
+[15:50:22]     ERROR: Exit 1 [Apify call kugooescooters.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[15:50:22]   [24/57] kugoo-spain.com...
+[15:50:34]     ERROR: Exit 1 [Apify call kugoo-spain.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[15:50:34]   [25/57] kugoo-scooter.com...
+[15:50:46]     ERROR: Exit 1 [Apify call kugoo-scooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:50:46]   [26/57] kugoo.eu...
+[15:50:59]     ERROR: Exit 1 [Apify call kugoo.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usage
+[15:50:59]   [27/57] officialkugookukirin.co.uk...
+[15:51:11]     ERROR: Exit 1 [Apify call officialkugookukirin.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Er
+[15:51:11]   [28/57] kugooscooter.uk...
+[15:51:23]     ERROR: Exit 1 [Apify call kugooscooter.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[15:51:23]   [29/57] kugookirineu.com...
+[15:51:36]     ERROR: Exit 1 [Apify call kugookirineu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[15:51:36]   [30/57] kugoo-escooter.com...
+[15:51:48]     ERROR: Exit 1 [Apify call kugoo-escooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[15:51:48]   [31/57] kukirin-escooter.eu...
+[15:52:00]     ERROR: Exit 1 [Apify call kukirin-escooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[15:52:00]   [32/57] kukirintrottinette.com...
+[15:52:12]     ERROR: Exit 1 [Apify call kukirintrottinette.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error:
+[15:52:12]   [33/57] kukirinescooter.co.uk...
+[15:52:24]     ERROR: Exit 1 [Apify call kukirinescooter.co.uk]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[15:52:24]   [34/57] kukirin.se...
+[15:52:37]     ERROR: Exit 1 [Apify call kukirin.se]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[15:52:37]   [35/57] kukirin.eu...
+[15:52:49]     ERROR: Exit 1 [Apify call kukirin.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[15:52:49]   [36/57] kukirin.pt...
+[15:53:01]     ERROR: Exit 1 [Apify call kukirin.pt]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[15:53:01]   [37/57] kukirin.ca...
+[15:53:13]     ERROR: Exit 1 [Apify call kukirin.ca]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly usa
+[15:53:13]   [38/57] kukirin.com...
+[15:53:25]     ERROR: Exit 1 [Apify call kukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly us
+[15:53:25]   [39/57] kukirin-eu.com...
+[15:53:37]     ERROR: Exit 1 [Apify call kukirin-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:53:37]   [40/57] kukirinscooter.eu...
+[15:53:50]     ERROR: Exit 1 [Apify call kukirinscooter.eu]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:53:50]   [41/57] kukirin-italy.com...
+[15:54:02]     ERROR: Exit 1 [Apify call kukirin-italy.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:54:02]   [42/57] kukirin-geneve.ch...
+[15:54:14]     ERROR: Exit 1 [Apify call kukirin-geneve.ch]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:54:14]   [43/57] kukirin-hrvatska.com...
+[15:54:26]     ERROR: Exit 1 [Apify call kukirin-hrvatska.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: M
+[15:54:26]   [44/57] kukirinpl.com...
+[15:54:38]     ERROR: Exit 1 [Apify call kukirinpl.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[15:54:38]   [45/57] kukirinro.com...
+[15:54:50]     ERROR: Exit 1 [Apify call kukirinro.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly 
+[15:54:50]   [46/57] kukirinescootereu.com...
+[15:55:03]     ERROR: Exit 1 [Apify call kukirinescootereu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[15:55:03]   [47/57] kukirinprime.com...
+[15:55:15]     ERROR: Exit 1 [Apify call kukirinprime.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[15:55:15]   [48/57] kukirinscooter-eu.com...
+[15:55:27]     ERROR: Exit 1 [Apify call kukirinscooter-eu.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: 
+[15:55:27]   [49/57] kukirinofficial.com...
+[15:55:39]     ERROR: Exit 1 [Apify call kukirinofficial.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[15:55:39]   [50/57] kugooescooter.com...
+[15:55:52]     ERROR: Exit 1 [Apify call kugooescooter.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:55:52]   [51/57] kugoofrance.com...
+[15:56:04]     ERROR: Exit 1 [Apify call kugoofrance.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthl
+[15:56:04]   [52/57] kugoo-officiel.com...
+[15:56:16]     ERROR: Exit 1 [Apify call kugoo-officiel.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mon
+[15:56:16]   [53/57] kugoo-ireland.com...
+[15:56:28]     ERROR: Exit 1 [Apify call kugoo-ireland.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mont
+[15:56:28]   [54/57] kugoousa.com...
+[15:56:41]     ERROR: Exit 1 [Apify call kugoousa.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly u
+[15:56:41]   [55/57] kugooscooter-uk.com...
+[15:56:53]     ERROR: Exit 1 [Apify call kugooscooter-uk.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Mo
+[15:56:53]   [56/57] kugooitaly.com...
+[15:57:05]     ERROR: Exit 1 [Apify call kugooitaly.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Monthly
+[15:57:05]   [57/57] kugookukirin.com...
+[15:57:17]     ERROR: Exit 1 [Apify call kugookukirin.com]: Run: Calling Actor memo23/trustpilot-scraper-ppe (HYuOke00wY4emLHz1)
+
+Error: Month
+[15:57:17] Scrape done: 0 reviews total, $0.000 cost, 57 failed
+[15:57:17] [2/4] Fetching complete.
+[15:57:17] FATAL: No reviews collected
+[16:37:05] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[16:37:05] Focus: meepoboard-eu.com, 57 brands across 57 URLs
+[16:37:05] [1/4] Direct browser scraping...
+[16:37:05] Launching browser (undetected-chromedriver)...
+[16:37:16]   [1/57] meepoboard-eu.com...
+[16:37:29]     3.6/5, 5 reviews, 3 scraped
+[16:37:31]   [2/57] meepoboard.com...
+[16:37:37]     3.7/5, 367 reviews, 20 scraped
+[16:37:39]   [3/57] exwayboard.com...
+[16:37:44]     2.6/5, 79 reviews, 20 scraped
+[16:37:46]   [4/57] exwayboardusa.com...
+[16:37:51]     2.6/5, 9 reviews, 8 scraped
+[16:37:53]   [5/57] backfireboards.com...
+[16:37:59]     3.2/5, 19 reviews, 17 scraped
+[16:38:01]   [6/57] backfireboardsusa.com...
+[16:38:06]     4.2/5, 19 reviews, 17 scraped
+[16:38:08]   [7/57] maxfind.com...
+[16:38:13]     3.9/5, 136 reviews, 20 scraped
+[16:38:15]   [8/57] evolveskateboards.com.au...
+[16:38:20]     2.6/5, 156 reviews, 20 scraped
+[16:38:22]   [9/57] evolveskateboardsuk.co.uk...
+[16:38:28]     2.2/5, 15 reviews, 15 scraped
+[16:38:30]   [10/57] evolveskateboardsusa.com...
+[16:38:36]     2.1/5, 14 reviews, 13 scraped
+[16:38:38]   [11/57] tyneeboard.com...
+[16:38:43]     4.8/5, 125 reviews, 20 scraped
+[16:38:45]   [12/57] ownboard.net...
+[16:38:51]     4.4/5, 32 reviews, 20 scraped
+[16:38:53]   [13/57] kukiringlobal.com...
+[16:38:58]     4.2/5, 95 reviews, 20 scraped
+[16:39:00]   [14/57] kukirin-scooter.com...
+[16:39:06]     3.0/5, 476 reviews, 20 scraped
+[16:39:08]   [15/57] kukirin.es...
+[16:39:13]     3.0/5, 77 reviews, 2 scraped
+[16:39:15]   [16/57] kukirin-scooter.pl...
+[16:39:21]     4.8/5, 42 reviews, 20 scraped
+[16:39:23]   [17/57] spelling.dk...
+[16:39:28]     4.8/5, 75 reviews, 2 scraped
+[16:39:30]   [18/57] kukirin-escooter.com...
+[16:39:35]     4.6/5, 413 reviews, 20 scraped
+[16:39:37]   [19/57] ku-kirin.it...
+[16:39:49]     4.6/5, 35 reviews, 20 scraped
+[16:39:51]   [20/57] kukirin-escooters.com...
+[16:39:57]     4.5/5, 148 reviews, 20 scraped
+[16:39:59]   [21/57] kukirin-it.com...
+[16:40:05]     4.4/5, 19 reviews, 3 scraped
+[16:40:07]   [22/57] kukirin-officiel.com...
+[16:40:13]     3.6/5, 20 reviews, 1 scraped
+[16:40:15]   [23/57] kugooescooters.com...
+[16:40:21]     3.7/5, 1267 reviews, 20 scraped
+[16:40:23]   [24/57] kugoo-spain.com...
+[16:40:29]     1.7/5, 304 reviews, 6 scraped
+[16:40:31]   [25/57] kugoo-scooter.com...
+[16:40:36]     1.4/5, 189 reviews, 20 scraped
+[16:40:38]   [26/57] kugoo.eu...
+[16:40:43]     3.5/5, 78 reviews, 20 scraped
+[16:40:45]   [27/57] officialkugookukirin.co.uk...
+[16:40:51]     4.0/5, 26 reviews, 20 scraped
+[16:40:53]   [28/57] kugooscooter.uk...
+[16:40:58]     1.8/5, 19 reviews, 19 scraped
+[16:41:00]   [29/57] kugookirineu.com...
+[16:41:06]     2.7/5, 15 reviews, 7 scraped
+[16:41:08]   [30/57] kugoo-escooter.com...
+[16:41:13]     3.9/5, 14 reviews, 13 scraped
+[16:41:15]   [31/57] kukirin-escooter.eu...
+[16:41:20]     4.3/5, 7 reviews, 3 scraped
+[16:41:22]   [32/57] kukirintrottinette.com...
+[16:41:28]     4.0/5, 4 reviews, 4 scraped
+[16:41:30]   [33/57] kukirinescooter.co.uk...
+[16:41:35]     4.0/5, 4 reviews, 4 scraped
+[16:41:37]   [34/57] kukirin.se...
+[16:41:42]     3.6/5, 3 reviews, 3 scraped
+[16:41:44]   [35/57] kukirin.eu...
+[16:41:48]     3.8/5, 2 reviews, 2 scraped
+[16:41:50]   [36/57] kukirin.pt...
+[16:41:57]     2.9/5, 2 reviews, 2 scraped
+[16:41:59]   [37/57] kukirin.ca...
+[16:42:04]     3.7/5, 1 reviews, 1 scraped
+[16:42:06]   [38/57] kukirin.com...
+[16:42:12]     3.2/5, 1 reviews, 1 scraped
+[16:42:14]   [39/57] kukirin-eu.com...
+[16:42:19]     3.6/5, 1 reviews, 1 scraped
+[16:42:21]   [40/57] kukirinscooter.eu...
+[16:42:26]     3.2/5, 1 reviews, 1 scraped
+[16:42:28]   [41/57] kukirin-italy.com...
+[16:42:34]     4.4/5, 12 reviews, 12 scraped
+[16:42:36]   [42/57] kukirin-geneve.ch...
+[16:42:42]     No data extracted
+[16:42:42]   [43/57] kukirin-hrvatska.com...
+[16:42:47]     No data extracted
+[16:42:47]   [44/57] kukirinpl.com...
+[16:42:52]     No data extracted
+[16:42:52]   [45/57] kukirinro.com...
+[16:42:58]     No data extracted
+[16:42:58]   [46/57] kukirinescootereu.com...
+[16:43:03]     No data extracted
+[16:43:03]   [47/57] kukirinprime.com...
+[16:43:10]     No data extracted
+[16:43:10]   [48/57] kukirinscooter-eu.com...
+[16:43:15]     No data extracted
+[16:43:15]   [49/57] kukirinofficial.com...
+[16:43:20]     No data extracted
+[16:43:20]   [50/57] kugooescooter.com...
+[16:43:25]     3.5/5, 8 reviews, 3 scraped
+[16:43:27]   [51/57] kugoofrance.com...
+[16:43:32]     3.8/5, 3 reviews, 3 scraped
+[16:43:34]   [52/57] kugoo-officiel.com...
+[16:43:40]     2.9/5, 2 reviews, 2 scraped
+[16:43:42]   [53/57] kugoo-ireland.com...
+[16:43:47]     3.2/5, 1 reviews, 1 scraped
+[16:43:49]   [54/57] kugoousa.com...
+[16:43:54]     3.2/5, 1 reviews, 1 scraped
+[16:43:56]   [55/57] kugooscooter-uk.com...
+[16:44:01]     3.7/5, 1 reviews, 1 scraped
+[16:44:03]   [56/57] kugooitaly.com...
+[16:44:09]     No data extracted
+[16:44:09]   [57/57] kugookukirin.com...
+[16:44:14]     No data extracted
+[16:44:14] Scrape done: 491 reviews total, $0.00 cost, 10 failed
+[16:44:14] [2/4] Fetching complete.
+[16:44:14] [3/4] Aggregating brand stats...
+[16:44:14]   meepoboard-eu.com: 3.3/5 (3 reviews) [yellow] | themes: +1/-1
+[16:44:14]   meepoboard.com: 4.2/5 (20 reviews) [green] | themes: +4/-4
+[16:44:14]   exwayboard.com: 1.4/5 (20 reviews) [red] | themes: +4/-4
+[16:44:14]   exwayboardusa.com: 3.4/5 (8 reviews) [yellow] | themes: +4/-2
+[16:44:14]   backfireboards.com: 3.0/5 (17 reviews) [yellow] | themes: +4/-4
+[16:44:14]   backfireboardsusa.com: 4.0/5 (17 reviews) [green] | themes: +4/-4
+[16:44:14]   maxfind.com: 4.3/5 (20 reviews) [green] | themes: +4/-4
+[16:44:14]   evolveskateboards.com.au: 2.0/5 (20 reviews) [red] | themes: +4/-4
+[16:44:14]   evolveskateboardsuk.co.uk: 2.9/5 (15 reviews) [red] | themes: +4/-4
+[16:44:14]   evolveskateboardsusa.com: 4.0/5 (13 reviews) [green] | themes: +4/-4
+[16:44:14]   tyneeboard.com: 4.8/5 (20 reviews) [green] | themes: +4/-2
+[16:44:14]   ownboard.net: 1.8/5 (20 reviews) [red] | themes: +4/-4
+[16:44:14]   kukiringlobal.com: 4.4/5 (20 reviews) [green] | themes: +4/-2
+[16:44:14]   kukirin-scooter.com: 3.1/5 (20 reviews) [yellow] | themes: +4/-4
+[16:44:14]   kukirin.es: 3.0/5 (2 reviews) [yellow] | themes: +0/-0
+[16:44:14]   kukirin-scooter.pl: 5.0/5 (20 reviews) [green] | themes: +1/-0
+[16:44:14]   spelling.dk: 3.0/5 (2 reviews) [yellow] | themes: +1/-0
+[16:44:14]   kukirin-escooter.com: 4.3/5 (20 reviews) [green] | themes: +4/-1
+[16:44:15]   ku-kirin.it: 4.9/5 (20 reviews) [green] | themes: +0/-0
+[16:44:15]   kukirin-escooters.com: 4.5/5 (20 reviews) [green] | themes: +4/-1
+[16:44:15]   kukirin-it.com: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[16:44:15]   kukirin-officiel.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[16:44:15]   kugooescooters.com: 3.1/5 (20 reviews) [yellow] | themes: +3/-4
+[16:44:15]   kugoo-spain.com: 2.7/5 (6 reviews) [red] | themes: +4/-1
+[16:44:15]   kugoo-scooter.com: 1.2/5 (20 reviews) [red] | themes: +4/-4
+[16:44:15]   kugoo.eu: 4.0/5 (20 reviews) [green] | themes: +4/-3
+[16:44:15]   officialkugookukirin.co.uk: 4.4/5 (20 reviews) [green] | themes: +4/-1
+[16:44:15]   kugooscooter.uk: 1.5/5 (19 reviews) [red] | themes: +4/-3
+[16:44:15]   kugookirineu.com: 2.9/5 (7 reviews) [red] | themes: +2/-0
+[16:44:15]   kugoo-escooter.com: 4.4/5 (13 reviews) [green] | themes: +4/-3
+[16:44:15]   kukirin-escooter.eu: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[16:44:15]   kukirintrottinette.com: 5.0/5 (4 reviews) [green] | themes: +1/-0
+[16:44:15]   kukirinescooter.co.uk: 4.8/5 (4 reviews) [green] | themes: +4/-0
+[16:44:15]   kukirin.se: 3.7/5 (3 reviews) [yellow] | themes: +0/-0
+[16:44:15]   kukirin.eu: 5.0/5 (2 reviews) [green] | themes: +4/-0
+[16:44:15]   kukirin.pt: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[16:44:15]   kukirin.ca: 5.0/5 (1 reviews) [green] | themes: +0/-0
+[16:44:15]   kukirin.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[16:44:15]   kukirin-eu.com: 4.0/5 (1 reviews) [green] | themes: +0/-0
+[16:44:15]   kukirinscooter.eu: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[16:44:15]   kukirin-italy.com: 5.0/5 (12 reviews) [green] | themes: +1/-0
+[16:44:15]   kukirin-geneve.ch: skipped (no data)
+[16:44:15]   kukirin-hrvatska.com: skipped (no data)
+[16:44:15]   kukirinpl.com: skipped (no data)
+[16:44:15]   kukirinro.com: skipped (no data)
+[16:44:15]   kukirinescootereu.com: skipped (no data)
+[16:44:15]   kukirinprime.com: skipped (no data)
+[16:44:15]   kukirinscooter-eu.com: skipped (no data)
+[16:44:15]   kukirinofficial.com: skipped (no data)
+[16:44:15]   kugooescooter.com: 5.0/5 (3 reviews) [green] | themes: +2/-1
+[16:44:15]   kugoofrance.com: 3.3/5 (3 reviews) [yellow] | themes: +0/-0
+[16:44:15]   kugoo-officiel.com: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[16:44:15]   kugoo-ireland.com: 1.0/5 (1 reviews) [red] | themes: +4/-1
+[16:44:15]   kugoousa.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[16:44:15]   kugooscooter-uk.com: 5.0/5 (1 reviews) [green] | themes: +1/-0
+[16:44:15]   kugooitaly.com: skipped (no data)
+[16:44:15]   kugookukirin.com: skipped (no data)
+[16:44:15] Aggregated 47/57 brands
+[16:44:15] Saved 491 review samples to 2026-06-15-reviews.json
+[16:44:15] [4/4] Merging & deploying...
+[16:44:15] Merged deep analysis from: 2026-06-09.json
+[16:44:15] JSON: D:\Ai\Trustpilot\trustpilot-voc\2026-06-15.json
+[16:44:15] Upgrade recommended: 风险品牌评分在2.0-3.5区间: exwayboardusa.com(3.4), backfireboards.com(3.0), evolveskateboards.com.au(2.0)
+[16:44:15] Skipping inject (--no-inject, pipeline will handle)
+[16:44:15] Reddit data: 2026-06-15-reddit.json → reddit.json
+[16:44:15] Skipping deploy (--no-inject, pipeline will handle)
+[16:44:15] === Done ===
+[16:44:15] URL: https://trustpilot-voc.vercel.app
+[17:26:05] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[17:26:05] Focus: Meepo EU, 57 brands across 57 URLs
+[17:26:05] [1/4] Direct browser scraping...
+[17:26:05] Launching browser (undetected-chromedriver)...
+[17:26:17]   [1/57] Meepo EU...
+[17:26:46]     3.6/5, 5 reviews, 3 scraped
+[17:26:48]   [2/57] Meepo US...
+[17:26:54]     3.7/5, 367 reviews, 20 scraped
+[17:26:56]   [3/57] Exway Global...
+[17:27:01]     2.6/5, 79 reviews, 20 scraped
+[17:27:03]   [4/57] Exway USA...
+[17:27:08]     2.6/5, 9 reviews, 8 scraped
+[17:27:10]   [5/57] Backfire Global...
+[17:27:16]     3.2/5, 19 reviews, 17 scraped
+[17:27:18]   [6/57] Backfire USA...
+[17:27:24]     4.2/5, 19 reviews, 17 scraped
+[17:27:26]   [7/57] Maxfind...
+[17:27:31]     3.9/5, 136 reviews, 20 scraped
+[17:27:33]   [8/57] Evolve AU...
+[17:27:39]     2.6/5, 156 reviews, 20 scraped
+[17:27:41]   [9/57] Evolve UK...
+[17:27:47]     2.2/5, 15 reviews, 15 scraped
+[17:27:49]   [10/57] Evolve USA...
+[17:27:54]     2.1/5, 14 reviews, 13 scraped
+[17:27:56]   [11/57] Tynee...
+[17:28:02]     4.8/5, 125 reviews, 20 scraped
+[17:28:04]   [12/57] Ownboard...
+[17:28:10]     4.4/5, 32 reviews, 20 scraped
+[17:28:12]   [13/57] Kukirin Global...
+[17:28:17]     4.2/5, 95 reviews, 20 scraped
+[17:28:19]   [14/57] Kukirin Scooter...
+[17:28:25]     3.0/5, 475 reviews, 20 scraped
+[17:28:27]   [15/57] Kukirin ES...
+[17:28:33]     3.0/5, 77 reviews, 2 scraped
+[17:28:35]   [16/57] Kukirin Polska...
+[17:28:41]     4.8/5, 42 reviews, 20 scraped
+[17:28:43]   [17/57] Kukirin Danmark...
+[17:28:48]     4.8/5, 75 reviews, 2 scraped
+[17:28:50]   [18/57] Kukirin Escooter...
+[17:28:55]     4.6/5, 413 reviews, 20 scraped
+[17:28:57]   [19/57] KuKirin Italy...
+[17:29:03]     4.6/5, 35 reviews, 20 scraped
+[17:29:05]   [20/57] Kukirin Escooters...
+[17:29:10]     4.5/5, 148 reviews, 20 scraped
+[17:29:12]   [21/57] Kukirin IT...
+[17:29:17]     4.4/5, 19 reviews, 3 scraped
+[17:29:19]   [22/57] Kukirin Officiel...
+[17:29:25]     3.6/5, 20 reviews, 1 scraped
+[17:29:27]   [23/57] Kugoo Escooters...
+[17:29:32]     3.7/5, 1267 reviews, 20 scraped
+[17:29:34]   [24/57] Kugoo Spain...
+[17:29:41]     1.7/5, 304 reviews, 6 scraped
+[17:29:43]   [25/57] Kugoo Scooter...
+[17:29:48]     1.4/5, 189 reviews, 20 scraped
+[17:29:50]   [26/57] Kugoo EU...
+[17:29:56]     3.5/5, 78 reviews, 20 scraped
+[17:29:58]   [27/57] Kugoo Kukirin UK...
+[17:30:03]     4.0/5, 26 reviews, 20 scraped
+[17:30:05]   [28/57] Kugoo Scooter UK...
+[17:30:11]     1.8/5, 19 reviews, 19 scraped
+[17:30:13]   [29/57] Kugoo Kiri EU...
+[17:30:18]     2.7/5, 15 reviews, 7 scraped
+[17:30:20]   [30/57] Kugoo Escooter...
+[17:30:25]     3.9/5, 14 reviews, 13 scraped
+[17:30:27]   [31/57] Kukirin Escooter EU...
+[17:30:33]     4.3/5, 7 reviews, 3 scraped
+[17:30:35]   [32/57] Kukirin Trottinette...
+[17:30:40]     4.0/5, 4 reviews, 4 scraped
+[17:30:42]   [33/57] Kukirin Escooter UK...
+[17:30:47]     4.0/5, 4 reviews, 4 scraped
+[17:30:49]   [34/57] Kukirin SE...
+[17:30:55]     3.6/5, 3 reviews, 3 scraped
+[17:30:57]   [35/57] Kukirin EU...
+[17:31:02]     3.8/5, 2 reviews, 2 scraped
+[17:31:04]   [36/57] Kukirin PT...
+[17:31:09]     2.9/5, 2 reviews, 2 scraped
+[17:31:11]   [37/57] Kukirin CA...
+[17:31:16]     3.7/5, 1 reviews, 1 scraped
+[17:31:18]   [38/57] Kukirin COM...
+[17:31:24]     3.2/5, 1 reviews, 1 scraped
+[17:31:26]   [39/57] Kukirin EU Site...
+[17:31:31]     3.6/5, 1 reviews, 1 scraped
+[17:31:33]   [40/57] Kukirin Scooter EU...
+[17:31:38]     3.2/5, 1 reviews, 1 scraped
+[17:31:40]   [41/57] Kukirin Italy Site...
+[17:31:46]     4.4/5, 12 reviews, 12 scraped
+[17:31:48]   [42/57] Kukirin Geneve...
+[17:31:54]     No data extracted
+[17:31:54]   [43/57] Kukirin Hrvatska...
+[17:31:59]     No data extracted
+[17:31:59]   [44/57] Kukirin PL...
+[17:32:05]     No data extracted
+[17:32:05]   [45/57] Kukirin RO...
+[17:32:10]     No data extracted
+[17:32:10]   [46/57] Kukirin EscooterEU...
+[17:32:15]     No data extracted
+[17:32:15]   [47/57] Kukirin Prime...
+[17:32:21]     No data extracted
+[17:32:21]   [48/57] Kukirin ScooterEU...
+[17:32:26]     No data extracted
+[17:32:26]   [49/57] Kukirin Official...
+[17:32:31]     No data extracted
+[17:32:31]   [50/57] Kugoo Escooter Site...
+[17:32:36]     3.5/5, 8 reviews, 3 scraped
+[17:32:38]   [51/57] Kugoo France...
+[17:32:44]     3.8/5, 3 reviews, 3 scraped
+[17:32:46]   [52/57] Kugoo Officiel...
+[17:32:51]     2.9/5, 2 reviews, 2 scraped
+[17:32:53]   [53/57] Kugoo Ireland...
+[17:32:58]     3.2/5, 1 reviews, 1 scraped
+[17:33:00]   [54/57] Kugoo USA...
+[17:33:05]     3.2/5, 1 reviews, 1 scraped
+[17:33:07]   [55/57] Kugoo Scooter UK COM...
+[17:33:12]     3.7/5, 1 reviews, 1 scraped
+[17:33:14]   [56/57] Kugoo Italy...
+[17:33:20]     No data extracted
+[17:33:20]   [57/57] Kugoo Kukirin...
+[17:33:26]     No data extracted
+[17:33:26] Scrape done: 491 reviews total, $0.00 cost, 10 failed
+[17:33:26] [2/4] Fetching complete.
+[17:33:26] [3/4] Aggregating brand stats...
+[17:33:26]   Meepo EU: 3.3/5 (3 reviews) [yellow] | themes: +1/-1
+[17:33:26]   Meepo US: 4.2/5 (20 reviews) [green] | themes: +4/-4
+[17:33:26]   Exway Global: 1.4/5 (20 reviews) [red] | themes: +4/-4
+[17:33:26]   Exway USA: 3.4/5 (8 reviews) [yellow] | themes: +4/-2
+[17:33:26]   Backfire Global: 3.0/5 (17 reviews) [yellow] | themes: +4/-4
+[17:33:26]   Backfire USA: 4.0/5 (17 reviews) [green] | themes: +4/-4
+[17:33:26]   Maxfind: 4.3/5 (20 reviews) [green] | themes: +4/-4
+[17:33:26]   Evolve AU: 2.0/5 (20 reviews) [red] | themes: +4/-4
+[17:33:26]   Evolve UK: 2.9/5 (15 reviews) [red] | themes: +4/-4
+[17:33:26]   Evolve USA: 4.0/5 (13 reviews) [green] | themes: +4/-4
+[17:33:26]   Tynee: 4.8/5 (20 reviews) [green] | themes: +4/-2
+[17:33:26]   Ownboard: 1.8/5 (20 reviews) [red] | themes: +4/-4
+[17:33:26]   Kukirin Global: 4.4/5 (20 reviews) [green] | themes: +4/-2
+[17:33:26]   Kukirin Scooter: 3.1/5 (20 reviews) [yellow] | themes: +4/-4
+[17:33:26]   Kukirin ES: 3.0/5 (2 reviews) [yellow] | themes: +0/-0
+[17:33:26]   Kukirin Polska: 5.0/5 (20 reviews) [green] | themes: +1/-0
+[17:33:26]   Kukirin Danmark: 3.0/5 (2 reviews) [yellow] | themes: +1/-0
+[17:33:26]   Kukirin Escooter: 4.3/5 (20 reviews) [green] | themes: +4/-1
+[17:33:26]   KuKirin Italy: 4.9/5 (20 reviews) [green] | themes: +0/-0
+[17:33:26]   Kukirin Escooters: 4.5/5 (20 reviews) [green] | themes: +4/-1
+[17:33:26]   Kukirin IT: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[17:33:26]   Kukirin Officiel: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:33:26]   Kugoo Escooters: 3.1/5 (20 reviews) [yellow] | themes: +3/-4
+[17:33:26]   Kugoo Spain: 2.7/5 (6 reviews) [red] | themes: +4/-1
+[17:33:26]   Kugoo Scooter: 1.2/5 (20 reviews) [red] | themes: +4/-4
+[17:33:26]   Kugoo EU: 4.0/5 (20 reviews) [green] | themes: +4/-3
+[17:33:26]   Kugoo Kukirin UK: 4.4/5 (20 reviews) [green] | themes: +4/-1
+[17:33:26]   Kugoo Scooter UK: 1.5/5 (19 reviews) [red] | themes: +4/-3
+[17:33:26]   Kugoo Kiri EU: 2.9/5 (7 reviews) [red] | themes: +2/-0
+[17:33:26]   Kugoo Escooter: 4.4/5 (13 reviews) [green] | themes: +4/-3
+[17:33:26]   Kukirin Escooter EU: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[17:33:26]   Kukirin Trottinette: 5.0/5 (4 reviews) [green] | themes: +1/-0
+[17:33:26]   Kukirin Escooter UK: 4.8/5 (4 reviews) [green] | themes: +4/-0
+[17:33:26]   Kukirin SE: 3.7/5 (3 reviews) [yellow] | themes: +0/-0
+[17:33:26]   Kukirin EU: 5.0/5 (2 reviews) [green] | themes: +4/-0
+[17:33:26]   Kukirin PT: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[17:33:26]   Kukirin CA: 5.0/5 (1 reviews) [green] | themes: +0/-0
+[17:33:26]   Kukirin COM: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:33:26]   Kukirin EU Site: 4.0/5 (1 reviews) [green] | themes: +0/-0
+[17:33:26]   Kukirin Scooter EU: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:33:26]   Kukirin Italy Site: 5.0/5 (12 reviews) [green] | themes: +1/-0
+[17:33:26]   Kukirin Geneve: skipped (no data)
+[17:33:26]   Kukirin Hrvatska: skipped (no data)
+[17:33:26]   Kukirin PL: skipped (no data)
+[17:33:26]   Kukirin RO: skipped (no data)
+[17:33:26]   Kukirin EscooterEU: skipped (no data)
+[17:33:26]   Kukirin Prime: skipped (no data)
+[17:33:26]   Kukirin ScooterEU: skipped (no data)
+[17:33:26]   Kukirin Official: skipped (no data)
+[17:33:26]   Kugoo Escooter Site: 5.0/5 (3 reviews) [green] | themes: +2/-1
+[17:33:26]   Kugoo France: 3.3/5 (3 reviews) [yellow] | themes: +0/-0
+[17:33:26]   Kugoo Officiel: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[17:33:26]   Kugoo Ireland: 1.0/5 (1 reviews) [red] | themes: +4/-1
+[17:33:26]   Kugoo USA: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:33:26]   Kugoo Scooter UK COM: 5.0/5 (1 reviews) [green] | themes: +1/-0
+[17:33:26]   Kugoo Italy: skipped (no data)
+[17:33:26]   Kugoo Kukirin: skipped (no data)
+[17:33:26] Aggregated 47/57 brands
+[17:33:26] Saved 491 review samples to 2026-06-15-reviews.json
+[17:33:26] [4/4] Merging & deploying...
+[17:33:26] Merged deep analysis from: 2026-06-15.json
+[17:33:26] JSON: D:\Ai\Trustpilot\trustpilot-voc\2026-06-15.json
+[17:33:26] Upgrade recommended: 风险品牌评分在2.0-3.5区间: Exway USA(3.4), Backfire Global(3.0), Evolve AU(2.0)
+[17:33:26] Injected fresh data into index.html
+[17:33:26] Reddit data: 2026-06-15-reddit.json → reddit.json
+[17:33:26] Vercel CLI: 54.7.1
+[17:33:26] Deploying to Vercel...
+[17:36:16] === Trustpilot VOC Auto-Scan 2026-06-15 ===
+[17:36:16] Focus: meepoboard-eu.com, 57 brands across 57 URLs
+[17:36:16] [1/4] Direct browser scraping...
+[17:36:16] Launching browser (undetected-chromedriver)...
+[17:36:28]   [1/57] meepoboard-eu.com...
+[17:37:00]     3.6/5, 5 reviews, 3 scraped
+[17:37:02]   [2/57] meepoboard.com...
+[17:37:15]     3.7/5, 367 reviews, 20 scraped
+[17:37:17]   [3/57] exwayboard.com...
+[17:37:23]     2.6/5, 79 reviews, 20 scraped
+[17:37:25]   [4/57] exwayboardusa.com...
+[17:37:30]     2.6/5, 9 reviews, 8 scraped
+[17:37:32]   [5/57] backfireboards.com...
+[17:37:37]     3.2/5, 19 reviews, 17 scraped
+[17:37:39]   [6/57] backfireboardsusa.com...
+[17:37:44]     4.2/5, 19 reviews, 17 scraped
+[17:37:46]   [7/57] maxfind.com...
+[17:37:52]     3.9/5, 136 reviews, 20 scraped
+[17:37:54]   [8/57] evolveskateboards.com.au...
+[17:37:59]     2.6/5, 156 reviews, 20 scraped
+[17:38:01]   [9/57] evolveskateboardsuk.co.uk...
+[17:38:06]     2.2/5, 15 reviews, 15 scraped
+[17:38:08]   [10/57] evolveskateboardsusa.com...
+[17:38:13]     2.1/5, 14 reviews, 13 scraped
+[17:38:15]   [11/57] tyneeboard.com...
+[17:38:20]     4.8/5, 125 reviews, 20 scraped
+[17:38:22]   [12/57] ownboard.net...
+[17:38:28]     4.4/5, 32 reviews, 20 scraped
+[17:38:30]   [13/57] kukiringlobal.com...
+[17:38:34]     4.2/5, 95 reviews, 20 scraped
+[17:38:36]   [14/57] kukirin-scooter.com...
+[17:38:42]     3.0/5, 475 reviews, 20 scraped
+[17:38:44]   [15/57] kukirin.es...
+[17:38:48]     3.0/5, 77 reviews, 2 scraped
+[17:38:50]   [16/57] kukirin-scooter.pl...
+[17:38:55]     4.8/5, 42 reviews, 20 scraped
+[17:38:57]   [17/57] spelling.dk...
+[17:39:02]     4.8/5, 75 reviews, 2 scraped
+[17:39:04]   [18/57] kukirin-escooter.com...
+[17:39:09]     4.6/5, 413 reviews, 20 scraped
+[17:39:11]   [19/57] ku-kirin.it...
+[17:39:17]     4.6/5, 35 reviews, 20 scraped
+[17:39:19]   [20/57] kukirin-escooters.com...
+[17:39:24]     4.5/5, 148 reviews, 20 scraped
+[17:39:26]   [21/57] kukirin-it.com...
+[17:39:31]     4.4/5, 19 reviews, 3 scraped
+[17:39:33]   [22/57] kukirin-officiel.com...
+[17:39:38]     3.6/5, 20 reviews, 1 scraped
+[17:39:40]   [23/57] kugooescooters.com...
+[17:39:44]     3.7/5, 1267 reviews, 20 scraped
+[17:39:46]   [24/57] kugoo-spain.com...
+[17:39:51]     1.7/5, 304 reviews, 6 scraped
+[17:39:53]   [25/57] kugoo-scooter.com...
+[17:39:59]     1.4/5, 189 reviews, 20 scraped
+[17:40:01]   [26/57] kugoo.eu...
+[17:40:06]     3.5/5, 78 reviews, 20 scraped
+[17:40:08]   [27/57] officialkugookukirin.co.uk...
+[17:40:13]     4.0/5, 26 reviews, 20 scraped
+[17:40:15]   [28/57] kugooscooter.uk...
+[17:40:20]     1.8/5, 19 reviews, 19 scraped
+[17:40:22]   [29/57] kugookirineu.com...
+[17:40:26]     2.7/5, 15 reviews, 7 scraped
+[17:40:28]   [30/57] kugoo-escooter.com...
+[17:40:33]     3.9/5, 14 reviews, 13 scraped
+[17:40:35]   [31/57] kukirin-escooter.eu...
+[17:40:40]     4.3/5, 7 reviews, 3 scraped
+[17:40:42]   [32/57] kukirintrottinette.com...
+[17:40:47]     4.0/5, 4 reviews, 4 scraped
+[17:40:49]   [33/57] kukirinescooter.co.uk...
+[17:40:53]     4.0/5, 4 reviews, 4 scraped
+[17:40:55]   [34/57] kukirin.se...
+[17:41:00]     3.6/5, 3 reviews, 3 scraped
+[17:41:02]   [35/57] kukirin.eu...
+[17:41:07]     3.8/5, 2 reviews, 2 scraped
+[17:41:09]   [36/57] kukirin.pt...
+[17:41:14]     2.9/5, 2 reviews, 2 scraped
+[17:41:16]   [37/57] kukirin.ca...
+[17:41:21]     3.7/5, 1 reviews, 1 scraped
+[17:41:23]   [38/57] kukirin.com...
+[17:41:28]     3.2/5, 1 reviews, 1 scraped
+[17:41:30]   [39/57] kukirin-eu.com...
+[17:41:35]     3.6/5, 1 reviews, 1 scraped
+[17:41:37]   [40/57] kukirinscooter.eu...
+[17:41:42]     3.2/5, 1 reviews, 1 scraped
+[17:41:44]   [41/57] kukirin-italy.com...
+[17:41:48]     4.4/5, 12 reviews, 12 scraped
+[17:41:50]   [42/57] kukirin-geneve.ch...
+[17:41:55]     No data extracted
+[17:41:55]   [43/57] kukirin-hrvatska.com...
+[17:42:00]     No data extracted
+[17:42:00]   [44/57] kukirinpl.com...
+[17:42:04]     No data extracted
+[17:42:04]   [45/57] kukirinro.com...
+[17:42:09]     No data extracted
+[17:42:09]   [46/57] kukirinescootereu.com...
+[17:42:14]     No data extracted
+[17:42:14]   [47/57] kukirinprime.com...
+[17:42:19]     No data extracted
+[17:42:19]   [48/57] kukirinscooter-eu.com...
+[17:42:24]     No data extracted
+[17:42:24]   [49/57] kukirinofficial.com...
+[17:42:28]     No data extracted
+[17:42:28]   [50/57] kugooescooter.com...
+[17:42:35]     3.5/5, 8 reviews, 3 scraped
+[17:42:37]   [51/57] kugoofrance.com...
+[17:42:42]     3.8/5, 3 reviews, 3 scraped
+[17:42:44]   [52/57] kugoo-officiel.com...
+[17:42:49]     2.9/5, 2 reviews, 2 scraped
+[17:42:51]   [53/57] kugoo-ireland.com...
+[17:42:56]     3.2/5, 1 reviews, 1 scraped
+[17:42:58]   [54/57] kugoousa.com...
+[17:43:03]     3.2/5, 1 reviews, 1 scraped
+[17:43:05]   [55/57] kugooscooter-uk.com...
+[17:43:10]     3.7/5, 1 reviews, 1 scraped
+[17:43:12]   [56/57] kugooitaly.com...
+[17:43:18]     No data extracted
+[17:43:18]   [57/57] kugookukirin.com...
+[17:43:23]     No data extracted
+[17:43:23] Scrape done: 491 reviews total, $0.00 cost, 10 failed
+[17:43:23] [2/4] Fetching complete.
+[17:43:23] [3/4] Aggregating brand stats...
+[17:43:23]   meepoboard-eu.com: 3.3/5 (3 reviews) [yellow] | themes: +1/-1
+[17:43:23]   meepoboard.com: 4.2/5 (20 reviews) [green] | themes: +4/-4
+[17:43:23]   exwayboard.com: 1.4/5 (20 reviews) [red] | themes: +4/-4
+[17:43:23]   exwayboardusa.com: 3.4/5 (8 reviews) [yellow] | themes: +4/-2
+[17:43:23]   backfireboards.com: 3.0/5 (17 reviews) [yellow] | themes: +4/-4
+[17:43:23]   backfireboardsusa.com: 4.0/5 (17 reviews) [green] | themes: +4/-4
+[17:43:23]   maxfind.com: 4.3/5 (20 reviews) [green] | themes: +4/-4
+[17:43:23]   evolveskateboards.com.au: 2.0/5 (20 reviews) [red] | themes: +4/-4
+[17:43:23]   evolveskateboardsuk.co.uk: 2.9/5 (15 reviews) [red] | themes: +4/-4
+[17:43:23]   evolveskateboardsusa.com: 4.0/5 (13 reviews) [green] | themes: +4/-4
+[17:43:23]   tyneeboard.com: 4.8/5 (20 reviews) [green] | themes: +4/-2
+[17:43:23]   ownboard.net: 1.8/5 (20 reviews) [red] | themes: +4/-4
+[17:43:23]   kukiringlobal.com: 4.4/5 (20 reviews) [green] | themes: +4/-2
+[17:43:23]   kukirin-scooter.com: 3.1/5 (20 reviews) [yellow] | themes: +4/-4
+[17:43:23]   kukirin.es: 3.0/5 (2 reviews) [yellow] | themes: +0/-0
+[17:43:23]   kukirin-scooter.pl: 5.0/5 (20 reviews) [green] | themes: +1/-0
+[17:43:23]   spelling.dk: 3.0/5 (2 reviews) [yellow] | themes: +1/-0
+[17:43:23]   kukirin-escooter.com: 4.3/5 (20 reviews) [green] | themes: +4/-1
+[17:43:23]   ku-kirin.it: 4.9/5 (20 reviews) [green] | themes: +0/-0
+[17:43:23]   kukirin-escooters.com: 4.5/5 (20 reviews) [green] | themes: +4/-1
+[17:43:23]   kukirin-it.com: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[17:43:23]   kukirin-officiel.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:43:23]   kugooescooters.com: 3.1/5 (20 reviews) [yellow] | themes: +3/-4
+[17:43:23]   kugoo-spain.com: 2.7/5 (6 reviews) [red] | themes: +4/-1
+[17:43:23]   kugoo-scooter.com: 1.2/5 (20 reviews) [red] | themes: +4/-4
+[17:43:23]   kugoo.eu: 4.0/5 (20 reviews) [green] | themes: +4/-3
+[17:43:23]   officialkugookukirin.co.uk: 4.4/5 (20 reviews) [green] | themes: +4/-1
+[17:43:23]   kugooscooter.uk: 1.5/5 (19 reviews) [red] | themes: +4/-3
+[17:43:23]   kugookirineu.com: 2.9/5 (7 reviews) [red] | themes: +2/-0
+[17:43:23]   kugoo-escooter.com: 4.4/5 (13 reviews) [green] | themes: +4/-3
+[17:43:23]   kukirin-escooter.eu: 5.0/5 (3 reviews) [green] | themes: +1/-0
+[17:43:23]   kukirintrottinette.com: 5.0/5 (4 reviews) [green] | themes: +1/-0
+[17:43:23]   kukirinescooter.co.uk: 4.8/5 (4 reviews) [green] | themes: +4/-0
+[17:43:23]   kukirin.se: 3.7/5 (3 reviews) [yellow] | themes: +0/-0
+[17:43:23]   kukirin.eu: 5.0/5 (2 reviews) [green] | themes: +4/-0
+[17:43:23]   kukirin.pt: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[17:43:23]   kukirin.ca: 5.0/5 (1 reviews) [green] | themes: +0/-0
+[17:43:23]   kukirin.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:43:23]   kukirin-eu.com: 4.0/5 (1 reviews) [green] | themes: +0/-0
+[17:43:23]   kukirinscooter.eu: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:43:23]   kukirin-italy.com: 5.0/5 (12 reviews) [green] | themes: +1/-0
+[17:43:23]   kukirin-geneve.ch: skipped (no data)
+[17:43:23]   kukirin-hrvatska.com: skipped (no data)
+[17:43:23]   kukirinpl.com: skipped (no data)
+[17:43:23]   kukirinro.com: skipped (no data)
+[17:43:23]   kukirinescootereu.com: skipped (no data)
+[17:43:23]   kukirinprime.com: skipped (no data)
+[17:43:23]   kukirinscooter-eu.com: skipped (no data)
+[17:43:23]   kukirinofficial.com: skipped (no data)
+[17:43:23]   kugooescooter.com: 5.0/5 (3 reviews) [green] | themes: +2/-1
+[17:43:23]   kugoofrance.com: 3.3/5 (3 reviews) [yellow] | themes: +0/-0
+[17:43:23]   kugoo-officiel.com: 1.0/5 (2 reviews) [red] | themes: +0/-0
+[17:43:23]   kugoo-ireland.com: 1.0/5 (1 reviews) [red] | themes: +4/-1
+[17:43:23]   kugoousa.com: 1.0/5 (1 reviews) [red] | themes: +0/-0
+[17:43:23]   kugooscooter-uk.com: 5.0/5 (1 reviews) [green] | themes: +1/-0
+[17:43:23]   kugooitaly.com: skipped (no data)
+[17:43:23]   kugookukirin.com: skipped (no data)
+[17:43:23] Aggregated 47/57 brands
+[17:43:23] Saved 491 review samples to 2026-06-15-reviews.json
+[17:43:23] [4/4] Merging & deploying...
+[17:43:23] Merged deep analysis from: 2026-06-15.json
+[17:43:23] JSON: d:\Ai\Trustpilot\trustpilot-voc\2026-06-15.json
+[17:43:23] Upgrade recommended: 风险品牌评分在2.0-3.5区间: exwayboardusa.com(3.4), backfireboards.com(3.0), evolveskateboards.com.au(2.0)
+[17:43:23] Injected fresh data into index.html
+[17:43:23] Reddit data: 2026-06-15-reddit.json → reddit.json
+[17:43:23] Vercel CLI: 54.7.1
+[17:43:23] Deploying to Vercel...
+[17:43:38] "url": "https://trustpilot-iyjcfboot-email-marketing.vercel.app",
+[17:43:38] "message": "Deployment trustpilot-iyjcfboot-email-marketing.vercel.app ready.",
+[17:43:38] "command": "vercel inspect trustpilot-iyjcfboot-email-marketing.vercel.app",
+[17:43:38] Vercel deploy complete.
+[17:43:38] === Done ===
+[17:43:38] URL: https://trustpilot-voc.vercel.app
